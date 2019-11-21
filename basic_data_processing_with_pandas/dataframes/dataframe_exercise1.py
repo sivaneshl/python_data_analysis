@@ -1,3 +1,5 @@
+import pandas as pd
+
 purchase_1 = pd.Series({'Name': 'Chris',
                         'Item Purchased': 'Dog Food',
                         'Cost': 22.50})
@@ -11,4 +13,4 @@ purchase_3 = pd.Series({'Name': 'Vinod',
 df = pd.DataFrame([purchase_1, purchase_2, purchase_3], index=['Store 1', 'Store 1', 'Store 2'])
 
 
-print(df['Name']['Cost']>3)
+print(df['Name'][df['Cost']>3])
