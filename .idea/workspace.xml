@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2359d117-368d-4b39-8789-ebc347835e74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/basic_data_processing_with_pandas/assignment2/assignment2.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced_python_pandas/merging_dataframes/add_new_columns.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced_python_pandas/merging_dataframes/merging_dataframe1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced_python_pandas/merging_dataframes/merging_dataframes_exercise1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced_python_pandas/pandas_idioms/apply_method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced_python_pandas/pandas_idioms/method_chaining.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_data_processing_with_pandas/assignment2/assignment2.0.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_data_processing_with_pandas/assignment2/assignment2.0.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_data_processing_with_pandas/assignment2/assignment2.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_data_processing_with_pandas/assignment2/assignment2.1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,28 +33,29 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="csv" value="2" />
-          <entry key="py" value="43" />
+          <entry key="py" value="55" />
           <entry key="python_objects" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="44" />
+          <entry key="Python" value="56" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="747" />
           <entry key="csv" value="1" />
-          <entry key="py" value="23494" />
+          <entry key="py" value="26151" />
           <entry key="python_objects" value="358" />
+          <entry key="txt" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="24599" />
+          <entry key="PLAIN_TEXT" value="28" />
+          <entry key="Python" value="27256" />
         </counts>
       </usages-collector>
     </session>
@@ -58,44 +65,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/basic_data_processing_with_pandas/dataframes/dataframes1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
+            <state relative-caret-position="17">
+              <caret line="45" column="34" selection-start-line="45" selection-start-column="34" selection-end-line="45" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basic_data_processing_with_pandas/dataframes/dataframe_indexing_loading.py">
+        <entry file="file://$PROJECT_DIR$/basic_data_processing_with_pandas/series_datastructure/series_datastructure1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="28" column="16" lean-forward="true" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basic_data_processing_with_pandas/dataframes/dataframe_exercise1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basic_data_processing_with_pandas/dataframes/indexing_dataframes.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basic_data_processing_with_pandas/dataframes/dataframe_exercise2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+            <state relative-caret-position="206">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -103,44 +86,75 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/basic_data_processing_with_pandas/missing_values/missing_values.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+            <state relative-caret-position="265">
+              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basic_data_processing_with_pandas/assignment2/assignment2.0.py">
+        <entry file="file://$PROJECT_DIR$/basic_data_processing_with_pandas/dataframes/indexing_dataframes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-708">
-              <caret line="2" column="70" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="70" />
+            <state relative-caret-position="34">
+              <caret line="2" column="47" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/advanced_python_pandas/merging_dataframes/merging_dataframe1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="142">
+              <caret line="54" column="15" selection-start-line="54" selection-start-column="15" selection-end-line="54" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basic_data_processing_with_pandas/assignment2/assignment2.1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="23" column="10" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/advanced_python_pandas/pandas_idioms/method_chaining.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="2" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/advanced_python_pandas/pandas_idioms/apply_method.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+                <marker date="1574539010796" expanded="true" signature="169:174" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/basic_data_processing_with_pandas/assignment2/assignment2.1.py">
+        <entry file="file://$PROJECT_DIR$/basic_data_processing_with_pandas/assignment2/assignment2.0.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+            <state relative-caret-position="197">
+              <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_fundamentals/lambda_functions/lambda1.py">
+        <entry file="file://$PROJECT_DIR$/advanced_python_pandas/merging_dataframes/merging_dataframes_exercise1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_fundamentals/lambda_functions/lambda_maps_exercise.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="248">
+              <caret line="18" column="98" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="98" />
             </state>
           </provider>
         </entry>
@@ -159,6 +173,9 @@
       <find>'</find>
       <find>48</find>
       <find>Texas</find>
+      <find>name</find>
+      <find>index</find>
+      <find>apply</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;</replace>
@@ -206,9 +223,14 @@
         <option value="$PROJECT_DIR$/basic_data_processing_with_pandas/dataframes/dataframe_exercise1.py" />
         <option value="$PROJECT_DIR$/basic_data_processing_with_pandas/dataframes/dataframe_exercise2.py" />
         <option value="$PROJECT_DIR$/basic_data_processing_with_pandas/missing_values/missing_values.py" />
-        <option value="$PROJECT_DIR$/basic_data_processing_with_pandas/assignment2/assignment2.0.py" />
         <option value="$PROJECT_DIR$/basic_data_processing_with_pandas/dataframes/indexing_dataframes.py" />
         <option value="$PROJECT_DIR$/basic_data_processing_with_pandas/assignment2/assignment2.1.py" />
+        <option value="$PROJECT_DIR$/advanced_python_pandas/merging_dataframes/add_new_columns.py" />
+        <option value="$PROJECT_DIR$/advanced_python_pandas/merging_dataframes/merging_dataframes_exercise1.py" />
+        <option value="$PROJECT_DIR$/advanced_python_pandas/merging_dataframes/merging_dataframe1.py" />
+        <option value="$PROJECT_DIR$/advanced_python_pandas/pandas_idioms/method_chaining.py" />
+        <option value="$PROJECT_DIR$/advanced_python_pandas/pandas_idioms/apply_method.py" />
+        <option value="$PROJECT_DIR$/basic_data_processing_with_pandas/assignment2/assignment2.0.py" />
       </list>
     </option>
   </component>
@@ -234,6 +256,17 @@
             <path>
               <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
+              <item name="advanced_python_pandas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
+              <item name="advanced_python_pandas" type="462c0819:PsiDirectoryNode" />
+              <item name="pandas_idioms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
               <item name="basic_data_processing_with_pandas" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -251,18 +284,8 @@
             <path>
               <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="python_fundamentals" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="python_fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="lambda_functions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="basic_data_processing_with_pandas" type="462c0819:PsiDirectoryNode" />
+              <item name="missing_values" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -296,7 +319,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.assignment2.1">
+  <component name="RunManager" selected="Python.assignment2.0">
+    <configuration name="apply_method" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_data_analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/advanced_python_pandas/pandas_idioms" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/advanced_python_pandas/pandas_idioms/apply_method.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="assignment2.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -318,7 +362,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="assignment2.1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="merging_dataframe1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -326,11 +370,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic_data_processing_with_pandas/assignment2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/advanced_python_pandas/merging_dataframes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic_data_processing_with_pandas/assignment2/assignment2.1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/advanced_python_pandas/merging_dataframes/merging_dataframe1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -339,7 +383,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dataframe_exercise2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="merging_dataframes_exercise1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -347,11 +391,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic_data_processing_with_pandas/dataframes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/advanced_python_pandas/merging_dataframes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic_data_processing_with_pandas/dataframes/dataframe_exercise2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/advanced_python_pandas/merging_dataframes/merging_dataframes_exercise1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -360,7 +404,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="indexing_dataframes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="method_chaining" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -368,32 +412,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic_data_processing_with_pandas/dataframes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/advanced_python_pandas/pandas_idioms" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic_data_processing_with_pandas/dataframes/indexing_dataframes.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="missing_values" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_data_analysis" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic_data_processing_with_pandas/missing_values" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic_data_processing_with_pandas/missing_values/missing_values.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/advanced_python_pandas/pandas_idioms/method_chaining.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -403,19 +426,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.indexing_dataframes" />
-      <item itemvalue="Python.dataframe_exercise2" />
-      <item itemvalue="Python.missing_values" />
+      <item itemvalue="Python.merging_dataframe1" />
+      <item itemvalue="Python.merging_dataframes_exercise1" />
+      <item itemvalue="Python.method_chaining" />
+      <item itemvalue="Python.apply_method" />
       <item itemvalue="Python.assignment2.0" />
-      <item itemvalue="Python.assignment2.1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.assignment2.1" />
         <item itemvalue="Python.assignment2.0" />
-        <item itemvalue="Python.missing_values" />
-        <item itemvalue="Python.dataframe_exercise2" />
-        <item itemvalue="Python.indexing_dataframes" />
+        <item itemvalue="Python.apply_method" />
+        <item itemvalue="Python.method_chaining" />
+        <item itemvalue="Python.merging_dataframe1" />
+        <item itemvalue="Python.merging_dataframes_exercise1" />
       </list>
     </recent_temporary>
   </component>
@@ -430,6 +453,14 @@
       <option name="presentableId" value="Default" />
       <updated>1572372114748</updated>
     </task>
+    <task id="LOCAL-00001" summary="week 2 - assignment 2.1">
+      <created>1574452448020</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574452448020</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -469,6 +500,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="week 2 - assignment 2.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 2 - assignment 2.1" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/python_fundamentals/python_types_sequences/slicing.py">
@@ -600,27 +635,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/basic_data_processing_with_pandas/series_datastructure/series_datastructure1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/basic_data_processing_with_pandas/series_datastructure/series_from_dict.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="8" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic_data_processing_with_pandas/series_datastructure/query_series1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -640,48 +658,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/basic_data_processing_with_pandas/dataframes/querying_dataframe.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="51" column="28" lean-forward="true" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic_data_processing_with_pandas/dataframes/dataframe_indexing_loading.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="28" column="16" lean-forward="true" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic_data_processing_with_pandas/dataframes/dataframes1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic_data_processing_with_pandas/dataframes/dataframe_exercise1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic_data_processing_with_pandas/missing_values/missing_values.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic_data_processing_with_pandas/assignment2/assignment2.0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-708">
-          <caret line="2" column="70" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/course1_downloads/census.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="106">
@@ -692,7 +668,7 @@
     <entry file="file://$PROJECT_DIR$/python_fundamentals/lambda_functions/lambda1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -705,22 +681,115 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/basic_data_processing_with_pandas/dataframes/dataframe_exercise2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        <state relative-caret-position="49">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced_python_pandas/merging_dataframes/add_new_columns.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_data_processing_with_pandas/dataframes/dataframe_exercise1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_data_processing_with_pandas/dataframes/querying_dataframe.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_data_processing_with_pandas/dataframes/dataframe_indexing_loading.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_data_processing_with_pandas/series_datastructure/query_series1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_data_processing_with_pandas/series_datastructure/series_datastructure1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_data_processing_with_pandas/missing_values/missing_values.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_data_processing_with_pandas/dataframes/dataframes1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="45" column="34" selection-start-line="45" selection-start-column="34" selection-end-line="45" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/basic_data_processing_with_pandas/dataframes/indexing_dataframes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+        <state relative-caret-position="34">
+          <caret line="2" column="47" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced_python_pandas/merging_dataframes/merging_dataframes_exercise1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="18" column="98" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced_python_pandas/merging_dataframes/merging_dataframe1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="54" column="15" selection-start-line="54" selection-start-column="15" selection-end-line="54" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/basic_data_processing_with_pandas/assignment2/assignment2.1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+        <state relative-caret-position="120">
+          <caret line="23" column="10" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced_python_pandas/pandas_idioms/method_chaining.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced_python_pandas/pandas_idioms/apply_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <marker date="1574539010796" expanded="true" signature="169:174" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_data_processing_with_pandas/assignment2/assignment2.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
         </state>
       </provider>
     </entry>

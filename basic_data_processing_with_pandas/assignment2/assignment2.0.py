@@ -42,9 +42,9 @@ print(df.nlargest(1, 'Gold_Diff').index.values[0])
 
 # Question 3 - Which country has the biggest difference between their summer gold medal counts and winter gold medal counts
 # relative to their total gold medal count? Only include countries that have won at least 1 gold in both summer and winter.
-df['Gold_Diff_Rel'] = ((df['Gold'] - df['Gold.1']) / ((df['Gold'] + df['Gold.1'])))
-has_gold = df[(df['Gold']>0) | (df['Gold.1']>0)]
-print(has_gold.nlargest(10, 'Gold_Diff_Rel').index.values[0])
+df['Gold_Diff_Rel'] = ((df['Gold'] - df['Gold.1']) / (df['Gold.2']))
+has_gold = df[(df['Gold']>0) & (df['Gold.1']>0)]
+print("Q3", has_gold.nlargest(10, 'Gold_Diff_Rel').index.values[0])
 
 
 # Question 4 - Write a function that creates a Series called "Points" which is a weighted value where each gold medal
@@ -52,3 +52,4 @@ print(has_gold.nlargest(10, 'Gold_Diff_Rel').index.values[0])
 # function should return only the column (a Series object) which you created, with the country names as indices.
 df['Points'] = (df['Gold.2']*3)+(df['Silver.2']*2)+(df['Bronze.2']*1)
 print(df.T.loc['Points'])
+

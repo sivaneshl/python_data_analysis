@@ -39,8 +39,18 @@ colunms_list = ['STATE','COUNTY','POPESTIMATE2010','POPESTIMATE2011','POPESTIMAT
 largest_change_df = census_df[census_df['SUMLEV']==50][colunms_list]
 largest_change_df['min'] = largest_change_df[colunms_list[2:]].min(axis=1)
 largest_change_df['max'] = largest_change_df[colunms_list[2:]].max(axis=1)
-largest_change_df['change'] = largest_change_df[max]-largest_change_df[min]
-county_idx=largest_change_df.nlargest(1,'change').index.values[0]
+largest_change_df['change'] = largest_change_df['max'] - largest_change_df['min']
+county_idx=largest_change_df.nlargest(3,'change').index.values[0]
 print(census_df.loc[county_idx,'CTYNAME'])
+# print(county_idx)
 
 
+# Question 8 - In this datafile, the United States is broken up into four regions using the "REGION" column
+# Create a query that finds the counties that belong to regions 1 or 2, whose name starts with 'Washington', and whose
+# POPESTIMATE2015 was greater than their POPESTIMATE2014. This function should return a 5x2 DataFrame with the columns
+# = ['STNAME', 'CTYNAME'] and the same index ID as the census_df (sorted ascending by index)
+reduced_df = census_df[(census_df['SUMLEV']==50) &
+                       ((census_df['REGION']==1) | (census_df['REGION']==2)) &
+                       (census_df['CTYNAME'].str.startswith('Washington')) &
+                       (census_df['POPESTIMATE2015']>census_df['POPESTIMATE2014'])][['STNAME', 'CTYNAME']]
+print(reduced_df)
