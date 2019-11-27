@@ -1,0 +1,7 @@
+id,age,gender,country,sales_year
+1,None,M,India,2016
+2,23,F,India,2016
+1,20,M,India,2015
+2,25,F,India,2015
+3,30,M,India,2019
+4,36,None,India,2019
