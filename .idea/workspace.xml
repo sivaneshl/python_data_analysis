@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2359d117-368d-4b39-8789-ebc347835e74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/statistical_analysis_in_python/assignment4/assignment4.0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statistical_analysis_in_python/distributions/distributions1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statistical_analysis_in_python/hypothesis_testing/hypothesis1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,13 +26,14 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="csv" value="3" />
+          <entry key="gitignore" value="1" />
           <entry key="py" value="82" />
           <entry key="python_objects" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="PLAIN_TEXT" value="4" />
           <entry key="Python" value="83" />
         </counts>
       </usages-collector>
@@ -43,14 +41,15 @@
         <counts>
           <entry key="Python Console" value="997" />
           <entry key="csv" value="31" />
+          <entry key="gitignore" value="30" />
           <entry key="py" value="40328" />
           <entry key="python_objects" value="358" />
-          <entry key="txt" value="53" />
+          <entry key="txt" value="59" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="84" />
+          <entry key="PLAIN_TEXT" value="120" />
           <entry key="Python" value="41683" />
         </counts>
       </usages-collector>
@@ -79,7 +78,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/statistical_analysis_in_python/assignment4/assignment4.0.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
@@ -87,6 +86,15 @@
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -119,15 +127,6 @@
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basic_data_processing_with_pandas/dataframes/dataframes1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="75" column="18" selection-start-line="75" selection-start-column="18" selection-end-line="75" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -212,7 +211,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/python_fundamentals/python_types_sequences/string_formattin.py" />
         <option value="$PROJECT_DIR$/python_fundamentals/resources/course1_downloads/mpg.csv" />
         <option value="$PROJECT_DIR$/python_fundamentals/csv_read_write/rw_csv.py" />
         <option value="$PROJECT_DIR$/python_fundamentals/dates_and_times/datetime.py" />
@@ -263,6 +261,7 @@
         <option value="$PROJECT_DIR$/statistical_analysis_in_python/distributions/distributions1.py" />
         <option value="$PROJECT_DIR$/statistical_analysis_in_python/hypothesis_testing/hypothesis1.py" />
         <option value="$PROJECT_DIR$/statistical_analysis_in_python/assignment4/assignment4.0.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -475,7 +474,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574706433357</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="week 4">
+      <created>1575021134552</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575021134552</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -519,12 +525,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="week 2 - assignment 2.1" />
     <MESSAGE value="week 3 assignment q1" />
-    <option name="LAST_COMMIT_MESSAGE" value="week 3 assignment q1" />
+    <MESSAGE value="week 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 4" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/python_fundamentals/objects_and_maps/python_objects.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/python_fundamentals/objects_and_maps/python_maps_exercise.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -882,6 +886,13 @@
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
