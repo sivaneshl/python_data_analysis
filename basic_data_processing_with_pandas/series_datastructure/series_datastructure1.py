@@ -15,9 +15,11 @@ print(numbers_series)
 # Underneath panda stores series values in a typed array using the Numpy library
 
 print(pd.Series(['Tiger', 'Bear', None]))
-# If we create a list of strings and we have one element, a None type, pandas inserts it as a None and uses the type object for the underlying array.
+# If we create a list of strings and we have one element, a None type, pandas inserts it as a None and uses the type
+# object for the underlying array.
 print(pd.Series([1, 2, None]))
-# If we create a list of numbers, integers or floats, and put in the None type, pandas automatically converts this to a special floating point value designated as NAN, which stands for not a number.
+# If we create a list of numbers, integers or floats, and put in the None type, pandas automatically converts this to a
+# special floating point value designated as NAN, which stands for not a number.
 
 
 # note that NaN is not None
