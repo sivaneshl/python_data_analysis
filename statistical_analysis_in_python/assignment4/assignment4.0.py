@@ -47,8 +47,8 @@ states = {'OH': 'Ohio', 'KY': 'Kentucky', 'AS': 'American Samoa', 'NV': 'Nevada'
 
 quarterly_gdp = pd.read_excel('C:/python_data_analysis/resources/course1_downloads/gdplev.xls',
                               skiprows=219,
-                              usecols=[4, 5, 6],
-                              names=['Quarter', 'current_gdp', 'gdp'])
+                              usecols=[4, 6],
+                              names=['Quarter', 'gdp'])
 
 
 def get_list_of_university_towns():
@@ -97,7 +97,7 @@ def get_recession_end():
     for i in range((quarterly_gdp[quarterly_gdp['Quarter'] == get_recession_start()].index.values[0]),
                    len(quarterly_gdp['gdp'])-2):
         if quarterly_gdp.loc[i, 'gdp'] < quarterly_gdp.loc[i + 1, 'gdp'] < quarterly_gdp.loc[i + 2, 'gdp']:
-            return quarterly_gdp.loc[i + 1, 'Quarter']
+            return quarterly_gdp.loc[i + 2, 'Quarter']
 
 
 def get_recession_bottom():
@@ -107,13 +107,26 @@ def get_recession_bottom():
     recession_bottom_df = quarterly_gdp[quarterly_gdp['Quarter'] == get_recession_end()]
     recession_bottom_value = recession_bottom_df['gdp'].values[0]
     recession_bottom_index = recession_bottom_df.index.values[0]
-    for i in range((quarterly_gdp[quarterly_gdp['Quarter'] == get_recession_start()].index.values[0]),
-                   (quarterly_gdp[quarterly_gdp['Quarter'] == get_recession_end()].index.values[0])):
-        if quarterly_gdp.loc[i, 'gdp'] < recession_bottom_value:
-            recession_bottom_value = quarterly_gdp.loc[i, 'gdp']
-            recession_bottom_index = i
 
-    return quarterly_gdp.loc[recession_bottom_index, 'Quarter']
+    # print((quarterly_gdp[quarterly_gdp['Quarter'] == get_recession_start()].index.values[0]),
+    #       (quarterly_gdp[quarterly_gdp['Quarter'] == get_recession_end()].index.values[0]))
+
+    # print(quarterly_gdp[34:38])
+    # print(quarterly_gdp[34:38]['gdp'].idxmin())
+    return (quarterly_gdp.loc[quarterly_gdp[
+                              (quarterly_gdp[quarterly_gdp['Quarter'] == get_recession_start()].index.values[0]):
+                              (quarterly_gdp[quarterly_gdp['Quarter'] == get_recession_end()].index.values[0])
+                              ]['gdp'].idxmin(),'Quarter'])
+
+    # for i in range((quarterly_gdp[quarterly_gdp['Quarter'] == get_recession_start()].index.values[0]),
+    #                (quarterly_gdp[quarterly_gdp['Quarter'] == get_recession_end()].index.values[0])):
+    #     if quarterly_gdp.loc[i, 'gdp'] < recession_bottom_value:
+    #         recession_bottom_value = quarterly_gdp.loc[i, 'gdp']
+    #         recession_bottom_index = i
+    #
+    #
+    # print(quarterly_gdp.loc[recession_bottom_index, 'Quarter'])
+    # return quarterly_gdp.loc[recession_bottom_index, 'Quarter']
 
 
 def convert_housing_data_to_quarters():
@@ -174,6 +187,100 @@ def convert_housing_data_to_quarters():
     return housing_df
 
 
+def run_ttest():
+    """First creates new data showing the decline or growth of housing prices
+    between the recession start and the recession bottom. Then runs a ttest
+    comparing the university town values to the non-university towns values,
+    return whether the alternative hypothesis (that the two groups are the same)
+    is true or not as well as the p-value of the confidence.
+
+    Return the tuple (different, p, better) where different=True if the t-test is
+    True at a p<0.01 (we reject the null hypothesis), or different=False if
+    otherwise (we cannot reject the null hypothesis). The variable p should
+    be equal to the exact p value returned from scipy.stats.ttest_ind(). The
+    value for better should be either "university town" or "non-university town"
+    depending on which has a lower mean price ratio (which is equivilent to a
+    reduced market loss)."""
+
+    housing_df = convert_housing_data_to_quarters()
+    # columns_list = list(housing_df.columns.values)
+    columns_list = ['2000q1', '2000q2', '2000q3', '2000q4', '2001q1', '2001q2', '2001q3', '2001q4', '2002q1', '2002q2', '2002q3', '2002q4', '2003q1', '2003q2', '2003q3', '2003q4', '2004q1', '2004q2', '2004q3', '2004q4', '2005q1', '2005q2', '2005q3', '2005q4', '2006q1', '2006q2', '2006q3', '2006q4', '2007q1', '2007q2', '2007q3', '2007q4', '2008q1', '2008q2', '2008q3', '2008q4', '2009q1', '2009q2', '2009q3', '2009q4', '2010q1', '2010q2', '2010q3', '2010q4', '2011q1', '2011q2', '2011q3', '2011q4', '2012q1', '2012q2', '2012q3', '2012q4', '2013q1', '2013q2', '2013q3', '2013q4', '2014q1', '2014q2', '2014q3', '2014q4', '2015q1', '2015q2', '2015q3', '2015q4', '2016q1', '2016q2', '2016q3']
+    # housing_df = housing_df[(housing_df.columns.values[columns_list.index(recession_start): columns_list.index(recession_bottom)+1])]
+    housing_df['price_ratio'] = housing_df[housing_df.columns.values[columns_list.index(get_recession_start())-1]]\
+        .div(housing_df[housing_df.columns.values[columns_list.index(get_recession_bottom())]])
+    # print(housing_df[[housing_df.columns.values[c
+    # olumns_list.index(recession_start)-1], # quarter before recession start
+    #                   housing_df.columns.values[columns_list.index(recession_bottom)],  # recession bottom
+    #                   'price_ratio']])
+
+    university_towns_df = get_list_of_university_towns()
+    # print(university_towns_df)
+
+    # merged_df = pd.merge(university_towns_df,
+    #                      housing_df.reset_index(),
+    #                      how='outer',
+    #                      on=['State', 'RegionName'],
+    #                      indicator='_flag')
+
+    uni_towns = university_towns_df['State']+university_towns_df['RegionName']
+    housing_df = housing_df.reset_index()
+    housing_df['_flag'] = housing_df.apply(lambda x: x['State']+x['RegionName'] in set(uni_towns), axis=1)
+
+    housing_df.drop_duplicates(keep=False)
+    university_towns_df.drop_duplicates(keep=False)
+
+    # univ_town_values = merged_df[merged_df['_flag']=='both']
+    # non_univ_town_values = merged_df[merged_df['_flag']!='both']
+    univ_town_values = housing_df[housing_df['_flag']==1]
+    non_univ_town_values = housing_df[housing_df['_flag']==0]
+
+    print(len(univ_town_values))
+    print(len(non_univ_town_values))
+
+
+    univ_town_mean_ratio = univ_town_values['price_ratio'].mean()
+    non_univ_town_mean_ratio = non_univ_town_values['price_ratio'].mean()
+
+    ttest_result = stats.ttest_ind(univ_town_values['price_ratio'],
+                                   non_univ_town_values['price_ratio'],
+                                   nan_policy='omit')
+    print(ttest_result, univ_town_mean_ratio, non_univ_town_mean_ratio)
+
+    different = ttest_result.pvalue < 0.01
+    print(univ_town_values['price_ratio'].mean() ,
+          non_univ_town_values['price_ratio'].mean() ,
+          (univ_town_values['price_ratio'].mean()  < non_univ_town_values['price_ratio'].mean() ))
+    if univ_town_mean_ratio < non_univ_town_mean_ratio:
+        better = "university town"
+    else:
+        better = "non-university town"
+
+    return (different, ttest_result.pvalue, better)
+
+# test output type (different, p, better)
+def test_q6():
+    q6 = run_ttest()
+    different, p, better = q6
+
+    res = 'Type test: '
+    res += ['Failed\n','Passed\n'][type(q6) == tuple]
+
+    res += 'Test "different" type: '
+    res += ['Failed\n','Passed\n'][type(different) == bool or type(different) == np.bool_]
+
+    res += 'Test "p" type: '
+    res += ['Failed\n','Passed\n'][type(p) == np.float64]
+
+    res +='Test "better" type: '
+    res += ['Failed\n','Passed\n'][type(better) == str]
+    if type(better) != str:
+        res +='"better" should be a string with value "university town" or  "non-university town"'
+        return res
+    res += 'Test "different" spelling: '
+    res += ['Failed\n','Passed\n'][better in ["university town", "non-university town"]]
+    return res
+
+
 get_list_of_university_towns()
 # print(df[df['State'] == 'Massachusetts'])
 
@@ -184,5 +291,8 @@ print('Recession End', recession_end)
 recession_bottom = get_recession_bottom()
 print('Recession Bottom', recession_bottom)
 
-convert_housing_data_to_quarters()
+# print(convert_housing_data_to_quarters())
 
+q6 = run_ttest()
+print(q6)
+print(test_q6())
