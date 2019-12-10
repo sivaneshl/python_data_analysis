@@ -14,6 +14,6 @@ tableB = pd.DataFrame([[1,'Tom','01/12/80','Chur'],
 # print(merge1)
 # print(merge1[['ID','Name','Birthday','Salary','Home']])
 
-join_table = tableA.merge(tableB[['ID','Home']], how = 'left', on =['ID'])
+join_table = tableA.merge(tableB[['ID','Home']], how = 'left', on =['ID']).drop_duplicates()
 print(join_table)
 
