@@ -5,117 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2359d117-368d-4b39-8789-ebc347835e74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/basic_plotting/plot1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/basic_plotting/plot2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/basic_plotting/plot3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/matplotlib_architecture/matplotlib1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/matplotlib_architecture/matplotlib2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/scatterplots/scatterplots1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/scatterplots/scatterplots2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/scatterplots/zip_and_unzip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/test33.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/test34.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/barcharts/barcharts1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/barcharts/horizontal_barchart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/barcharts/stack_barchart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/dejunkify_charts/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/lineplots/lineplots1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/lineplots/lineplots2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/test35.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/test36.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/test37.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/test37.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/test38.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/test39.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_python_pandas/assignment3/assignment3.0.py" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/advanced_python_pandas/assignment3/assignment3.0.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_python_pandas/date_functionality/pandas_date.py" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/advanced_python_pandas/date_functionality/pandas_date.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_python_pandas/group_by/groupby1.py" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/advanced_python_pandas/group_by/groupby1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_python_pandas/merging_dataframes/add_new_columns.py" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/advanced_python_pandas/merging_dataframes/add_new_columns.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_python_pandas/merging_dataframes/merging_dataframe1.py" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/advanced_python_pandas/merging_dataframes/merging_dataframe1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_python_pandas/merging_dataframes/merging_dataframes_exercise1.py" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/advanced_python_pandas/merging_dataframes/merging_dataframes_exercise1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_python_pandas/pandas_idioms/apply_method.py" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/advanced_python_pandas/pandas_idioms/apply_method.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_python_pandas/pandas_idioms/method_chaining.py" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/advanced_python_pandas/pandas_idioms/method_chaining.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_python_pandas/pivot_tables/pivot_table1.py" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/advanced_python_pandas/pivot_tables/pivot_table1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_python_pandas/scales/scales.py" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/advanced_python_pandas/scales/scales.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_python_pandas/scales/scales_cut.py" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/advanced_python_pandas/scales/scales_cut.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_python_pandas/scales/scales_exercise1.py" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/advanced_python_pandas/scales/scales_exercise1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_python_pandas/test_example.csv" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/advanced_python_pandas/test_example.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_python_pandas/test_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/advanced_python_pandas/test_example.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_data_processing_with_pandas/assignment2/assignment2.0.py" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/basic_data_processing_with_pandas/assignment2/assignment2.0.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_data_processing_with_pandas/assignment2/assignment2.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/basic_data_processing_with_pandas/assignment2/assignment2.1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_data_processing_with_pandas/dataframes/dataframe_exercise1.py" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/basic_data_processing_with_pandas/dataframes/dataframe_exercise1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_data_processing_with_pandas/dataframes/dataframe_exercise2.py" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/basic_data_processing_with_pandas/dataframes/dataframe_exercise2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_data_processing_with_pandas/dataframes/dataframe_indexing_loading.py" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/basic_data_processing_with_pandas/dataframes/dataframe_indexing_loading.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_data_processing_with_pandas/dataframes/dataframes1.py" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/basic_data_processing_with_pandas/dataframes/dataframes1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_data_processing_with_pandas/dataframes/indexing_dataframes.py" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/basic_data_processing_with_pandas/dataframes/indexing_dataframes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_data_processing_with_pandas/dataframes/querying_dataframe.py" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/basic_data_processing_with_pandas/dataframes/querying_dataframe.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_data_processing_with_pandas/missing_values/missing_values.py" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/basic_data_processing_with_pandas/missing_values/missing_values.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_data_processing_with_pandas/series_datastructure/broadcasting.py" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/basic_data_processing_with_pandas/series_datastructure/broadcasting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_data_processing_with_pandas/series_datastructure/query_series1.py" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/basic_data_processing_with_pandas/series_datastructure/query_series1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_data_processing_with_pandas/series_datastructure/series_append.py" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/basic_data_processing_with_pandas/series_datastructure/series_append.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_data_processing_with_pandas/series_datastructure/series_datastructure1.py" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/basic_data_processing_with_pandas/series_datastructure/series_datastructure1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_data_processing_with_pandas/series_datastructure/series_from_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/basic_data_processing_with_pandas/series_datastructure/series_from_dict.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_fundamentals/csv_read_write/rw_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/python_fundamentals/csv_read_write/rw_csv.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_fundamentals/dates_and_times/datesandtimes1.py" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/python_fundamentals/dates_and_times/datesandtimes1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_fundamentals/lambda_functions/lambda1.py" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/python_fundamentals/lambda_functions/lambda1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_fundamentals/lambda_functions/lambda_maps_exercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/python_fundamentals/lambda_functions/lambda_maps_exercise.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_fundamentals/list_comprehension/list_comp1.py" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/python_fundamentals/list_comprehension/list_comp1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_fundamentals/list_comprehension/list_comp_exercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/python_fundamentals/list_comprehension/list_comp_exercise.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_fundamentals/list_comprehension/list_comp_exercise2.py" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/python_fundamentals/list_comprehension/list_comp_exercise2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_fundamentals/more_on_strings/string_formattin.py" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/python_fundamentals/more_on_strings/string_formattin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_fundamentals/numpy_library/numpy_array.py" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/python_fundamentals/numpy_library/numpy_array.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_fundamentals/numpy_library/numpy_array_index_slicing.py" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/python_fundamentals/numpy_library/numpy_array_index_slicing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_fundamentals/numpy_library/numpy_array_iterations.py" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/python_fundamentals/numpy_library/numpy_array_iterations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_fundamentals/numpy_library/numpy_array_operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/python_fundamentals/numpy_library/numpy_array_operations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_fundamentals/objects_and_maps/python_maps.py" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/python_fundamentals/objects_and_maps/python_maps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_fundamentals/objects_and_maps/python_maps_exercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/python_fundamentals/objects_and_maps/python_maps_exercise.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_fundamentals/objects_and_maps/python_objects.py" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/python_fundamentals/objects_and_maps/python_objects.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_fundamentals/python_functions/functions_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/python_fundamentals/python_functions/functions_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_fundamentals/python_types_sequences/dict1.py" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/python_fundamentals/python_types_sequences/dict1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_fundamentals/python_types_sequences/slicing.py" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/python_fundamentals/python_types_sequences/slicing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_fundamentals/python_types_sequences/strings_slicing.py" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/python_fundamentals/python_types_sequences/strings_slicing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_fundamentals/python_types_sequences/tuples_and_lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/python_fundamentals/python_types_sequences/tuples_and_lists.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/26051202.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/resources/26051202.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/__MACOSX/._course1_downloads" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/resources/__MACOSX/._course1_downloads" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/__MACOSX/course1_downloads/._.DS_Store" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/resources/__MACOSX/course1_downloads/._.DS_Store" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/__MACOSX/course1_downloads/._Assignment 2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/resources/__MACOSX/course1_downloads/._Assignment 2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/__MACOSX/course1_downloads/._Assignment 3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/resources/__MACOSX/course1_downloads/._Assignment 3.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/__MACOSX/course1_downloads/._Assignment 4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/resources/__MACOSX/course1_downloads/._Assignment 4.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/__MACOSX/course1_downloads/._CO-EST2015-alldata.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/resources/__MACOSX/course1_downloads/._CO-EST2015-alldata.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/__MACOSX/course1_downloads/._City_Zhvi_AllHomes.csv" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/resources/__MACOSX/course1_downloads/._City_Zhvi_AllHomes.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/__MACOSX/course1_downloads/._Energy Indicators.xls" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/resources/__MACOSX/course1_downloads/._Energy Indicators.xls" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/__MACOSX/course1_downloads/._Week 1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/resources/__MACOSX/course1_downloads/._Week 1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/__MACOSX/course1_downloads/._Week 2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/resources/__MACOSX/course1_downloads/._Week 2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/__MACOSX/course1_downloads/._Week 3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/resources/__MACOSX/course1_downloads/._Week 3.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/__MACOSX/course1_downloads/._Week 4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/resources/__MACOSX/course1_downloads/._Week 4.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/__MACOSX/course1_downloads/._cars.csv" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/resources/__MACOSX/course1_downloads/._cars.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/__MACOSX/course1_downloads/._census.csv" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/resources/__MACOSX/course1_downloads/._census.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/__MACOSX/course1_downloads/._gdplev.xls" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/resources/__MACOSX/course1_downloads/._gdplev.xls" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/__MACOSX/course1_downloads/._grades.csv" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/resources/__MACOSX/course1_downloads/._grades.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/__MACOSX/course1_downloads/._log.csv" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/resources/__MACOSX/course1_downloads/._log.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/__MACOSX/course1_downloads/._log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/resources/__MACOSX/course1_downloads/._log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/__MACOSX/course1_downloads/._mpg.csv" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/resources/__MACOSX/course1_downloads/._mpg.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/__MACOSX/course1_downloads/._olympics.csv" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/resources/__MACOSX/course1_downloads/._olympics.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/__MACOSX/course1_downloads/._scimagojr-3.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/resources/__MACOSX/course1_downloads/._scimagojr-3.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/__MACOSX/course1_downloads/._university_towns.txt" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/resources/__MACOSX/course1_downloads/._university_towns.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/__MACOSX/course1_downloads/._world_bank.csv" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/resources/__MACOSX/course1_downloads/._world_bank.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/course1_downloads/Assignment 2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/resources/course1_downloads/Assignment 2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/course1_downloads/Assignment 3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/resources/course1_downloads/Assignment 3.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/course1_downloads/Assignment 4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/resources/course1_downloads/Assignment 4.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/course1_downloads/CO-EST2015-alldata.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/resources/course1_downloads/CO-EST2015-alldata.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/course1_downloads/City_Zhvi_AllHomes.csv" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/resources/course1_downloads/City_Zhvi_AllHomes.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/course1_downloads/Energy Indicators.xls" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/resources/course1_downloads/Energy Indicators.xls" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/course1_downloads/Week 1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/resources/course1_downloads/Week 1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/course1_downloads/Week 2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/resources/course1_downloads/Week 2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/course1_downloads/Week 3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/resources/course1_downloads/Week 3.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/course1_downloads/Week 4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/resources/course1_downloads/Week 4.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/course1_downloads/cars.csv" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/resources/course1_downloads/cars.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/course1_downloads/census.csv" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/resources/course1_downloads/census.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/course1_downloads/gdplev.xls" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/resources/course1_downloads/gdplev.xls" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/course1_downloads/grades.csv" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/resources/course1_downloads/grades.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/course1_downloads/log.csv" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/resources/course1_downloads/log.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/course1_downloads/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/resources/course1_downloads/log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/course1_downloads/mpg.csv" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/resources/course1_downloads/mpg.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/course1_downloads/olympics.csv" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/resources/course1_downloads/olympics.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/course1_downloads/scimagojr-3.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/resources/course1_downloads/scimagojr-3.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/course1_downloads/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/resources/course1_downloads/test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/course1_downloads/university_towns.txt" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/resources/course1_downloads/university_towns.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/course1_downloads/world_bank.csv" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/resources/course1_downloads/world_bank.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/how-long-will-it-last_50290a7755297_w1500.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/resources/how-long-will-it-last_50290a7755297_w1500.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stack/test32.py" beforeDir="false" afterPath="$PROJECT_DIR$/stack/test32.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/statistical_analysis_in_python/assignment4/assignment4.0.py" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/statistical_analysis_in_python/assignment4/assignment4.0.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/statistical_analysis_in_python/assignment4/assignment_q1_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/statistical_analysis_in_python/assignment4/assignment_q1_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/statistical_analysis_in_python/distributions/distributions1.py" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/statistical_analysis_in_python/distributions/distributions1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/statistical_analysis_in_python/hypothesis_testing/hypothesis1.py" beforeDir="false" afterPath="$PROJECT_DIR$/intro_data_science_python/statistical_analysis_in_python/hypothesis_testing/hypothesis1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stack/test31.py" beforeDir="false" afterPath="$PROJECT_DIR$/stack/test31.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -137,33 +40,33 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="csv" value="4" />
+          <entry key="csv" value="5" />
           <entry key="gitignore" value="1" />
-          <entry key="py" value="188" />
+          <entry key="py" value="206" />
           <entry key="python_objects" value="1" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="6" />
-          <entry key="Python" value="189" />
+          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="Python" value="207" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="2890" />
-          <entry key="csv" value="31" />
+          <entry key="csv" value="53" />
           <entry key="gitignore" value="30" />
-          <entry key="py" value="65189" />
+          <entry key="py" value="69432" />
           <entry key="python_objects" value="358" />
           <entry key="txt" value="101" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="162" />
-          <entry key="Python" value="68437" />
+          <entry key="PLAIN_TEXT" value="184" />
+          <entry key="Python" value="72680" />
         </counts>
       </usages-collector>
     </session>
@@ -171,40 +74,103 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stack/test33.py">
+        <entry file="file://$PROJECT_DIR$/stack/test39.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stack/test34.py">
+        <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/lineplots/lineplots1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+            <state relative-caret-position="357">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
               <folding>
-                <element signature="e#0#19#0" expanded="true" />
+                <element signature="e#0#18#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/matplotlib_architecture/matplotlib1.py">
+        <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/lineplots/lineplots2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="34">
+              <caret line="2" column="36" lean-forward="true" selection-start-line="2" selection-end-line="2" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/matplotlib_architecture/matplotlib2.py">
+        <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/barcharts/barcharts1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state>
+              <caret lean-forward="true" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/barcharts/stack_barchart.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/barcharts/horizontal_barchart.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="72" selection-start-line="10" selection-start-column="72" selection-end-line="10" selection-end-column="72" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/dejunkify_charts/test1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="16" column="37" lean-forward="true" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/scatterplots/scatterplots1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/scatterplots/scatterplots2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="36" selection-start-line="1" selection-end-line="1" selection-end-column="36" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -221,57 +187,6 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/basic_plotting/plot2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-              <folding>
-                <element signature="e#0#59#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/basic_plotting/plot3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/scatterplots/scatterplots1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/scatterplots/zip_and_unzip.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/scatterplots/scatterplots2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="14" column="82" selection-start-line="14" selection-start-column="82" selection-end-line="14" selection-end-column="82" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -283,10 +198,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>index</find>
-      <find>apply</find>
-      <find>11</find>
-      <find>range</find>
       <find>a</find>
       <find>Energy</find>
       <find>energy</find>
@@ -313,11 +224,17 @@
       <find>append</find>
       <find>pivot</find>
       <find>transform</find>
+      <find>isnull</find>
+      <find>partitions</find>
+      <find>groups</find>
+      <find>gb</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;</replace>
       <replace>Energy</replace>
       <replace>Top15</replace>
+      <replace>emptyrow</replace>
+      <replace>groups</replace>
     </replaceStrings>
     <dirStrings>
       <dir>C:\python_data_analysis</dir>
@@ -330,18 +247,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/advanced_python_pandas/test_example.py" />
-        <option value="$PROJECT_DIR$/statistical_analysis_in_python/distributions/distributions1.py" />
-        <option value="$PROJECT_DIR$/statistical_analysis_in_python/hypothesis_testing/hypothesis1.py" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/basic_data_processing_with_pandas/series_datastructure/series_datastructure1.py" />
-        <option value="$PROJECT_DIR$/statistical_analysis_in_python/assignment4/assignment_q1_test.py" />
-        <option value="$PROJECT_DIR$/advanced_python_pandas/assignment3/assignment3.0.py" />
-        <option value="$PROJECT_DIR$/python_fundamentals/test1.py" />
-        <option value="$PROJECT_DIR$/statistical_analysis_in_python/assignment4/assignment4.0.py" />
-        <option value="$PROJECT_DIR$/basic_data_processing_with_pandas/test2.py" />
-        <option value="$PROJECT_DIR$/basic_data_processing_with_pandas/test4.py" />
-        <option value="$PROJECT_DIR$/basic_data_processing_with_pandas/test3.py" />
         <option value="$PROJECT_DIR$/basic_data_processing_with_pandas/test5.py" />
         <option value="$PROJECT_DIR$/basic_data_processing_with_pandas/test6.py" />
         <option value="$PROJECT_DIR$/basic_data_processing_with_pandas/test8.py" />
@@ -369,7 +274,6 @@
         <option value="$PROJECT_DIR$/stack/test28.py" />
         <option value="$PROJECT_DIR$/stack/test29.py" />
         <option value="$PROJECT_DIR$/stack/test30.py" />
-        <option value="$PROJECT_DIR$/stack/test31.py" />
         <option value="$PROJECT_DIR$/stack/test32.py" />
         <option value="$PROJECT_DIR$/stack/test33.py" />
         <option value="$PROJECT_DIR$/stack/test34.py" />
@@ -381,6 +285,19 @@
         <option value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/scatterplots/scatterplots1.py" />
         <option value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/scatterplots/zip_and_unzip.py" />
         <option value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/scatterplots/scatterplots2.py" />
+        <option value="$PROJECT_DIR$/stack/test35.py" />
+        <option value="$PROJECT_DIR$/stack/test31.py" />
+        <option value="$PROJECT_DIR$/stack/test36.py" />
+        <option value="$PROJECT_DIR$/stack/test37.csv" />
+        <option value="$PROJECT_DIR$/stack/test37.py" />
+        <option value="$PROJECT_DIR$/stack/test38.py" />
+        <option value="$PROJECT_DIR$/stack/test39.py" />
+        <option value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/lineplots/lineplots1.py" />
+        <option value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/lineplots/lineplots2.py" />
+        <option value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/barcharts/barcharts1.py" />
+        <option value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/barcharts/stack_barchart.py" />
+        <option value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/barcharts/horizontal_barchart.py" />
+        <option value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/dejunkify_charts/test1.py" />
       </list>
     </option>
   </component>
@@ -390,7 +307,9 @@
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -413,6 +332,34 @@
               <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
               <item name="applied_plotting_charting_and_data_representation" type="462c0819:PsiDirectoryNode" />
               <item name="basic_charting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
+              <item name="applied_plotting_charting_and_data_representation" type="462c0819:PsiDirectoryNode" />
+              <item name="basic_charting" type="462c0819:PsiDirectoryNode" />
+              <item name="barcharts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
+              <item name="applied_plotting_charting_and_data_representation" type="462c0819:PsiDirectoryNode" />
+              <item name="basic_charting" type="462c0819:PsiDirectoryNode" />
+              <item name="basic_plotting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
+              <item name="applied_plotting_charting_and_data_representation" type="462c0819:PsiDirectoryNode" />
+              <item name="basic_charting" type="462c0819:PsiDirectoryNode" />
+              <item name="dejunkify_charts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
+              <item name="applied_plotting_charting_and_data_representation" type="462c0819:PsiDirectoryNode" />
+              <item name="basic_charting" type="462c0819:PsiDirectoryNode" />
+              <item name="lineplots" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
@@ -453,8 +400,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.scatterplots2">
-    <configuration name="plot2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.test1">
+    <configuration name="barcharts1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -462,11 +409,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/basic_plotting" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/barcharts" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/basic_plotting/plot2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/barcharts/barcharts1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -475,7 +422,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="plot3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="horizontal_barchart" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -483,11 +430,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/basic_plotting" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/barcharts" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/basic_plotting/plot3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/barcharts/horizontal_barchart.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -496,7 +443,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="scatterplots1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="lineplots2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -504,11 +451,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/scatterplots" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/lineplots" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/scatterplots/scatterplots1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/lineplots/lineplots2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -517,7 +464,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="scatterplots2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="stack_barchart" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -525,11 +472,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/scatterplots" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/barcharts" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/scatterplots/scatterplots2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/barcharts/stack_barchart.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -538,7 +485,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="zip_and_unzip" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -546,11 +493,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/scatterplots" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/dejunkify_charts" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/scatterplots/zip_and_unzip.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/dejunkify_charts/test1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -560,19 +507,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.plot2" />
-      <item itemvalue="Python.plot3" />
-      <item itemvalue="Python.scatterplots1" />
-      <item itemvalue="Python.zip_and_unzip" />
-      <item itemvalue="Python.scatterplots2" />
+      <item itemvalue="Python.lineplots2" />
+      <item itemvalue="Python.barcharts1" />
+      <item itemvalue="Python.stack_barchart" />
+      <item itemvalue="Python.horizontal_barchart" />
+      <item itemvalue="Python.test1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.scatterplots2" />
-        <item itemvalue="Python.zip_and_unzip" />
-        <item itemvalue="Python.scatterplots1" />
-        <item itemvalue="Python.plot3" />
-        <item itemvalue="Python.plot2" />
+        <item itemvalue="Python.test1" />
+        <item itemvalue="Python.horizontal_barchart" />
+        <item itemvalue="Python.stack_barchart" />
+        <item itemvalue="Python.barcharts1" />
+        <item itemvalue="Python.lineplots2" />
       </list>
     </recent_temporary>
   </component>
@@ -650,7 +597,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32864675" />
-      <window_info active="true" anchor="bottom" x="19" y="279" width="1322" height="187" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.6572935" />
+      <window_info active="true" anchor="bottom" x="19" y="279" width="1322" height="187" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.629174" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -667,6 +614,9 @@
       <window_info anchor="right" id="R Packages" order="4" weight="0.32980332" />
     </layout>
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -680,42 +630,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="week4 assignment q1-q5" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/basic_data_processing_with_pandas/test23.py" />
-    <entry file="file://$PROJECT_DIR$/basic_data_processing_with_pandas/test11.py" />
-    <entry file="file://$PROJECT_DIR$/basic_data_processing_with_pandas/test24.py" />
-    <entry file="file://$PROJECT_DIR$/basic_data_processing_with_pandas/test25.py" />
-    <entry file="file://$PROJECT_DIR$/basic_data_processing_with_pandas/test26.py" />
-    <entry file="file://$PROJECT_DIR$/basic_data_processing_with_pandas/test27.py" />
-    <entry file="file://$PROJECT_DIR$/basic_data_processing_with_pandas/test28.csv" />
-    <entry file="file://$PROJECT_DIR$/basic_data_processing_with_pandas/test28.py" />
-    <entry file="file://$PROJECT_DIR$/intro_data_science_python/python_fundamentals/numpy_library/numpy_array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="37" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intro_data_science_python/basic_data_processing_with_pandas/dataframes/dataframes1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="77" column="8" selection-start-line="77" selection-start-column="8" selection-end-line="77" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intro_data_science_python/basic_data_processing_with_pandas/dataframes/dataframe_indexing_loading.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="2" selection-start-column="2" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intro_data_science_python/basic_data_processing_with_pandas/dataframes/indexing_dataframes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1019">
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/stack/test28.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
@@ -854,47 +768,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stack/test30.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="47">
-          <caret line="17" selection-start-line="17" selection-end-line="20" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack/test31.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack/test32.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="16" column="92" selection-start-line="16" selection-start-column="92" selection-end-line="16" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack/test33.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack/test34.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/basic_plotting/plot2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="113">
@@ -902,13 +775,6 @@
           <folding>
             <element signature="e#0#59#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/basic_plotting/plot1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -936,16 +802,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/scatterplots/scatterplots1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/scatterplots/zip_and_unzip.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -953,10 +809,179 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/stack/test34.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/test33.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/test32.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="16" column="92" selection-start-line="16" selection-start-column="92" selection-end-line="16" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/test35.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="2" selection-start-line="2" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/test30.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="10" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/test31.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="16" selection-start-line="16" selection-end-line="18" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/test36.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/test37.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/test37.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="17" selection-start-line="17" selection-end-line="20" selection-end-column="77" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/test38.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="17" column="75" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="75" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/test39.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/scatterplots/scatterplots1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/basic_plotting/plot1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/scatterplots/scatterplots2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="14" column="82" selection-start-line="14" selection-start-column="82" selection-end-line="14" selection-end-column="82" />
+        <state relative-caret-position="17">
+          <caret line="1" column="36" selection-start-line="1" selection-end-line="1" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/lineplots/lineplots1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/barcharts/horizontal_barchart.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="72" selection-start-line="10" selection-start-column="72" selection-end-line="10" selection-end-column="72" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/barcharts/stack_barchart.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/barcharts/barcharts1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/lineplots/lineplots2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="36" lean-forward="true" selection-start-line="2" selection-end-line="2" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/dejunkify_charts/test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="16" column="37" lean-forward="true" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
