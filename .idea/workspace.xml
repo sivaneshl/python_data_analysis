@@ -5,11 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2359d117-368d-4b39-8789-ebc347835e74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/stack/43578703/how-to-concatenate-two-frames-with-different-number-of-columns-in-pandas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/48888302/pandas-groupby-and-sum-total-of-group.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/59326903/adding-total-row-to-pandas-dataframe-groupby.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/boxplots/boxplots1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/heatmaps/heatmaps1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/histograms/histogram1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/histograms/histogram_gridspec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/histograms/histograms2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/interactivity/interactivity2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/subplots/subplots1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/subplots/subplots2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/subplots/subplots3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stack/test40.py" beforeDir="false" afterPath="$PROJECT_DIR$/stack/test40.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,31 +38,34 @@
         <counts>
           <entry key="csv" value="5" />
           <entry key="gitignore" value="1" />
-          <entry key="py" value="224" />
+          <entry key="png" value="1" />
+          <entry key="py" value="237" />
           <entry key="python_objects" value="1" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="Image" value="1" />
           <entry key="PLAIN_TEXT" value="7" />
-          <entry key="Python" value="225" />
+          <entry key="Python" value="238" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="3031" />
+          <entry key="Python Console" value="3152" />
           <entry key="csv" value="53" />
+          <entry key="dummy" value="1" />
           <entry key="gitignore" value="30" />
-          <entry key="py" value="77325" />
+          <entry key="py" value="81772" />
           <entry key="python_objects" value="358" />
-          <entry key="txt" value="101" />
+          <entry key="txt" value="116" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="184" />
-          <entry key="Python" value="80714" />
+          <entry key="PLAIN_TEXT" value="200" />
+          <entry key="Python" value="85282" />
         </counts>
       </usages-collector>
     </session>
@@ -65,103 +73,110 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stack/test44.py">
+        <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/histograms/histogram1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127">
-              <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="69" />
+            <state>
+              <caret selection-end-line="11" selection-end-column="10" />
               <folding>
-                <element signature="e#0#19#0" expanded="true" />
+                <element signature="e#0#31#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stack/test48.py">
+        <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/histograms/histograms2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="69" selection-start-line="4" selection-start-column="69" selection-end-line="4" selection-end-column="69" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stack/test49.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stack/test45.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="61" selection-start-line="6" selection-start-column="61" selection-end-line="6" selection-end-column="61" />
+            <state relative-caret-position="153">
+              <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
               <folding>
-                <element signature="e#0#19#0" expanded="true" />
+                <element signature="e#0#31#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/assignment2/assignment2.py">
+        <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/histograms/histogram_gridspec.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1156">
-              <caret line="97" column="10" selection-start-line="97" selection-start-column="10" selection-end-line="97" selection-end-column="10" />
+            <state relative-caret-position="153">
+              <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
               <folding>
-                <element signature="e#1754#1785#0" expanded="true" />
+                <element signature="e#0#31#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stack/test40.py">
+        <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/boxplots/boxplots1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="15" column="114" selection-start-line="15" selection-start-column="114" selection-end-line="15" selection-end-column="114" />
+            <state relative-caret-position="170">
+              <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
               <folding>
-                <element signature="e#0#19#0" expanded="true" />
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/heatmaps/heatmaps1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/animations/animations1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+                <marker date="1576331235172" expanded="true" signature="153:492" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/interactivity/interactivity1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="13" column="28" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+                <marker date="1576332804295" expanded="true" signature="140:349" ph="..." />
+                <marker date="1576332804295" expanded="true" signature="290:292" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/stack/48888302/pandas-groupby-and-sum-total-of-group.py">
+        <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/interactivity/interactivity2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="17">
+              <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+                <marker date="1576343229562" expanded="true" signature="553:722" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stack/43578703/how-to-concatenate-two-frames-with-different-number-of-columns-in-pandas.py">
+        <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/matplotlib_architecture/matplotlib1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stack/59326903/adding-total-row-to-pandas-dataframe-groupby.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stack/test47.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -230,17 +245,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/basic_data_processing_with_pandas/test19.py" />
-        <option value="$PROJECT_DIR$/basic_data_processing_with_pandas/test21.py" />
-        <option value="$PROJECT_DIR$/basic_data_processing_with_pandas/test22.py" />
-        <option value="$PROJECT_DIR$/basic_data_processing_with_pandas/test23.py" />
-        <option value="$PROJECT_DIR$/basic_data_processing_with_pandas/test24.py" />
-        <option value="$PROJECT_DIR$/basic_data_processing_with_pandas/test25.py" />
-        <option value="$PROJECT_DIR$/basic_data_processing_with_pandas/test26.py" />
-        <option value="$PROJECT_DIR$/basic_data_processing_with_pandas/test27.py" />
-        <option value="$PROJECT_DIR$/basic_data_processing_with_pandas/test28.py" />
-        <option value="$PROJECT_DIR$/stack/test28.py" />
-        <option value="$PROJECT_DIR$/stack/test29.py" />
         <option value="$PROJECT_DIR$/stack/test30.py" />
         <option value="$PROJECT_DIR$/stack/test32.py" />
         <option value="$PROJECT_DIR$/stack/test33.py" />
@@ -281,6 +285,17 @@
         <option value="$PROJECT_DIR$/stack/59326903/adding-total-row-to-pandas-dataframe-groupby.py" />
         <option value="$PROJECT_DIR$/stack/43578703/how-to-concatenate-two-frames-with-different-number-of-columns-in-pandas.py" />
         <option value="$PROJECT_DIR$/stack/48888302/pandas-groupby-and-sum-total-of-group.py" />
+        <option value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/subplots/subplotsq.py" />
+        <option value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/subplots/subplots2.py" />
+        <option value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/subplots/subplots3.py" />
+        <option value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/histograms/histogram1.py" />
+        <option value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/histograms/histograms2.py" />
+        <option value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/histograms/histogram_gridspec.py" />
+        <option value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/boxplots/boxplots1.py" />
+        <option value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/heatmaps/heatmaps1.py" />
+        <option value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/animations/animations1.py" />
+        <option value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/interactivity/interactivity1.py" />
+        <option value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/interactivity/interactivity2.py" />
       </list>
     </option>
   </component>
@@ -314,14 +329,14 @@
               <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
               <item name="applied_plotting_charting_and_data_representation" type="462c0819:PsiDirectoryNode" />
-              <item name="basic_charting" type="462c0819:PsiDirectoryNode" />
+              <item name="charting_fundamentals" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
               <item name="applied_plotting_charting_and_data_representation" type="462c0819:PsiDirectoryNode" />
-              <item name="basic_charting" type="462c0819:PsiDirectoryNode" />
-              <item name="assignment2" type="462c0819:PsiDirectoryNode" />
+              <item name="charting_fundamentals" type="462c0819:PsiDirectoryNode" />
+              <item name="interactivity" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
@@ -341,11 +356,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\python_data_analysis\applied_plotting_charting_and_data_representation\charting_fundamentals\interactivity" />
+      <recent name="C:\python_data_analysis\stack\archive1" />
       <recent name="C:\python_data_analysis\intro_data_science_python" />
       <recent name="C:\python_data_analysis\basic_data_processing_with_pandas" />
       <recent name="C:\python_data_analysis\statistical_analysis_in_python\assignment4" />
-      <recent name="C:\python_data_analysis\basic_data_processing_with_pandas\missing_values" />
-      <recent name="C:\python_data_analysis" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -360,8 +375,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.pandas-groupby-and-sum-total-of-group">
-    <configuration name="59326903_adding-total-row-to-pandas-dataframe-groupby" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.interactivity2">
+    <configuration name="animations1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -369,11 +384,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stack" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/animations" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stack/59326903_adding-total-row-to-pandas-dataframe-groupby.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/animations/animations1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -382,7 +397,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="adding-total-row-to-pandas-dataframe-groupby" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="boxplots1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -390,11 +405,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stack/59326903" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/boxplots" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stack/59326903/adding-total-row-to-pandas-dataframe-groupby.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/boxplots/boxplots1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -403,7 +418,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="how-to-concatenate-two-frames-with-different-number-of-columns-in-pandas" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="heatmaps1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -411,11 +426,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stack/43578703" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/heatmaps" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stack/43578703/how-to-concatenate-two-frames-with-different-number-of-columns-in-pandas.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/heatmaps/heatmaps1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -424,7 +439,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pandas-groupby-and-sum-total-of-group" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="interactivity1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -432,11 +447,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stack/48888302" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/interactivity" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stack/48888302/pandas-groupby-and-sum-total-of-group.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/interactivity/interactivity1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -445,7 +460,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test40" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="interactivity2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -453,11 +468,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stack" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/interactivity" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\python_data_analysis\stack\archive1\test40.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/interactivity/interactivity2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -467,19 +482,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.test40" />
-      <item itemvalue="Python.59326903_adding-total-row-to-pandas-dataframe-groupby" />
-      <item itemvalue="Python.adding-total-row-to-pandas-dataframe-groupby" />
-      <item itemvalue="Python.pandas-groupby-and-sum-total-of-group" />
-      <item itemvalue="Python.how-to-concatenate-two-frames-with-different-number-of-columns-in-pandas" />
+      <item itemvalue="Python.boxplots1" />
+      <item itemvalue="Python.heatmaps1" />
+      <item itemvalue="Python.animations1" />
+      <item itemvalue="Python.interactivity1" />
+      <item itemvalue="Python.interactivity2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.pandas-groupby-and-sum-total-of-group" />
-        <item itemvalue="Python.how-to-concatenate-two-frames-with-different-number-of-columns-in-pandas" />
-        <item itemvalue="Python.adding-total-row-to-pandas-dataframe-groupby" />
-        <item itemvalue="Python.59326903_adding-total-row-to-pandas-dataframe-groupby" />
-        <item itemvalue="Python.test40" />
+        <item itemvalue="Python.interactivity2" />
+        <item itemvalue="Python.interactivity1" />
+        <item itemvalue="Python.animations1" />
+        <item itemvalue="Python.heatmaps1" />
+        <item itemvalue="Python.boxplots1" />
       </list>
     </recent_temporary>
   </component>
@@ -536,7 +551,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575123551676</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="stack questions">
+      <created>1576264885026</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1576264885026</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -550,19 +572,20 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="703" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32864675" />
-      <window_info anchor="bottom" x="19" y="279" width="1322" height="187" id="Run" order="2" sideWeight="0.49924356" weight="0.74516696" />
+      <window_info active="true" anchor="bottom" x="19" y="279" width="1322" height="187" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.52724075" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.50075644" side_tool="true" weight="0.32864675" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32864675" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49924356" visible="true" weight="0.45869946" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49924356" weight="0.45869946" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50075644" side_tool="true" weight="0.3989455" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49924356" weight="0.55536026" />
       <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.32864675" />
@@ -586,107 +609,10 @@
     <MESSAGE value="added .gitignore" />
     <MESSAGE value="added .gitignore fix" />
     <MESSAGE value="week4 assignment q1-q5" />
-    <option name="LAST_COMMIT_MESSAGE" value="week4 assignment q1-q5" />
+    <MESSAGE value="stack questions" />
+    <option name="LAST_COMMIT_MESSAGE" value="stack questions" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/stack/test13.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-72" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack/test14.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-123" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack/test15.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack/test17.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack/test11.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack/test5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack/test10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack/test3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack/test16.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack/test29.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="3" selection-start-line="3" selection-end-line="14" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/basic_plotting/plot2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="e#0#59#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/matplotlib_architecture/matplotlib1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/matplotlib_architecture/matplotlib2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/basic_plotting/plot3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="158">
@@ -701,7 +627,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stack/test34.py">
+    <entry file="file://$PROJECT_DIR$/stack/archive1/test34.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
@@ -711,49 +637,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stack/test33.py">
+    <entry file="file://$PROJECT_DIR$/stack/archive1/test33.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stack/test32.py">
+    <entry file="file://$PROJECT_DIR$/stack/archive1/test32.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
           <caret line="16" column="92" selection-start-line="16" selection-start-column="92" selection-end-line="16" selection-end-column="92" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stack/test35.py">
+    <entry file="file://$PROJECT_DIR$/stack/archive1/test35.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="28">
           <caret line="2" selection-start-line="2" selection-end-line="12" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stack/test30.py">
+    <entry file="file://$PROJECT_DIR$/stack/archive1/test30.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="10" selection-end-column="70" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stack/test36.py">
+    <entry file="file://$PROJECT_DIR$/stack/archive1/test36.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stack/test37.csv">
+    <entry file="file://$PROJECT_DIR$/stack/archive1/test37.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="5" selection-start-column="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stack/test37.py">
+    <entry file="file://$PROJECT_DIR$/stack/archive1/test37.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="17" selection-start-line="17" selection-end-line="20" selection-end-column="77" />
@@ -763,7 +689,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stack/test38.py">
+    <entry file="file://$PROJECT_DIR$/stack/archive1/test38.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="17" column="75" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="75" />
@@ -773,7 +699,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stack/test39.py">
+    <entry file="file://$PROJECT_DIR$/stack/archive1/test39.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
@@ -866,14 +792,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stack/test41.py">
+    <entry file="file://$PROJECT_DIR$/stack/archive1/test41.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="177">
           <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="78" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stack/test12.py">
+    <entry file="file://$PROJECT_DIR$/stack/archive1/test12.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="73" />
@@ -883,7 +809,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stack/test42.py">
+    <entry file="file://$PROJECT_DIR$/stack/archive1/test42.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="177">
           <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
@@ -893,7 +819,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stack/test43.py">
+    <entry file="file://$PROJECT_DIR$/stack/archive1/test43.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="54" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="54" />
@@ -903,7 +829,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stack/test31.py">
+    <entry file="file://$PROJECT_DIR$/stack/archive1/test31.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
           <caret line="24" column="10" selection-start-line="9" selection-end-line="24" selection-end-column="10" />
@@ -913,14 +839,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stack/test46.py">
+    <entry file="file://$PROJECT_DIR$/stack/archive1/test46.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="10" column="53" lean-forward="true" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stack/test45.py">
+    <entry file="file://$PROJECT_DIR$/stack/archive1/test45.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="61" selection-start-line="6" selection-start-column="61" selection-end-line="6" selection-end-column="61" />
@@ -930,14 +856,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stack/test47.py">
+    <entry file="file://$PROJECT_DIR$/stack/archive1/test47.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stack/test44.py">
+    <entry file="file://$PROJECT_DIR$/stack/archive1/test44.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="127">
           <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="69" />
@@ -947,14 +873,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stack/test48.py">
+    <entry file="file://$PROJECT_DIR$/stack/archive1/test48.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="69" selection-start-line="4" selection-start-column="69" selection-end-line="4" selection-end-column="69" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stack/test49.py">
+    <entry file="file://$PROJECT_DIR$/stack/archive1/test49.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
@@ -971,7 +897,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stack/test40.py">
+    <entry file="file://$PROJECT_DIR$/stack/archive1/test40.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="15" column="114" selection-start-line="15" selection-start-column="114" selection-end-line="15" selection-end-column="114" />
@@ -1000,8 +926,132 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/stack/48888302/pandas-groupby-and-sum-total-of-group.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="158">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/subplots/subplots1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/subplots/subplots2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="7" column="74" selection-start-line="7" selection-start-column="74" selection-end-line="7" selection-end-column="74" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/subplots/subplots3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/histograms/histogram1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="11" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/histograms/histograms2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/histograms/histogram_gridspec.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/boxplots/boxplots1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/heatmaps/heatmaps1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/animations/animations1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+            <marker date="1576331235172" expanded="true" signature="153:492" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/matplotlib_architecture/matplotlib1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/interactivity/interactivity1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+            <marker date="1576332804295" expanded="true" signature="140:349" ph="..." />
+            <marker date="1576332804295" expanded="true" signature="290:292" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/interactivity/interactivity2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/interactivity/interactivity2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <marker date="1576343229562" expanded="true" signature="553:722" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
