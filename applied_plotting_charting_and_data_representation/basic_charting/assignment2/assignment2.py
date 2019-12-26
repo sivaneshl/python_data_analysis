@@ -36,7 +36,7 @@ import numpy as np
 from calendar import month_abbr
 
 # read the data csv file
-df = pd.read_csv('data/C2A2_data/BinnedCsvs_d400/fb441e62df2d58994928907a91895ec62c2c42e6cd075c2700843b89.csv')
+df = pd.read_csv('fb441e62df2d58994928907a91895ec62c2c42e6cd075c2700843b89.csv')
 # print(df)
 
 # convert to Celsius
@@ -78,6 +78,10 @@ plt.scatter(x=outliers_2015_min, y=df_2015_min.iloc[outliers_2015_min]['Data_Val
             color='darkgreen', s=10, marker='o', label='Record Break - Low (2015)')
 plt.scatter(x=outliers_2015_max, y=df_2015_max.iloc[outliers_2015_max]['Data_Value'],
             color='darkred', s=10, marker='o', label='Record Break - High (2015)')
+
+print(outliers_2015_min)
+print(df_2015_min.iloc[outliers_2015_min]['Data_Value'])
+
 
 # legend
 plt.legend(loc=8, frameon=False, fontsize=8)
