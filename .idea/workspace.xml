@@ -5,45 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2359d117-368d-4b39-8789-ebc347835e74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/applied_visualization/plotting_with_pandas/pandas_tools_plotting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/applied_visualization/plotting_with_pandas/plotting_pandas1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/applied_visualization/seaborn/seaborn1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/applied_visualization/seaborn/seaborn2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/assignment4/assignment4.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/assignment4/assignment4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/assignment4/data/csk_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/assignment4/data/kkr_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/assignment4/data/mi_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/assignment4/data/rr_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/assignment4/data/srh_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/assignment3/assignment3.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/assignment3/assignment3.1_original.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/assignment3/assignment3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/assignment3/practice_assignment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/59326903/test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/59344408/pandas-counting-values.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/59344443/python-pyplot-legend-scatter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/59351967/pandas-asfreq-strange-behavior-with-timeseries.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/59351967/url_inflation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/59359565/calculating-count-of-items-per-quartile-if-condition-is-met.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/59362008/python-pairwise-count-items-need-urgent-help-please.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/59362008/test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/59362060/how-to-slice-time-series-in-pandas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/59383668/how-to-sum-the-data-in-specific-level-after-groupby-or-pivot-table-with-multi-in.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/59383719/finding-specific-word-in-a-pandas-column-and-assigning-to-a-new-column-and-repli.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/59384090/how-to-create-a-new-column-in-multiindex-dataframe-which-is-in-the-format-of-dat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/59385653/asterisk-issue-in-replace-when-using-a-dictionary-python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/59386739/pandas-how-to-add-rows-with-average-grouped-columns.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/59424306/pandasslicing-the-dataframe-using-index-values.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/59424702/group-by-calendar-week-crossing-years.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/59440302/valueerror-merge-keys-contain-null-values-on-right-side-using-pd-merge-asof.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/59442098/string-values-are-repeating-when-use-sample-function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/59442098/test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/59442314/split-concatenated-year-into-two-rows-in-pandas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_machine_learning/fundamentals_of_machine_learning/assignment1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_machine_learning/fundamentals_of_machine_learning/basic_fruit_recognition.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/assignment2/assignment2.png" beforeDir="false" afterPath="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/assignment2/assignment2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/assignment2/assignment2.py" beforeDir="false" afterPath="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/assignment2/assignment2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/interactivity/interactivity1.py" beforeDir="false" afterPath="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/interactivity/interactivity1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +24,8 @@
           <entry key="project.open.time.10" value="3" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.16" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -68,7 +33,7 @@
           <entry key="csv" value="14" />
           <entry key="gitignore" value="1" />
           <entry key="png" value="3" />
-          <entry key="py" value="285" />
+          <entry key="py" value="288" />
           <entry key="python_objects" value="1" />
           <entry key="txt" value="1" />
         </counts>
@@ -77,24 +42,24 @@
         <counts>
           <entry key="Image" value="3" />
           <entry key="PLAIN_TEXT" value="16" />
-          <entry key="Python" value="286" />
+          <entry key="Python" value="289" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="3824" />
+          <entry key="Python Console" value="3877" />
           <entry key="csv" value="115" />
           <entry key="dummy" value="1" />
           <entry key="gitignore" value="30" />
-          <entry key="py" value="97579" />
+          <entry key="py" value="100497" />
           <entry key="python_objects" value="358" />
-          <entry key="txt" value="169" />
+          <entry key="txt" value="186" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="315" />
-          <entry key="Python" value="101761" />
+          <entry key="PLAIN_TEXT" value="332" />
+          <entry key="Python" value="104732" />
         </counts>
       </usages-collector>
     </session>
@@ -102,27 +67,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/scatterplots/scatterplots2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/assignment4/data/mi_data.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="23" lean-forward="true" selection-end-line="12" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/assignment4/assignment4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-272">
+            <state relative-caret-position="119">
               <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
@@ -131,13 +78,50 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/assignment4/assignment4.1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="97" lean-forward="true" selection-start-line="97" selection-end-line="97" />
+            <state relative-caret-position="156">
+              <caret line="97" selection-start-line="97" selection-end-line="97" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applied_machine_learning/fundamentals_of_machine_learning/basic_fruit_recognition.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="47" column="29" lean-forward="true" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/applied_machine_learning/fundamentals_of_machine_learning/assignment1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="63" column="27" selection-start-line="63" selection-start-column="27" selection-end-line="63" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+                <marker date="1577449383375" expanded="true" signature="473:478" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applied_machine_learning/fundamentals_of_machine_learning/adspy_shared_utilities.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="98">
+              <caret line="170" column="11" selection-start-line="170" selection-start-column="4" selection-end-line="170" selection-end-column="11" />
+              <folding>
+                <element signature="e#15#27#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -156,7 +140,7 @@
         <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/lineplots/lineplots2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="4" column="80" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="80" />
+              <caret line="4" column="80" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="80" />
             </state>
           </provider>
         </entry>
@@ -164,7 +148,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/dejunkify_charts/test1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
+            <state relative-caret-position="680">
               <caret line="42" column="52" selection-start-line="42" selection-start-column="52" selection-end-line="42" selection-end-column="52" />
             </state>
           </provider>
@@ -182,7 +166,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/barcharts/stack_barchart.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="89">
+            <state relative-caret-position="153">
               <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
@@ -199,8 +183,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>mpl</find>
-      <find>to_datatime</find>
       <find>to_datetime</find>
       <find>reset_index()</find>
       <find>randint</find>
@@ -229,6 +211,8 @@
       <find>dot_color</find>
       <find>line_color</find>
       <find>team_label</find>
+      <find>_dict</find>
+      <find>plot_fr</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;</replace>
@@ -249,8 +233,8 @@
     <dirStrings>
       <dir>C:\python_data_analysis\applied_plotting_charting_and_data_representation\charting_fundamentals</dir>
       <dir>C:\python_data_analysis\stack</dir>
-      <dir>C:\python_data_analysis</dir>
       <dir>C:\python_data_analysis\applied_plotting_charting_and_data_representation</dir>
+      <dir>C:\python_data_analysis</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -260,8 +244,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/stack/43578703/how-to-concatenate-two-frames-with-different-number-of-columns-in-pandas.py" />
-        <option value="$PROJECT_DIR$/stack/48888302/pandas-groupby-and-sum-total-of-group.py" />
         <option value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/subplots/subplotsq.py" />
         <option value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/subplots/subplots2.py" />
         <option value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/subplots/subplots3.py" />
@@ -311,6 +293,8 @@
         <option value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/assignment4/assignment4.py" />
         <option value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/assignment4/data/kkr_data.csv" />
         <option value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/assignment4/assignment4.1.py" />
+        <option value="$PROJECT_DIR$/applied_machine_learning/fundamentals_of_machine_learning/basic_fruit_recognition.py" />
+        <option value="$PROJECT_DIR$/applied_machine_learning/fundamentals_of_machine_learning/assignment1.py" />
       </list>
     </option>
   </component>
@@ -328,6 +312,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -338,70 +323,24 @@
             <path>
               <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="applied_plotting_charting_and_data_representation" type="462c0819:PsiDirectoryNode" />
+              <item name="applied_machine_learning" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="applied_plotting_charting_and_data_representation" type="462c0819:PsiDirectoryNode" />
-              <item name="applied_visualization" type="462c0819:PsiDirectoryNode" />
+              <item name="applied_machine_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="fundamentals_of_machine_learning" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="applied_plotting_charting_and_data_representation" type="462c0819:PsiDirectoryNode" />
-              <item name="applied_visualization" type="462c0819:PsiDirectoryNode" />
-              <item name="plotting_with_pandas" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="applied_plotting_charting_and_data_representation" type="462c0819:PsiDirectoryNode" />
-              <item name="applied_visualization" type="462c0819:PsiDirectoryNode" />
-              <item name="seaborn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="applied_plotting_charting_and_data_representation" type="462c0819:PsiDirectoryNode" />
-              <item name="assignment4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="applied_plotting_charting_and_data_representation" type="462c0819:PsiDirectoryNode" />
-              <item name="assignment4" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="applied_plotting_charting_and_data_representation" type="462c0819:PsiDirectoryNode" />
-              <item name="basic_charting" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="applied_plotting_charting_and_data_representation" type="462c0819:PsiDirectoryNode" />
-              <item name="basic_charting" type="462c0819:PsiDirectoryNode" />
-              <item name="assignment2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="applied_plotting_charting_and_data_representation" type="462c0819:PsiDirectoryNode" />
+              <item name="applied_machine_learning" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="intro_data_science_python" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -410,11 +349,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\python_data_analysis\applied_machine_learning\fundamentals_of_machine_learning" />
+      <recent name="C:\python_data_analysis\applied_machine_learning\resources" />
       <recent name="C:\python_data_analysis\applied_plotting_charting_and_data_representation\charting_fundamentals\interactivity" />
       <recent name="C:\python_data_analysis\stack\archive1" />
       <recent name="C:\python_data_analysis\intro_data_science_python" />
-      <recent name="C:\python_data_analysis\basic_data_processing_with_pandas" />
-      <recent name="C:\python_data_analysis\statistical_analysis_in_python\assignment4" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -429,7 +368,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.assignment4.1">
+  <component name="RunManager" selected="Python.assignment1">
     <configuration name="Python Console" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -443,6 +382,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="/Python Console" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="assignment1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_data_analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_machine_learning/fundamentals_of_machine_learning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_machine_learning/fundamentals_of_machine_learning/assignment1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -493,7 +453,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="stack_barchart" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="basic_fruit_recognition" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -501,32 +461,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/barcharts" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_machine_learning/fundamentals_of_machine_learning" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/barcharts/stack_barchart.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_data_analysis" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/dejunkify_charts" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/dejunkify_charts/test1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_machine_learning/fundamentals_of_machine_learning/basic_fruit_recognition.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -537,18 +476,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.assignment4" />
-      <item itemvalue="Python.stack_barchart" />
-      <item itemvalue="Python.test1" />
       <item itemvalue="Python.Python Console" />
       <item itemvalue="Python.assignment4.1" />
+      <item itemvalue="Python.basic_fruit_recognition" />
+      <item itemvalue="Python.assignment1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.assignment1" />
+        <item itemvalue="Python.basic_fruit_recognition" />
         <item itemvalue="Python.assignment4.1" />
         <item itemvalue="Python.assignment4" />
         <item itemvalue="Python.Python Console" />
-        <item itemvalue="Python.test1" />
-        <item itemvalue="Python.stack_barchart" />
       </list>
     </recent_temporary>
   </component>
@@ -626,7 +565,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576343378396</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="course 2 complete">
+      <created>1577357091499</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1577357091499</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -640,20 +586,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="703" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30408472" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30862328" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32864675" />
-      <window_info active="true" anchor="bottom" x="19" y="279" width="1322" height="187" id="Run" order="2" sideWeight="0.5990923" visible="true" weight="0.50615114" />
+      <window_info anchor="bottom" x="19" y="279" width="1322" height="187" id="Run" order="2" sideWeight="0.5990923" weight="0.50615114" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.40090773" side_tool="true" weight="0.56239015" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32864675" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49924356" weight="0.45869946" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49924356" visible="true" weight="0.45869946" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50075644" side_tool="true" weight="0.3989455" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49924356" weight="0.37258348" />
       <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.32864675" />
@@ -679,30 +624,10 @@
     <MESSAGE value="week4 assignment q1-q5" />
     <MESSAGE value="course 2 week 3" />
     <MESSAGE value="stack questions" />
-    <option name="LAST_COMMIT_MESSAGE" value="stack questions" />
+    <MESSAGE value="course 2 complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="course 2 complete" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/histograms/histogram_gridspec.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="73">
-          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/boxplots/boxplots1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/assignment3/test.py" />
     <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/assignment3/practice_assignment.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -716,10 +641,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-            <marker date="1576331235172" expanded="true" signature="153:492" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -754,11 +675,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="4" column="14" selection-start-line="4" selection-end-line="5" />
-          <folding>
-            <element signature="e#1#32#0" expanded="true" />
-            <marker date="1576585249343" expanded="true" signature="202:469" ph="..." />
-            <marker date="1576585249343" expanded="true" signature="410:412" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -828,9 +744,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -852,9 +765,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="83">
           <caret line="16" column="72" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="72" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -869,9 +779,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -886,9 +793,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="134">
           <caret line="11" column="114" selection-start-line="11" selection-start-column="114" selection-end-line="11" selection-end-column="114" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -933,9 +837,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="117">
           <caret line="33" selection-start-line="33" selection-end-line="33" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -946,9 +847,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -956,9 +854,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="41" column="9" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -966,9 +861,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="83">
           <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1014,57 +906,33 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-376">
           <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/scatterplots/scatterplots2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/barcharts/stack_barchart.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/dejunkify_charts/test1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="42" column="52" selection-start-line="42" selection-start-column="52" selection-end-line="42" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/lineplots/lineplots2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="4" column="80" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/assignment4/assignment4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-272">
-          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/assignment4/assignment4.1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/assignment4/data/csk_data.csv">
+    <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/scatterplots/scatterplots2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-end-line="10" selection-end-column="38" />
+        <state relative-caret-position="289">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/assignment4/data/mi_data.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="23" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/assignment4/assignment4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1075,19 +943,71 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/assignment4/data/mi_data.csv">
+    <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/lineplots/lineplots2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="23" lean-forward="true" selection-end-line="12" selection-end-column="30" />
+        <state relative-caret-position="34">
+          <caret line="4" column="80" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/dejunkify_charts/test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="42" column="52" selection-start-line="42" selection-start-column="52" selection-end-line="42" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/assignment4/data/csk_data.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-end-line="10" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/barcharts/stack_barchart.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/assignment4/assignment4.1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="97" lean-forward="true" selection-start-line="97" selection-end-line="97" />
+        <state relative-caret-position="156">
+          <caret line="97" selection-start-line="97" selection-end-line="97" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_machine_learning/fundamentals_of_machine_learning/adspy_shared_utilities.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="170" column="11" selection-start-line="170" selection-start-column="4" selection-end-line="170" selection-end-column="11" />
+          <folding>
+            <element signature="e#15#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_machine_learning/fundamentals_of_machine_learning/basic_fruit_recognition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="47" column="29" lean-forward="true" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_machine_learning/fundamentals_of_machine_learning/assignment1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="63" column="27" selection-start-line="63" selection-start-column="27" selection-end-line="63" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <marker date="1577449383375" expanded="true" signature="473:478" ph="..." />
           </folding>
         </state>
       </provider>
