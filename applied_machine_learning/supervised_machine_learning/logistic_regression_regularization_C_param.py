@@ -20,7 +20,7 @@ fig, subaxes = plt.subplots(3,1,figsize=(4,10))
 for this_C, subplot in zip([0.1, 1, 100], subaxes):
     clf = LogisticRegression(C=this_C).fit(X_train, y_train)
     title = 'Logistic regression, simple synthetic dataset C = {:.3f}'.format(this_C)
-    plot_class_regions_for_classifier_subplot(clf, X_train, y_train, None, None, title, subplot)
+    plot_class_regions_for_classifier_subplot(clf, X_train, y_train, X_test, y_test, title, subplot)
     print('C={:.3f}'.format(this_C))
     print('Training dataset accuracy: {:.3f}'.format(clf.score(X_train, y_train)))
     print('Testing dataset accuracy: {:.3f}'.format(clf.score(X_test, y_test)))
