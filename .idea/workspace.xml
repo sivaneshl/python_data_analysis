@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2359d117-368d-4b39-8789-ebc347835e74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/Linear_SVC_multi_class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/linear_supprt_vector_machines.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/support_vector_machine_real_dataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/cross_validation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/kernalized_vector_machines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/linear_support_vector_machine_real_dataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/support_vector_machine_rbf_c_gamma.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/support_vector_machine_rbf_gamma.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/validation_curve_example.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/logistic_regression_real_dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/logistic_regression_real_dataset.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/logistic_regression_regularization_C_param.py" beforeDir="false" afterPath="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/logistic_regression_regularization_C_param.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/support_vector_machine_real_dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/support_vector_machine_real_dataset.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,34 +39,37 @@
         <counts>
           <entry key="csv" value="15" />
           <entry key="gitignore" value="1" />
+          <entry key="ipynb" value="1" />
+          <entry key="jpg" value="1" />
           <entry key="png" value="4" />
-          <entry key="py" value="326" />
+          <entry key="py" value="335" />
           <entry key="python_objects" value="1" />
           <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Image" value="4" />
+          <entry key="IPNB" value="1" />
+          <entry key="Image" value="5" />
           <entry key="PLAIN_TEXT" value="18" />
-          <entry key="Python" value="327" />
+          <entry key="Python" value="336" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="4035" />
           <entry key="csv" value="115" />
-          <entry key="dummy" value="1" />
+          <entry key="dummy" value="8" />
           <entry key="gitignore" value="30" />
-          <entry key="py" value="112170" />
+          <entry key="py" value="114096" />
           <entry key="python_objects" value="358" />
-          <entry key="txt" value="317" />
+          <entry key="txt" value="372" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="463" />
-          <entry key="Python" value="116563" />
+          <entry key="PLAIN_TEXT" value="525" />
+          <entry key="Python" value="118489" />
         </counts>
       </usages-collector>
     </session>
@@ -72,46 +77,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/preample_and_review.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/logistic_regression.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="12" lean-forward="true" selection-start-line="2" selection-end-line="12" />
-              <folding>
-                <element signature="e#23#42#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/logistic_regression_regularization_C_param.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="58">
-              <caret line="22" column="83" selection-start-line="22" selection-start-column="83" selection-end-line="22" selection-end-column="83" />
-              <folding>
-                <element signature="e#51#70#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/linear_supprt_vector_machines.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+            <state relative-caret-position="85">
+              <caret line="5" lean-forward="true" selection-start-line="3" selection-end-line="5" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -120,7 +89,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/support_vector_machine_real_dataset.py">
+        <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/linear_support_vector_machine_real_dataset.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
               <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
@@ -131,23 +100,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/Linear_SVC_multi_class.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="29" column="56" lean-forward="true" selection-start-line="29" selection-start-column="56" selection-end-line="29" selection-end-column="56" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/datasets.py">
+        <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/kernalized_vector_machines.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="174">
+              <caret line="17" column="74" selection-start-line="17" selection-start-column="74" selection-end-line="17" selection-end-column="74" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -156,12 +113,84 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/logistic_regression_real_dataset.py">
+        <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/support_vector_machine_rbf_c_gamma.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="157">
+              <caret line="16" column="87" selection-start-line="16" selection-start-column="87" selection-end-line="16" selection-end-column="87" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/support_vector_machine_real_dataset.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="191">
+              <caret line="23" column="70" selection-start-line="23" selection-start-column="70" selection-end-line="23" selection-end-column="70" />
+              <folding>
+                <element signature="e#0#47#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/cross_validation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="10" selection-end-column="22" />
               <folding>
                 <element signature="e#0#51#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/logistic_regression.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="11" selection-start-line="8" selection-end-line="11" />
+              <folding>
+                <element signature="e#23#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/validation_curve_example.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/support_vector_machine_rbf_gamma.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" selection-end-line="9" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/datasets.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="41" selection-start-line="41" selection-end-line="43" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -241,11 +270,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/stack/59326903/test1.py" />
-        <option value="$PROJECT_DIR$/stack/59383719/finding-specific-word-in-a-pandas-column-and-assigning-to-a-new-column-and-repli.py" />
-        <option value="$PROJECT_DIR$/stack/59384090/how-to-create-a-new-column-in-multiindex-dataframe-which-is-in-the-format-of-dat.py" />
-        <option value="$PROJECT_DIR$/stack/59383668/how-to-sum-the-data-in-specific-level-after-groupby-or-pivot-table-with-multi-in.py" />
-        <option value="$PROJECT_DIR$/stack/59424306/pandasslicing-the-dataframe-using-index-values.py" />
         <option value="$PROJECT_DIR$/stack/59424702/group-by-calendar-week-crossing-years.py" />
         <option value="$PROJECT_DIR$/stack/59440302/valueerror-merge-keys-contain-null-values-on-right-side-using-pd-merge-asof.py" />
         <option value="$PROJECT_DIR$/stack/59442098/string-values-are-repeating-when-use-sample-function.py" />
@@ -290,8 +314,13 @@
         <option value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/logistic_regression_regularization_C_param.py" />
         <option value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/logistic_regression_real_dataset.py" />
         <option value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/linear_supprt_vector_machines.py" />
-        <option value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/support_vector_machine_real_dataset.py" />
         <option value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/Linear_SVC_multi_class.py" />
+        <option value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/support_vector_machine_rbf_gamma.py" />
+        <option value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/support_vector_machine_rbf_c_gamma.py" />
+        <option value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/kernalized_vector_machines.py" />
+        <option value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/support_vector_machine_real_dataset.py" />
+        <option value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/cross_validation.py" />
+        <option value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/validation_curve_example.py" />
       </list>
     </option>
   </component>
@@ -359,8 +388,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Linear_SVC_multi_class">
-    <configuration name="Linear_SVC_multi_class" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.validation_curve_example">
+    <configuration name="cross_validation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -372,7 +401,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/Linear_SVC_multi_class.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/cross_validation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -381,7 +410,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="linear_supprt_vector_machines" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="kernalized_vector_machines" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -393,7 +422,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/linear_supprt_vector_machines.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/kernalized_vector_machines.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -402,7 +431,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="logistic_regression_real_dataset" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="support_vector_machine_rbf_c_gamma" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -414,7 +443,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/logistic_regression_real_dataset.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/support_vector_machine_rbf_c_gamma.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -423,28 +452,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="logistic_regression_regularization_C_param" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_data_analysis" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/logistic_regression_regularization_C_param.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="support_vector_machine_real_dataset" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="support_vector_machine_real_dataset (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -465,20 +473,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="validation_curve_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_data_analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/validation_curve_example.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.logistic_regression_regularization_C_param" />
-      <item itemvalue="Python.logistic_regression_real_dataset" />
-      <item itemvalue="Python.linear_supprt_vector_machines" />
-      <item itemvalue="Python.support_vector_machine_real_dataset" />
-      <item itemvalue="Python.Linear_SVC_multi_class" />
+      <item itemvalue="Python.kernalized_vector_machines" />
+      <item itemvalue="Python.support_vector_machine_rbf_c_gamma" />
+      <item itemvalue="Python.support_vector_machine_real_dataset (1)" />
+      <item itemvalue="Python.cross_validation" />
+      <item itemvalue="Python.validation_curve_example" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Linear_SVC_multi_class" />
-        <item itemvalue="Python.support_vector_machine_real_dataset" />
-        <item itemvalue="Python.linear_supprt_vector_machines" />
-        <item itemvalue="Python.logistic_regression_real_dataset" />
-        <item itemvalue="Python.logistic_regression_regularization_C_param" />
+        <item itemvalue="Python.validation_curve_example" />
+        <item itemvalue="Python.cross_validation" />
+        <item itemvalue="Python.support_vector_machine_real_dataset (1)" />
+        <item itemvalue="Python.kernalized_vector_machines" />
+        <item itemvalue="Python.support_vector_machine_rbf_c_gamma" />
       </list>
     </recent_temporary>
   </component>
@@ -591,7 +620,21 @@
       <option name="project" value="LOCAL" />
       <updated>1579368170213</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="course 3 week 2 linear supprt vector machines">
+      <created>1579373693308</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1579373693308</updated>
+    </task>
+    <task id="LOCAL-00016" summary="removed jupyter files">
+      <created>1579373930915</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1579373930915</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -605,14 +648,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="703" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31770045" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32864675" />
-      <window_info active="true" anchor="bottom" x="19" y="279" width="1322" height="187" id="Run" order="2" sideWeight="0.5990923" visible="true" weight="0.43057996" />
+      <window_info active="true" anchor="bottom" x="19" y="279" width="1322" height="187" id="Run" order="2" sideWeight="0.5990923" visible="true" weight="0.32688928" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -649,65 +691,11 @@
     <MESSAGE value="course 3 week 2 classification and regression" />
     <MESSAGE value="course 3 week 2 linear, ridge, lasso and polynomial regression" />
     <MESSAGE value="course 3 week 2 logistic regression" />
-    <option name="LAST_COMMIT_MESSAGE" value="course 3 week 2 logistic regression" />
+    <MESSAGE value="course 3 week 2 linear supprt vector machines" />
+    <MESSAGE value="removed jupyter files" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed jupyter files" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/assignment4/data/srh_data.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
-          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/assignment3/assignment3.1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="31" column="74" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/assignment2/assignment2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="81" column="24" lean-forward="true" selection-start-line="81" selection-start-column="24" selection-end-line="81" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intro_data_science_python/advanced_python_pandas/assignment3/assignment3.0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2832">
-          <caret line="38" selection-start-line="38" selection-end-line="38" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/assignment3/assignment3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-376">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/scatterplots/scatterplots2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/assignment4/data/mi_data.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="23" selection-end-line="12" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/assignment4/assignment4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/assignment4/data/kkr_data.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -954,26 +942,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/logistic_regression.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="12" lean-forward="true" selection-start-line="2" selection-end-line="12" />
-          <folding>
-            <element signature="e#23#42#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/datasets.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/matplotlib/colors.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
@@ -1011,26 +979,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/linear_supprt_vector_machines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/support_vector_machine_real_dataset.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#27#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/logistic_regression_real_dataset.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -1041,12 +989,122 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/intro_data_science_python/resources/26051202.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intro_data_science_python/resources/course1_downloads/Assignment 2.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/Linear_SVC_multi_class.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="29" column="56" lean-forward="true" selection-start-line="29" selection-start-column="56" selection-end-line="29" selection-end-column="56" />
+        <state relative-caret-position="106">
+          <caret line="24" lean-forward="true" selection-start-line="23" selection-start-column="37" selection-end-line="24" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/linear_support_vector_machine_real_dataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/linear_supprt_vector_machines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="3" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/support_vector_machine_rbf_gamma.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/support_vector_machine_rbf_c_gamma.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="16" column="87" selection-start-line="16" selection-start-column="87" selection-end-line="16" selection-end-column="87" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/datasets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="41" selection-start-line="41" selection-end-line="43" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/kernalized_vector_machines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="17" column="74" selection-start-line="17" selection-start-column="74" selection-end-line="17" selection-end-column="74" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/support_vector_machine_real_dataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="23" column="70" selection-start-line="23" selection-start-column="70" selection-end-line="23" selection-end-column="70" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/logistic_regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" selection-start-line="8" selection-end-line="11" />
+          <folding>
+            <element signature="e#23#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/cross_validation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="10" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/validation_curve_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
