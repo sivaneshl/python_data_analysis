@@ -2,6 +2,7 @@
 
 import numpy
 import pandas as pd
+import pydotplus
 import seaborn as sn
 import matplotlib.pyplot as plt
 import matplotlib.cm as cm
