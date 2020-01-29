@@ -101,7 +101,6 @@ def answer_five():
     plt.ylabel('True Positive Rate', fontsize=16)
     plt.show()
 
-
 # Question 6
 # Perform a grid search over the parameters listed below for a Logisitic Regression classifier,
 # using recall for scoring and the default 3-fold cross validation.
