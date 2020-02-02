@@ -18,7 +18,7 @@ X_train, X_test, y_train, y_test = train_test_split(X_fruits.values,
                                                     y_fruits.values,
                                                     random_state=0)
 
-fig, subaxes = plt.subplots(6, 1, figsize=(6,50))
+fig, subaxes = plt.subplots(6, 1, figsize=(6,32))
 for pair, axes in zip(pair_list, subaxes):
     X = X_train[:, pair]
     y = y_train
@@ -29,7 +29,7 @@ for pair, axes in zip(pair_list, subaxes):
     axes.set_xlabel(feature_names_fruits[pair[0]])
     axes.set_ylabel(feature_names_fruits[pair[1]])
 
-plt.tight_layout()
+# plt.tight_layout()
 plt.show()
 
 clf = GradientBoostingClassifier().fit(X_train, y_train)
