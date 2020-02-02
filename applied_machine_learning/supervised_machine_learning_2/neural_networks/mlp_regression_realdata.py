@@ -19,8 +19,6 @@ clf = MLPRegressor(hidden_layer_sizes=[10, 10],
                    max_iter=10000).fit(X_train_scaled, y_train)
 
 print('Breast cancer dataset')
-print('Accuracy of NN classifier on training set: {:.2f}'
-     .format(clf.score(X_train_scaled, y_train)))
-print('Accuracy of NN classifier on test set: {:.2f}'
-     .format(clf.score(X_test_scaled, y_test)))
+print('Accuracy of NN classifier on training set: {:.2f}'.format(clf.score(X_train_scaled, y_train)))
+print('Accuracy of NN classifier on test set: {:.2f}'.format(clf.score(X_test_scaled, y_test)))
 
