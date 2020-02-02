@@ -4,18 +4,14 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2359d117-368d-4b39-8789-ebc347835e74" name="Default Changelist" comment="course 3 week 2 decision trees">
-      <change afterPath="$PROJECT_DIR$/applied_machine_learning/evaluation/confusion_matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_machine_learning/evaluation/decision_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_machine_learning/evaluation/evaluation_metrics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_machine_learning/evaluation/model_selection_and_evaluation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_machine_learning/evaluation/precision-recall_curves.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_machine_learning/evaluation/roc_curve2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_machine_learning/evaluation/roc_curves.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_machine_learning/resources/mushroom.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/assignment2.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/assignment2.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/mushroom.py" afterDir="false" />
+    <list default="true" id="2359d117-368d-4b39-8789-ebc347835e74" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/applied_machine_learning/evaluation/cross_validation_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_machine_learning/evaluation/grid_search_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_machine_learning/evaluation/multi_class_evaluation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_machine_learning/evaluation/optimizing_classifier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_machine_learning/evaluation/precision_recall_curve_svc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_machine_learning/evaluation/regression_evaluation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/gaussian_naive_bayers_classifier.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,16 +24,17 @@
     <session id="1545479565">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="3" />
           <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.23" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -48,7 +45,7 @@
           <entry key="ipynb" value="1" />
           <entry key="jpg" value="1" />
           <entry key="png" value="4" />
-          <entry key="py" value="360" />
+          <entry key="py" value="369" />
           <entry key="python_objects" value="1" />
           <entry key="txt" value="2" />
         </counts>
@@ -58,7 +55,7 @@
           <entry key="IPNB" value="1" />
           <entry key="Image" value="5" />
           <entry key="PLAIN_TEXT" value="22" />
-          <entry key="Python" value="361" />
+          <entry key="Python" value="370" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -67,15 +64,15 @@
           <entry key="csv" value="115" />
           <entry key="dummy" value="8" />
           <entry key="gitignore" value="30" />
-          <entry key="py" value="122024" />
+          <entry key="py" value="124914" />
           <entry key="python_objects" value="358" />
-          <entry key="txt" value="530" />
+          <entry key="txt" value="625" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="683" />
-          <entry key="Python" value="126417" />
+          <entry key="PLAIN_TEXT" value="778" />
+          <entry key="Python" value="129307" />
         </counts>
       </usages-collector>
     </session>
@@ -83,10 +80,46 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/linear_supprt_vector_machines.py">
+        <entry file="file://$PROJECT_DIR$/applied_machine_learning/evaluation/roc_curves.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="170">
+              <caret line="15" column="64" selection-end-line="15" selection-end-column="64" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applied_machine_learning/evaluation/roc_curve2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applied_machine_learning/evaluation/multi_class_evaluation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="697">
+              <caret line="47" column="77" selection-start-line="47" selection-start-column="77" selection-end-line="47" selection-end-column="77" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applied_machine_learning/evaluation/regression_evaluation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -95,34 +128,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/Linear_SVC_multi_class.py">
+        <entry file="file://$PROJECT_DIR$/applied_machine_learning/evaluation/cross_validation_example.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_machine_learning/evaluation/model_selection_and_evaluation.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="28" selection-start-line="26" selection-end-line="28" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_machine_learning/evaluation/confusion_matrix.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="37" lean-forward="true" selection-start-line="28" selection-end-line="37" />
+            <state relative-caret-position="187">
+              <caret line="13" column="86" selection-start-line="13" selection-start-column="86" selection-end-line="13" selection-end-column="86" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
               </folding>
@@ -131,75 +140,52 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_machine_learning/evaluation/evaluation_metrics.py">
+        <entry file="file://$PROJECT_DIR$/applied_machine_learning/evaluation/grid_search_example.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="42" column="65" lean-forward="true" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="65" />
-              <folding>
-                <element signature="e#0#106#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/assignment2.2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="100" selection-start-line="100" selection-end-line="100" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-                <marker date="1579983627434" expanded="true" signature="4255:4260" ph="..." />
-                <marker date="1579983627434" expanded="true" signature="5348:5354" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_machine_learning/evaluation/decision_functions.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="12" column="64" lean-forward="true" selection-end-line="12" selection-end-column="64" />
+            <state relative-caret-position="113">
+              <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="61" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_machine_learning/evaluation/precision-recall_curves.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="16" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_machine_learning/evaluation/roc_curves.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="15" column="64" lean-forward="true" selection-end-line="15" selection-end-column="64" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/applied_machine_learning/evaluation/roc_curve2.py">
+        <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/gaussian_naive_bayers_classifier.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="32" column="10" lean-forward="true" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
+            <state>
+              <caret column="32" selection-start-column="32" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applied_machine_learning/evaluation/optimizing_classifier.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="86" selection-start-line="4" selection-end-line="4" selection-end-column="86" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applied_machine_learning/evaluation/precision_recall_curve_svc.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
               <folding>
-                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#0#52#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/datasets.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -215,8 +201,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>xtick</find>
-      <find>plot_win_pct</find>
       <find>legen</find>
       <find>label2</find>
       <find>spine</find>
@@ -245,6 +229,8 @@
       <find>reshape</find>
       <find>X_predict_input</find>
       <find>kernel</find>
+      <find>adspy_shared_utilities</find>
+      <find>precision_score</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;</replace>
@@ -268,8 +254,9 @@
       <dir>C:\python_data_analysis\applied_plotting_charting_and_data_representation</dir>
       <dir>C:\python_data_analysis\stack</dir>
       <dir>C:\python_data_analysis</dir>
-      <dir>C:\python_data_analysis\applied_machine_learning</dir>
       <dir>C:\python_data_analysis\applied_machine_learning\supervised_machine_learning</dir>
+      <dir>C:\python_data_analysis\applied_machine_learning</dir>
+      <dir>C:\python_data_analysis\applied_machine_learning\evaluation</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -279,13 +266,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/assignment4/assignment4.py" />
-        <option value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/assignment4/data/kkr_data.csv" />
-        <option value="$PROJECT_DIR$/applied_plotting_charting_and_data_representation/assignment4/assignment4.1.py" />
-        <option value="$PROJECT_DIR$/applied_machine_learning/fundamentals_of_machine_learning/basic_fruit_recognition.py" />
-        <option value="$PROJECT_DIR$/applied_machine_learning/fundamentals_of_machine_learning/assignment1.py" />
-        <option value="$PROJECT_DIR$/stack/59558719/how-to-pair-each-column-in-the-list-form-in-pandas-by-python3.py" />
-        <option value="$PROJECT_DIR$/stack/59560266/plotting-histograms-next-to-each-other.py" />
         <option value="$PROJECT_DIR$/stack/59567433/create-dataframe-conditionally-to-other-dataframe-elements.py" />
         <option value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/datasets.py" />
         <option value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/classification.py" />
@@ -330,6 +310,13 @@
         <option value="$PROJECT_DIR$/applied_machine_learning/evaluation/precision-recall_curves.py" />
         <option value="$PROJECT_DIR$/applied_machine_learning/evaluation/roc_curves.py" />
         <option value="$PROJECT_DIR$/applied_machine_learning/evaluation/roc_curve2.py" />
+        <option value="$PROJECT_DIR$/applied_machine_learning/evaluation/multi_class_evaluation.py" />
+        <option value="$PROJECT_DIR$/applied_machine_learning/evaluation/regression_evaluation.py" />
+        <option value="$PROJECT_DIR$/applied_machine_learning/evaluation/cross_validation_example.py" />
+        <option value="$PROJECT_DIR$/applied_machine_learning/evaluation/grid_search_example.py" />
+        <option value="$PROJECT_DIR$/applied_machine_learning/evaluation/optimizing_classifier.py" />
+        <option value="$PROJECT_DIR$/applied_machine_learning/evaluation/precision_recall_curve_svc.py" />
+        <option value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/gaussian_naive_bayers_classifier.py" />
       </list>
     </option>
   </component>
@@ -347,6 +334,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -359,23 +347,10 @@
               <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
               <item name="applied_machine_learning" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="applied_machine_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="evaluation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="applied_machine_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="supervised_machine_learning" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -403,8 +378,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.roc_curve2">
-    <configuration name="decision_functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.multi_class_evaluation">
+    <configuration name="cross_validation_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -416,7 +391,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_machine_learning/evaluation/decision_functions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_machine_learning/evaluation/cross_validation_example.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -425,7 +400,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="evaluation_metrics" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="grid_search_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -437,7 +412,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_machine_learning/evaluation/evaluation_metrics.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_machine_learning/evaluation/grid_search_example.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -446,7 +421,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="precision-recall_curves" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="multi_class_evaluation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -458,7 +433,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_machine_learning/evaluation/precision-recall_curves.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_machine_learning/evaluation/multi_class_evaluation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -467,7 +442,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="roc_curve2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="optimizing_classifier" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -479,7 +454,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_machine_learning/evaluation/roc_curve2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_machine_learning/evaluation/optimizing_classifier.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -488,7 +463,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="roc_curves" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="precision_recall_curve_svc" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -500,7 +475,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_machine_learning/evaluation/roc_curves.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_machine_learning/evaluation/precision_recall_curve_svc.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -510,19 +485,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.evaluation_metrics" />
-      <item itemvalue="Python.decision_functions" />
-      <item itemvalue="Python.precision-recall_curves" />
-      <item itemvalue="Python.roc_curves" />
-      <item itemvalue="Python.roc_curve2" />
+      <item itemvalue="Python.cross_validation_example" />
+      <item itemvalue="Python.grid_search_example" />
+      <item itemvalue="Python.optimizing_classifier" />
+      <item itemvalue="Python.precision_recall_curve_svc" />
+      <item itemvalue="Python.multi_class_evaluation" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.roc_curve2" />
-        <item itemvalue="Python.roc_curves" />
-        <item itemvalue="Python.precision-recall_curves" />
-        <item itemvalue="Python.decision_functions" />
-        <item itemvalue="Python.evaluation_metrics" />
+        <item itemvalue="Python.multi_class_evaluation" />
+        <item itemvalue="Python.precision_recall_curve_svc" />
+        <item itemvalue="Python.optimizing_classifier" />
+        <item itemvalue="Python.grid_search_example" />
+        <item itemvalue="Python.cross_validation_example" />
       </list>
     </recent_temporary>
   </component>
@@ -663,7 +638,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579895347638</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="course 3 week 3 model evaluation, confusion matrix, evaluation metrics and precision-recall and roc curves">
+      <created>1580152734823</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1580152734823</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -679,18 +661,18 @@
     <frame x="-8" y="-8" width="1382" height="703" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3139183" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31467474" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32864675" />
-      <window_info active="true" anchor="bottom" x="19" y="279" width="1322" height="187" id="Run" order="2" sideWeight="0.5990923" visible="true" weight="0.55711776" />
+      <window_info anchor="bottom" x="19" y="279" width="1322" height="187" id="Run" order="2" sideWeight="0.5990923" weight="0.55711776" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.40090773" side_tool="true" weight="0.56239015" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32864675" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49924356" weight="0.45869946" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49924356" visible="true" weight="0.45869946" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50075644" side_tool="true" weight="0.3989455" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49924356" weight="0.37258348" />
       <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.32864675" />
@@ -725,64 +707,14 @@
     <MESSAGE value="removed jupyter files" />
     <MESSAGE value="course 3 week 2 support vector machines and cross validation" />
     <MESSAGE value="course 3 week 2 decision trees" />
-    <option name="LAST_COMMIT_MESSAGE" value="course 3 week 2 decision trees" />
+    <MESSAGE value="course 3 week 3 model evaluation, confusion matrix, evaluation metrics and precision-recall and roc curves" />
+    <option name="LAST_COMMIT_MESSAGE" value="course 3 week 3 model evaluation, confusion matrix, evaluation metrics and precision-recall and roc curves" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/classification.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="3" selection-end-column="111" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack/59578010/value-error-while-comparing-a-two-columns.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intro_data_science_python/statistical_analysis_in_python/assignment4/assignment4.0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2754">
-          <caret line="165" column="49" selection-start-line="165" selection-start-column="49" selection-end-line="165" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack/59577256/pandas-read-excel-usecol-function.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack/59611789/shifting-column-values-in-pandas-dataframe-causes-missing-values.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intro_data_science_python/resources/course1_downloads/mpg.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/linear_regression_crime_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#111#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/ridge_regression.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="53">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#0#111#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -790,9 +722,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" selection-start-line="18" selection-end-line="20" selection-end-column="76" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -800,9 +729,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" lean-forward="true" selection-start-line="3" selection-end-line="10" />
-          <folding>
-            <element signature="e#57#75#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -817,9 +743,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="78" />
-          <folding>
-            <element signature="e#51#82#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -834,9 +757,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -844,9 +764,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
           <caret line="22" column="83" selection-start-line="22" selection-start-column="83" selection-end-line="22" selection-end-column="83" />
-          <folding>
-            <element signature="e#51#70#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -854,9 +771,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#0#51#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -868,9 +782,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#27#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -878,9 +789,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="17" column="74" selection-start-line="17" selection-start-column="74" selection-end-line="17" selection-end-column="74" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -888,9 +796,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="16" column="87" selection-start-line="16" selection-start-column="87" selection-end-line="16" selection-end-column="87" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -898,9 +803,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="23" column="70" selection-start-line="23" selection-start-column="70" selection-end-line="23" selection-end-column="70" />
-          <folding>
-            <element signature="e#0#47#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -908,9 +810,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="5" selection-start-line="5" selection-end-line="10" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#51#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -918,28 +817,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="9" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/validation_curve_example.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/logistic_regression.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="6" column="134" selection-start-line="6" selection-end-line="6" selection-end-column="134" />
-          <folding>
-            <element signature="e#23#42#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -961,9 +848,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="151">
           <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
-          <folding>
-            <element signature="e#15#27#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -988,9 +872,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="167">
           <caret line="25" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1005,9 +886,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="226">
           <caret line="39" selection-start-line="39" selection-end-line="39" />
-          <folding>
-            <element signature="e#25#81#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1015,18 +893,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="226">
           <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/datasets.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1034,9 +900,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="15" column="48" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="48" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1044,9 +907,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="17" column="53" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="53" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1054,9 +914,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="53" selection-start-line="51" selection-end-line="53" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1064,12 +921,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="65" column="31" selection-start-line="65" selection-start-column="31" selection-end-line="65" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-            <marker date="1579981021049" expanded="true" signature="1297:1298" ph="..." />
-            <marker date="1579981021049" expanded="true" signature="2612:2617" ph="..." />
-            <marker date="1579981021049" expanded="true" signature="4107:4112" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1077,71 +928,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/linear_supprt_vector_machines.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="221">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/applied_machine_learning/evaluation/model_selection_and_evaluation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+        <state relative-caret-position="357">
           <caret line="28" selection-start-line="26" selection-end-line="28" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/applied_machine_learning/evaluation/confusion_matrix.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="37" lean-forward="true" selection-start-line="28" selection-end-line="37" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/assignment2.2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="100" selection-start-line="100" selection-end-line="100" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-            <marker date="1579983627434" expanded="true" signature="4255:4260" ph="..." />
-            <marker date="1579983627434" expanded="true" signature="5348:5354" ph="..." />
-          </folding>
+        <state relative-caret-position="527">
+          <caret line="37" selection-start-line="28" selection-end-line="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/applied_machine_learning/evaluation/evaluation_metrics.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="42" column="65" lean-forward="true" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="65" />
-          <folding>
-            <element signature="e#0#106#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="612">
+          <caret line="42" column="65" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="65" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/evaluation/decision_functions.py">
+    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/assignment2.2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" column="64" lean-forward="true" selection-end-line="12" selection-end-column="64" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1598">
+          <caret line="100" selection-start-line="100" selection-end-line="100" />
         </state>
       </provider>
     </entry>
@@ -1149,8 +970,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_machine_learning/evaluation/decision_functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="91" selection-start-line="9" selection-end-line="9" selection-end-column="91" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#0#40#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1158,7 +986,7 @@
     <entry file="file://$PROJECT_DIR$/applied_machine_learning/evaluation/roc_curves.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="15" column="64" lean-forward="true" selection-end-line="15" selection-end-column="64" />
+          <caret line="15" column="64" selection-end-line="15" selection-end-column="64" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
@@ -1167,11 +995,82 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/applied_machine_learning/evaluation/roc_curve2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="32" column="10" lean-forward="true" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
+        <state relative-caret-position="459">
+          <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_machine_learning/evaluation/multi_class_evaluation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="47" column="77" selection-start-line="47" selection-start-column="77" selection-end-line="47" selection-end-column="77" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_machine_learning/evaluation/regression_evaluation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_machine_learning/evaluation/cross_validation_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="86" selection-start-line="13" selection-start-column="86" selection-end-line="13" selection-end-column="86" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_machine_learning/evaluation/optimizing_classifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="86" selection-start-line="4" selection-end-line="4" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_machine_learning/evaluation/precision_recall_curve_svc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/datasets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_machine_learning/evaluation/grid_search_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/gaussian_naive_bayers_classifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="32" selection-start-column="32" selection-end-column="32" />
         </state>
       </provider>
     </entry>
