@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2359d117-368d-4b39-8789-ebc347835e74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/agglomerative_clustering.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/dbscan_clustering.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/dendogram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/k-means_clustering.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/k-means_clustering_fruit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_text_mining/working_with_text/assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_text_mining/working_with_text/working_with_text_in_pandas.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,17 +19,17 @@
     <session id="1545479565">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.10" value="3" />
+          <entry key="project.open.time.10" value="4" />
           <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.15" value="2" />
+          <entry key="project.open.time.15" value="3" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.23" value="1" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -43,7 +40,7 @@
           <entry key="ipynb" value="1" />
           <entry key="jpg" value="1" />
           <entry key="png" value="4" />
-          <entry key="py" value="410" />
+          <entry key="py" value="419" />
           <entry key="python_objects" value="1" />
           <entry key="txt" value="2" />
         </counts>
@@ -53,16 +50,16 @@
           <entry key="IPNB" value="1" />
           <entry key="Image" value="5" />
           <entry key="PLAIN_TEXT" value="22" />
-          <entry key="Python" value="411" />
+          <entry key="Python" value="420" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="4035" />
+          <entry key="Python Console" value="4164" />
           <entry key="csv" value="115" />
           <entry key="dummy" value="12" />
           <entry key="gitignore" value="30" />
-          <entry key="py" value="132409" />
+          <entry key="py" value="136716" />
           <entry key="python_objects" value="358" />
           <entry key="txt" value="767" />
         </counts>
@@ -70,7 +67,8 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="924" />
-          <entry key="Python" value="136802" />
+          <entry key="Python" value="141237" />
+          <entry key="RegExp" value="1" />
         </counts>
       </usages-collector>
     </session>
@@ -78,106 +76,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/pca_fruit.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-              <folding>
-                <element signature="e#0#114#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/multidimensional_scaling_fruit.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" lean-forward="true" selection-start-line="1" selection-end-line="5" />
-              <folding>
-                <element signature="e#0#114#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/mutidimensional_scaling_realdata.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="14" selection-end-line="22" />
-              <folding>
-                <element signature="e#0#32#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/tsne_fruit.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="14" lean-forward="true" selection-end-line="14" />
-              <folding>
-                <element signature="e#0#33#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/tsne_realdata.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="114" selection-start-line="4" selection-start-column="114" selection-end-line="4" selection-end-column="114" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/k-means_clustering.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="65" selection-start-line="9" selection-start-column="65" selection-end-line="9" selection-end-column="65" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/k-means_clustering_fruit.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="114" lean-forward="true" selection-start-line="4" selection-end-line="4" selection-end-column="114" />
-              <folding>
-                <element signature="e#0#34#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/agglomerative_clustering.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="3" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/dendogram.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="153">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -185,7 +87,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/dbscan_clustering.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
@@ -193,6 +95,77 @@
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applied_text_mining/working_with_text/working_with_text.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="23" selection-start-line="23" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applied_text_mining/working_with_text/regular_expression.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="26" column="60" lean-forward="true" selection-start-line="26" selection-start-column="60" selection-end-line="26" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/applied_text_mining/working_with_text/assignment.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="63" selection-start-line="63" selection-end-line="63" selection-end-column="145" />
+              <folding>
+                <element signature="e#1967#1986#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/intro_data_science_python/basic_data_processing_with_pandas/dataframes/dataframe_indexing_loading.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="155">
+              <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/intro_data_science_python/basic_data_processing_with_pandas/dataframes/indexing_dataframes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="73" column="22" lean-forward="true" selection-start-line="73" selection-start-column="22" selection-end-line="73" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/intro_data_science_python/basic_data_processing_with_pandas/dataframes/querying_dataframe.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-785" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/intro_data_science_python/basic_data_processing_with_pandas/dataframes/dataframes1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1331" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applied_text_mining/working_with_text/working_with_text_in_pandas.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="36" column="29" lean-forward="true" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -208,8 +181,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>spine</find>
-      <find>ytick</find>
       <find>bar.get_height()</find>
       <find>title</find>
       <find>arange</find>
@@ -238,6 +209,8 @@
       <find>precision_score</find>
       <find>fruit</find>
       <find>predict_pro</find>
+      <find>dates_df</find>
+      <find>remaining_df</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;</replace>
@@ -255,6 +228,8 @@
       <replace>legend_labels2</replace>
       <replace>team_color</replace>
       <replace>.iloc</replace>
+      <replace>dates</replace>
+      <replace>remaining_rows</replace>
     </replaceStrings>
     <dirStrings>
       <dir>C:\python_data_analysis\applied_plotting_charting_and_data_representation\charting_fundamentals</dir>
@@ -273,11 +248,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/cross_validation.py" />
-        <option value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/validation_curve_example.py" />
-        <option value="$PROJECT_DIR$/applied_machine_learning/fundamentals_of_machine_learning/adspy_shared_utilities.py" />
-        <option value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/decision_trees.py" />
-        <option value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/decision_tree_real_dataset.py" />
         <option value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/decision_tree_feature_importance.py" />
         <option value="$PROJECT_DIR$/applied_machine_learning/resources/mushroom.csv" />
         <option value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/classifier_visualization_playgroud/mushroom.py" />
@@ -324,6 +294,11 @@
         <option value="$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/agglomerative_clustering.py" />
         <option value="$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/dendogram.py" />
         <option value="$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/dbscan_clustering.py" />
+        <option value="$PROJECT_DIR$/applied_text_mining/working_with_text/working_with_text.py" />
+        <option value="$PROJECT_DIR$/applied_text_mining/working_with_text/processing_free_text.py" />
+        <option value="$PROJECT_DIR$/applied_text_mining/working_with_text/regular_expression.py" />
+        <option value="$PROJECT_DIR$/applied_text_mining/working_with_text/working_with_text_in_pandas.py" />
+        <option value="$PROJECT_DIR$/applied_text_mining/working_with_text/assignment.py" />
       </list>
     </option>
   </component>
@@ -352,13 +327,37 @@
             <path>
               <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="applied_machine_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="applied_text_mining" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="applied_machine_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="unsupervised_machine_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="applied_text_mining" type="462c0819:PsiDirectoryNode" />
+              <item name="working_with_text" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
+              <item name="intro_data_science_python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
+              <item name="intro_data_science_python" type="462c0819:PsiDirectoryNode" />
+              <item name="advanced_python_pandas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
+              <item name="intro_data_science_python" type="462c0819:PsiDirectoryNode" />
+              <item name="basic_data_processing_with_pandas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
+              <item name="intro_data_science_python" type="462c0819:PsiDirectoryNode" />
+              <item name="basic_data_processing_with_pandas" type="462c0819:PsiDirectoryNode" />
+              <item name="dataframes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -391,8 +390,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.dbscan_clustering">
-    <configuration name="agglomerative_clustering" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.assignment">
+    <configuration name="assignment" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -400,11 +399,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_text_mining/working_with_text" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/agglomerative_clustering.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_text_mining/working_with_text/assignment.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -413,7 +412,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dbscan_clustering" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="processing_free_text" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -421,11 +420,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_text_mining/working_with_text" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/dbscan_clustering.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_text_mining/working_with_text/processing_free_text.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -434,7 +433,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dendogram" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="regular_expression" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -442,11 +441,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_text_mining/working_with_text" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/dendogram.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_text_mining/working_with_text/regular_expression.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -455,7 +454,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="k-means_clustering" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="working_with_text" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -463,11 +462,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_text_mining/working_with_text" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/k-means_clustering.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_text_mining/working_with_text/working_with_text.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -476,7 +475,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="k-means_clustering_fruit" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="working_with_text_in_pandas" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -484,11 +483,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_text_mining/working_with_text" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/k-means_clustering_fruit.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_text_mining/working_with_text/working_with_text_in_pandas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -498,19 +497,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.k-means_clustering" />
-      <item itemvalue="Python.k-means_clustering_fruit" />
-      <item itemvalue="Python.agglomerative_clustering" />
-      <item itemvalue="Python.dendogram" />
-      <item itemvalue="Python.dbscan_clustering" />
+      <item itemvalue="Python.working_with_text" />
+      <item itemvalue="Python.processing_free_text" />
+      <item itemvalue="Python.regular_expression" />
+      <item itemvalue="Python.working_with_text_in_pandas" />
+      <item itemvalue="Python.assignment" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.dbscan_clustering" />
-        <item itemvalue="Python.dendogram" />
-        <item itemvalue="Python.agglomerative_clustering" />
-        <item itemvalue="Python.k-means_clustering_fruit" />
-        <item itemvalue="Python.k-means_clustering" />
+        <item itemvalue="Python.assignment" />
+        <item itemvalue="Python.regular_expression" />
+        <item itemvalue="Python.working_with_text_in_pandas" />
+        <item itemvalue="Python.processing_free_text" />
+        <item itemvalue="Python.working_with_text" />
       </list>
     </recent_temporary>
   </component>
@@ -708,12 +707,12 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="703" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31467474" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3245083" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32864675" />
-      <window_info anchor="bottom" x="19" y="279" width="1322" height="187" id="Run" order="2" sideWeight="0.5990923" weight="0.5536028" />
+      <window_info active="true" anchor="bottom" x="19" y="279" width="1322" height="187" id="Run" order="2" sideWeight="0.5990923" visible="true" weight="0.31282952" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -763,81 +762,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="course 3 week 4 Unsupervised learning - clustering" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/regression.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="15" column="48" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/regression_complex_k.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="17" column="53" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/mushroom.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="53" selection-start-line="51" selection-end-line="53" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/assignment2.1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="65" column="31" selection-start-line="65" selection-start-column="31" selection-end-line="65" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/Linear_SVC_multi_class.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/linear_supprt_vector_machines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/evaluation/model_selection_and_evaluation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="28" selection-start-line="26" selection-end-line="28" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/evaluation/confusion_matrix.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="37" selection-start-line="28" selection-end-line="37" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/evaluation/evaluation_metrics.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="42" column="65" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="65" />
-          <folding>
-            <element signature="e#0#106#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/assignment2.2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1598">
@@ -856,9 +780,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="9" column="91" selection-start-line="9" selection-end-line="9" selection-end-column="91" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -866,9 +787,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="15" column="64" selection-end-line="15" selection-end-column="64" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -876,9 +794,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -893,9 +808,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#52#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -903,9 +815,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="113">
           <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="61" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -913,28 +822,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="86" selection-start-line="13" selection-start-column="86" selection-end-line="13" selection-end-column="86" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/applied_machine_learning/evaluation/regression_evaluation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/applied_machine_learning/evaluation/multi_class_evaluation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret lean-forward="true" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -942,20 +839,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="139">
           <caret line="40" column="24" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/classification.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#52#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/preample_and_review.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -968,9 +856,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="32" column="107" lean-forward="true" selection-start-line="30" selection-end-line="32" selection-end-column="107" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -978,9 +863,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -988,9 +870,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="40" lean-forward="true" selection-start-line="6" selection-end-line="40" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -998,9 +877,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
-          <folding>
-            <element signature="e#0#55#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1008,9 +884,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1018,9 +891,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="9" selection-start-line="6" selection-end-line="9" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1028,9 +898,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="79" selection-end-line="8" selection-end-column="79" />
-          <folding>
-            <element signature="e#0#134#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1038,9 +905,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" selection-start-line="6" selection-end-line="9" />
-          <folding>
-            <element signature="e#0#134#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1048,9 +912,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="52" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1058,9 +919,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#134#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1068,9 +926,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" selection-start-line="2" selection-end-line="7" />
-          <folding>
-            <element signature="e#0#51#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1078,9 +933,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="24" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1091,16 +943,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/pca_magnitude_feature.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/pca_magnitude_feature.py" />
     <entry file="file://$PROJECT_DIR$/applied_machine_learning/evaluation/assignment.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="19" column="51" selection-start-line="19" selection-end-line="20" />
-          <folding>
-            <element signature="e#527#545#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1108,11 +955,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="172">
           <caret line="22" column="62" lean-forward="true" selection-start-line="22" selection-start-column="62" selection-end-line="22" selection-end-column="62" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-            <marker date="1580664401750" expanded="true" signature="2020:2021" ph="..." />
-            <marker date="1580664401750" expanded="true" signature="2020:2042" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1127,15 +969,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
           <caret line="15" lean-forward="true" selection-start-line="8" selection-end-line="15" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/pca_fruit.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
+        <state relative-caret-position="68">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="e#0#114#0" expanded="true" />
@@ -1145,8 +984,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/multidimensional_scaling_fruit.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="1" selection-end-line="5" />
+        <state relative-caret-position="17">
+          <caret line="5" selection-end-line="5" />
           <folding>
             <element signature="e#0#114#0" expanded="true" />
           </folding>
@@ -1155,10 +994,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/mutidimensional_scaling_realdata.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
+        <state relative-caret-position="170">
           <caret line="14" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/tsne_fruit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="14" selection-end-line="14" />
           <folding>
-            <element signature="e#0#32#0" expanded="true" />
+            <element signature="e#0#33#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1175,7 +1021,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/k-means_clustering.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
+        <state relative-caret-position="119">
           <caret line="9" column="65" selection-start-line="9" selection-start-column="65" selection-end-line="9" selection-end-column="65" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
@@ -1183,32 +1029,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/tsne_fruit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="14" lean-forward="true" selection-end-line="14" />
-          <folding>
-            <element signature="e#0#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/k-means_clustering_fruit.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="114" lean-forward="true" selection-start-line="4" selection-end-line="4" selection-end-column="114" />
+          <caret line="4" column="114" selection-end-line="4" selection-end-column="114" />
           <folding>
             <element signature="e#0#34#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/dendogram.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1223,12 +1049,80 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/dendogram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/dbscan_clustering.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_text_mining/working_with_text/working_with_text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="23" selection-start-line="23" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_text_mining/working_with_text/processing_free_text.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intro_data_science_python/basic_data_processing_with_pandas/dataframes/dataframe_indexing_loading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intro_data_science_python/basic_data_processing_with_pandas/dataframes/indexing_dataframes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="73" column="22" lean-forward="true" selection-start-line="73" selection-start-column="22" selection-end-line="73" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intro_data_science_python/basic_data_processing_with_pandas/dataframes/querying_dataframe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-785" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intro_data_science_python/basic_data_processing_with_pandas/dataframes/dataframes1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1331" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_text_mining/working_with_text/regular_expression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="26" column="60" lean-forward="true" selection-start-line="26" selection-start-column="60" selection-end-line="26" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_text_mining/working_with_text/working_with_text_in_pandas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="36" column="29" lean-forward="true" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_text_mining/working_with_text/assignment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="63" selection-start-line="63" selection-end-line="63" selection-end-column="145" />
+          <folding>
+            <element signature="e#1967#1986#0" expanded="true" />
           </folding>
         </state>
       </provider>
