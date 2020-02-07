@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2359d117-368d-4b39-8789-ebc347835e74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/applied_text_mining/working_with_text/assignment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_text_mining/working_with_text/working_with_text_in_pandas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_text_mining/basic_natural_language_processing/advanced_nlp_tasks_with_nltk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_text_mining/basic_natural_language_processing/basic_nlp_tasks_with_nltk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_text_mining/basic_natural_language_processing/mygrammar1.cfg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,13 +35,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="cfg" value="1" />
           <entry key="csv" value="16" />
           <entry key="dot" value="3" />
           <entry key="gitignore" value="1" />
           <entry key="ipynb" value="1" />
           <entry key="jpg" value="1" />
           <entry key="png" value="4" />
-          <entry key="py" value="419" />
+          <entry key="py" value="424" />
           <entry key="python_objects" value="1" />
           <entry key="txt" value="2" />
         </counts>
@@ -49,25 +51,26 @@
         <counts>
           <entry key="IPNB" value="1" />
           <entry key="Image" value="5" />
-          <entry key="PLAIN_TEXT" value="22" />
-          <entry key="Python" value="420" />
+          <entry key="PLAIN_TEXT" value="23" />
+          <entry key="Python" value="425" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="4164" />
+          <entry key="Python Console" value="4386" />
+          <entry key="cfg" value="143" />
           <entry key="csv" value="115" />
           <entry key="dummy" value="12" />
           <entry key="gitignore" value="30" />
-          <entry key="py" value="136716" />
+          <entry key="py" value="138554" />
           <entry key="python_objects" value="358" />
-          <entry key="txt" value="767" />
+          <entry key="txt" value="830" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="924" />
-          <entry key="Python" value="141237" />
+          <entry key="PLAIN_TEXT" value="1130" />
+          <entry key="Python" value="143297" />
           <entry key="RegExp" value="1" />
         </counts>
       </usages-collector>
@@ -76,48 +79,15 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/dendogram.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/dbscan_clustering.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_text_mining/working_with_text/working_with_text.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="23" selection-start-line="23" selection-end-line="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/applied_text_mining/working_with_text/regular_expression.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="298">
-              <caret line="26" column="60" lean-forward="true" selection-start-line="26" selection-start-column="60" selection-end-line="26" selection-end-column="60" />
+              <caret line="26" column="60" selection-start-line="26" selection-start-column="60" selection-end-line="26" selection-end-column="60" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/applied_text_mining/working_with_text/assignment.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
@@ -130,10 +100,40 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applied_text_mining/basic_natural_language_processing/basic_nlp_tasks_with_nltk.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="53" selection-start-line="53" selection-end-line="53" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/intro_data_science_python/basic_data_processing_with_pandas/dataframes/dataframe_indexing_loading.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="155">
-              <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+              <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/applied_text_mining/basic_natural_language_processing/advanced_nlp_tasks_with_nltk.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="42" column="27" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applied_text_mining/basic_natural_language_processing/mygrammar1.cfg">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -142,7 +142,7 @@
         <entry file="file://$PROJECT_DIR$/intro_data_science_python/basic_data_processing_with_pandas/dataframes/indexing_dataframes.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
-              <caret line="73" column="22" lean-forward="true" selection-start-line="73" selection-start-column="22" selection-end-line="73" selection-end-column="22" />
+              <caret line="73" column="22" selection-start-line="73" selection-start-column="22" selection-end-line="73" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -165,7 +165,7 @@
         <entry file="file://$PROJECT_DIR$/applied_text_mining/working_with_text/working_with_text_in_pandas.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="36" column="29" lean-forward="true" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="46" />
+              <caret line="36" column="29" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -248,9 +248,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/decision_tree_feature_importance.py" />
-        <option value="$PROJECT_DIR$/applied_machine_learning/resources/mushroom.csv" />
-        <option value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/classifier_visualization_playgroud/mushroom.py" />
         <option value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/assignment2.1.py" />
         <option value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/assignment2.2.py" />
         <option value="$PROJECT_DIR$/applied_machine_learning/evaluation/model_selection_and_evaluation.py" />
@@ -299,6 +296,9 @@
         <option value="$PROJECT_DIR$/applied_text_mining/working_with_text/regular_expression.py" />
         <option value="$PROJECT_DIR$/applied_text_mining/working_with_text/working_with_text_in_pandas.py" />
         <option value="$PROJECT_DIR$/applied_text_mining/working_with_text/assignment.py" />
+        <option value="$PROJECT_DIR$/applied_text_mining/basic_natural_language_processing/basic_nlp_tasks_with_nltk.py" />
+        <option value="$PROJECT_DIR$/applied_text_mining/basic_natural_language_processing/mygrammar1.cfg" />
+        <option value="$PROJECT_DIR$/applied_text_mining/basic_natural_language_processing/advanced_nlp_tasks_with_nltk.py" />
       </list>
     </option>
   </component>
@@ -333,31 +333,7 @@
               <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
               <item name="applied_text_mining" type="462c0819:PsiDirectoryNode" />
-              <item name="working_with_text" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="intro_data_science_python" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="intro_data_science_python" type="462c0819:PsiDirectoryNode" />
-              <item name="advanced_python_pandas" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="intro_data_science_python" type="462c0819:PsiDirectoryNode" />
-              <item name="basic_data_processing_with_pandas" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="intro_data_science_python" type="462c0819:PsiDirectoryNode" />
-              <item name="basic_data_processing_with_pandas" type="462c0819:PsiDirectoryNode" />
-              <item name="dataframes" type="462c0819:PsiDirectoryNode" />
+              <item name="basic_natural_language_processing" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -390,7 +366,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.assignment">
+  <component name="RunManager" selected="Python.advanced_nlp_tasks_with_nltk">
+    <configuration name="advanced_nlp_tasks_with_nltk" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_data_analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_text_mining/basic_natural_language_processing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_text_mining/basic_natural_language_processing/advanced_nlp_tasks_with_nltk.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="assignment" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -412,7 +409,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="processing_free_text" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="basic_nlp_tasks_with_nltk" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -420,11 +417,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_text_mining/working_with_text" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_text_mining/basic_natural_language_processing" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_text_mining/working_with_text/processing_free_text.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_text_mining/basic_natural_language_processing/basic_nlp_tasks_with_nltk.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -446,27 +443,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_text_mining/working_with_text/regular_expression.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="working_with_text" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_data_analysis" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_text_mining/working_with_text" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_text_mining/working_with_text/working_with_text.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -497,19 +473,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.working_with_text" />
-      <item itemvalue="Python.processing_free_text" />
       <item itemvalue="Python.regular_expression" />
       <item itemvalue="Python.working_with_text_in_pandas" />
       <item itemvalue="Python.assignment" />
+      <item itemvalue="Python.basic_nlp_tasks_with_nltk" />
+      <item itemvalue="Python.advanced_nlp_tasks_with_nltk" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.advanced_nlp_tasks_with_nltk" />
+        <item itemvalue="Python.basic_nlp_tasks_with_nltk" />
         <item itemvalue="Python.assignment" />
         <item itemvalue="Python.regular_expression" />
         <item itemvalue="Python.working_with_text_in_pandas" />
-        <item itemvalue="Python.processing_free_text" />
-        <item itemvalue="Python.working_with_text" />
       </list>
     </recent_temporary>
   </component>
@@ -692,7 +668,21 @@
       <option name="project" value="LOCAL" />
       <updated>1580710767930</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="applied_text_mining week 1 working_with_text complete">
+      <created>1581093919881</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1581093919881</updated>
+    </task>
+    <task id="LOCAL-00026" summary="applied_text_mining week 1 working_with_text complete">
+      <created>1581093968337</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1581093968337</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -712,7 +702,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32864675" />
-      <window_info active="true" anchor="bottom" x="19" y="279" width="1322" height="187" id="Run" order="2" sideWeight="0.5990923" visible="true" weight="0.31282952" />
+      <window_info anchor="bottom" x="19" y="279" width="1322" height="187" id="Run" order="2" sideWeight="0.5990923" weight="0.51318103" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -720,7 +710,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32864675" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49924356" weight="0.45869946" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50075644" side_tool="true" weight="0.3989455" />
-      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49924356" weight="0.37258348" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="10" sideWeight="0.49924356" visible="true" weight="0.37258348" />
       <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.32864675" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -759,30 +749,10 @@
     <MESSAGE value="course 3 week 4 Neural networks" />
     <MESSAGE value="course 3 week 4 Unsupervised learning - MDS and TSNE and assignment complete" />
     <MESSAGE value="course 3 week 4 Unsupervised learning - clustering" />
-    <option name="LAST_COMMIT_MESSAGE" value="course 3 week 4 Unsupervised learning - clustering" />
+    <MESSAGE value="applied_text_mining week 1 working_with_text complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="applied_text_mining week 1 working_with_text complete" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/assignment2.2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1598">
-          <caret line="100" selection-start-line="100" selection-end-line="100" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/evaluation/precision-recall_curves.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/evaluation/decision_functions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="91" selection-start-line="9" selection-end-line="9" selection-end-column="91" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/applied_machine_learning/evaluation/roc_curves.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -1079,17 +1049,10 @@
     <entry file="file://$PROJECT_DIR$/applied_text_mining/working_with_text/processing_free_text.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/intro_data_science_python/basic_data_processing_with_pandas/dataframes/dataframe_indexing_loading.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/intro_data_science_python/basic_data_processing_with_pandas/dataframes/indexing_dataframes.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="73" column="22" lean-forward="true" selection-start-line="73" selection-start-column="22" selection-end-line="73" selection-end-column="22" />
+          <caret line="73" column="22" selection-start-line="73" selection-start-column="22" selection-end-line="73" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -1106,14 +1069,14 @@
     <entry file="file://$PROJECT_DIR$/applied_text_mining/working_with_text/regular_expression.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="298">
-          <caret line="26" column="60" lean-forward="true" selection-start-line="26" selection-start-column="60" selection-end-line="26" selection-end-column="60" />
+          <caret line="26" column="60" selection-start-line="26" selection-start-column="60" selection-end-line="26" selection-end-column="60" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/applied_text_mining/working_with_text/working_with_text_in_pandas.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="36" column="29" lean-forward="true" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="46" />
+          <caret line="36" column="29" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="46" />
         </state>
       </provider>
     </entry>
@@ -1124,6 +1087,37 @@
           <folding>
             <element signature="e#1967#1986#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_text_mining/basic_natural_language_processing/basic_nlp_tasks_with_nltk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intro_data_science_python/basic_data_processing_with_pandas/dataframes/dataframe_indexing_loading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_text_mining/basic_natural_language_processing/mygrammar1.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_text_mining/basic_natural_language_processing/advanced_nlp_tasks_with_nltk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="42" column="27" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
         </state>
       </provider>
     </entry>
