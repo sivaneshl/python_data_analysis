@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2359d117-368d-4b39-8789-ebc347835e74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/applied_text_mining/topic_modelling/assignment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_text_mining/topic_modelling/assignment2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_text_mining/topic_modelling/semantic_text_similarity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/basic_networkX_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/basic_networkX_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_text_mining/resources/Amazon_Unlocked_Mobile.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,7 +43,7 @@
           <entry key="ipynb" value="1" />
           <entry key="jpg" value="1" />
           <entry key="png" value="4" />
-          <entry key="py" value="440" />
+          <entry key="py" value="444" />
           <entry key="python_objects" value="1" />
           <entry key="txt" value="2" />
         </counts>
@@ -53,7 +53,7 @@
           <entry key="IPNB" value="1" />
           <entry key="Image" value="5" />
           <entry key="PLAIN_TEXT" value="24" />
-          <entry key="Python" value="441" />
+          <entry key="Python" value="445" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -63,15 +63,15 @@
           <entry key="csv" value="115" />
           <entry key="dummy" value="12" />
           <entry key="gitignore" value="30" />
-          <entry key="py" value="148584" />
+          <entry key="py" value="150302" />
           <entry key="python_objects" value="358" />
-          <entry key="txt" value="878" />
+          <entry key="txt" value="882" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="1178" />
-          <entry key="Python" value="153327" />
+          <entry key="PLAIN_TEXT" value="1182" />
+          <entry key="Python" value="155045" />
           <entry key="RegExp" value="1" />
         </counts>
       </usages-collector>
@@ -82,8 +82,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/intro_data_science_python/advanced_python_pandas/group_by/groupby1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
-              <caret line="14" column="16" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="16" />
+            <state relative-caret-position="232">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -92,67 +92,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_text_mining/classification_of_text/casestudy_sentiment_analysis.py">
+        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/basic_networkX_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="74" column="39" selection-start-line="74" selection-start-column="39" selection-end-line="74" selection-end-column="39" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_text_mining/classification_of_text/assignment.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="59">
-              <caret line="276" column="52" selection-start-line="276" selection-start-column="52" selection-end-line="276" selection-end-column="52" />
-              <folding>
-                <element signature="e#114#133#0" expanded="true" />
-                <marker date="1582142440729" expanded="true" signature="2878:11515" ph="..." />
-                <marker date="1582142440729" expanded="true" signature="9472:11515" ph="..." />
-                <marker date="1582142440729" expanded="true" signature="11551:11552" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_text_mining/topic_modelling/semantic_text_similarity.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_text_mining/topic_modelling/assignment.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
-              <caret line="164" selection-start-line="164" selection-end-line="164" />
-              <folding>
-                <element signature="e#56#75#0" expanded="true" />
-                <marker date="1582267945486" expanded="true" signature="5773:5778" ph="..." />
-                <marker date="1582267945486" expanded="true" signature="5773:5979" ph="..." />
-                <marker date="1582267945486" expanded="true" signature="6437:6442" ph="..." />
-              </folding>
+            <state relative-caret-position="225">
+              <caret line="34" lean-forward="true" selection-start-line="29" selection-end-line="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/applied_text_mining/topic_modelling/assignment2.py">
+        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/basic_networkX_2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="82" column="20" lean-forward="true" selection-start-line="82" selection-start-column="20" selection-end-line="82" selection-end-column="20" />
-              <folding>
-                <element signature="e#450#463#0" expanded="true" />
-              </folding>
+              <caret line="57" column="75" selection-start-line="57" selection-start-column="75" selection-end-line="57" selection-end-column="75" />
             </state>
           </provider>
         </entry>
@@ -169,7 +121,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/applied_text_mining/basic_natural_language_processing/basic_nlp_tasks_with_nltk.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
+            <state relative-caret-position="765">
               <caret line="49" column="6" selection-start-line="49" selection-start-column="2" selection-end-line="49" selection-end-column="6" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
@@ -203,8 +155,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>line_color</find>
-      <find>team_label</find>
       <find>_dict</find>
       <find>plot_fr</find>
       <find>np.arange</find>
@@ -233,6 +183,8 @@
       <find>LinearRegression</find>
       <find>toke</find>
       <find>tag</find>
+      <find>egde</find>
+      <find>G.edge</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;</replace>
@@ -271,8 +223,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/applied_machine_learning/evaluation/precision-recall_curves.py" />
-        <option value="$PROJECT_DIR$/applied_machine_learning/evaluation/roc_curves.py" />
         <option value="$PROJECT_DIR$/applied_machine_learning/evaluation/roc_curve2.py" />
         <option value="$PROJECT_DIR$/applied_machine_learning/evaluation/multi_class_evaluation.py" />
         <option value="$PROJECT_DIR$/applied_machine_learning/evaluation/regression_evaluation.py" />
@@ -322,6 +272,8 @@
         <option value="$PROJECT_DIR$/applied_text_mining/topic_modelling/semantic_text_similarity.py" />
         <option value="$PROJECT_DIR$/applied_text_mining/topic_modelling/assignment.py" />
         <option value="$PROJECT_DIR$/applied_text_mining/topic_modelling/assignment2.py" />
+        <option value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/basic_networkX_1.py" />
+        <option value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/basic_networkX_2.py" />
       </list>
     </option>
   </component>
@@ -338,6 +290,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -348,25 +301,18 @@
             <path>
               <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="applied_text_mining" type="462c0819:PsiDirectoryNode" />
+              <item name="applied_social_network_analysis" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="applied_text_mining" type="462c0819:PsiDirectoryNode" />
-              <item name="basic_natural_language_processing" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="applied_text_mining" type="462c0819:PsiDirectoryNode" />
-              <item name="topic_modelling" type="462c0819:PsiDirectoryNode" />
+              <item name="applied_social_network_analysis" type="462c0819:PsiDirectoryNode" />
+              <item name="basic_networkX" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -394,7 +340,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.assignment2">
+  <component name="RunManager" selected="Python.basic_networkX_2">
     <configuration name="assignment (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -458,7 +404,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="casestudy_sentiment_analysis" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="basic_networkX_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -466,11 +412,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_text_mining/classification_of_text" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_text_mining/classification_of_text/casestudy_sentiment_analysis.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/basic_networkX_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -501,19 +447,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.casestudy_sentiment_analysis" />
       <item itemvalue="Python.assignment (2)" />
       <item itemvalue="Python.semantic_text_similarity" />
       <item itemvalue="Python.assignment" />
       <item itemvalue="Python.assignment2" />
+      <item itemvalue="Python.basic_networkX_2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.basic_networkX_2" />
         <item itemvalue="Python.assignment2" />
         <item itemvalue="Python.assignment" />
         <item itemvalue="Python.semantic_text_similarity" />
         <item itemvalue="Python.assignment (2)" />
-        <item itemvalue="Python.casestudy_sentiment_analysis" />
       </list>
     </recent_temporary>
   </component>
@@ -724,7 +670,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582173676923</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="applied_text_mining week 3 &amp; 4 completed">
+      <created>1582308244449</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1582308244449</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -740,7 +693,7 @@
     <frame x="-8" y="-8" width="1382" height="703" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33131617" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33661118" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -769,7 +722,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="week 3 assignment q1" />
     <MESSAGE value="week 4" />
     <MESSAGE value="added .gitignore" />
     <MESSAGE value="added .gitignore fix" />
@@ -794,30 +746,10 @@
     <MESSAGE value="applied_text_mining week 1 working_with_text complete" />
     <MESSAGE value="applied_text_mining week 2 basic nlp" />
     <MESSAGE value="applied_text_mining week 3 completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="applied_text_mining week 3 completed" />
+    <MESSAGE value="applied_text_mining week 3 &amp; 4 completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="applied_text_mining week 3 &amp; 4 completed" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/ensembles_of_decision_trees/random_forests_fruit_dataset.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="40" lean-forward="true" selection-start-line="6" selection-end-line="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/ensembles_of_decision_trees/gbdt_real_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/neural_networks/activation_functions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/ensembles_of_decision_trees/random_forests.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -1027,21 +959,12 @@
           <caret line="172" column="44" selection-start-line="172" selection-start-column="44" selection-end-line="172" selection-end-column="44" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
-            <marker date="1581613747529" expanded="true" signature="587:592" ph="..." />
-            <marker date="1581613747529" expanded="true" signature="3293:3465" ph="..." />
-            <marker date="1581613747529" expanded="true" signature="3715:3862" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/intro_data_science_python/advanced_python_pandas/pivot_tables/pivot_table1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/applied_text_mining/basic_natural_language_processing/mygrammar1.cfg">
       <provider selected="true" editor-type-id="text-editor">
@@ -1071,8 +994,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/intro_data_science_python/advanced_python_pandas/group_by/groupby1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="14" column="16" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="16" />
+        <state relative-caret-position="232">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
@@ -1088,9 +1011,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="74" column="39" selection-start-line="74" selection-start-column="39" selection-end-line="74" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1098,18 +1018,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="59">
           <caret line="276" column="52" selection-start-line="276" selection-start-column="52" selection-end-line="276" selection-end-column="52" />
-          <folding>
-            <element signature="e#114#133#0" expanded="true" />
-            <marker date="1582142440729" expanded="true" signature="2878:11515" ph="..." />
-            <marker date="1582142440729" expanded="true" signature="9472:11515" ph="..." />
-            <marker date="1582142440729" expanded="true" signature="11551:11552" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/applied_text_mining/basic_natural_language_processing/basic_nlp_tasks_with_nltk.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
+        <state relative-caret-position="765">
           <caret line="49" column="6" selection-start-line="49" selection-start-column="2" selection-end-line="49" selection-end-column="6" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
@@ -1140,9 +1054,6 @@
           <caret line="164" selection-start-line="164" selection-end-line="164" />
           <folding>
             <element signature="e#56#75#0" expanded="true" />
-            <marker date="1582267945486" expanded="true" signature="5773:5778" ph="..." />
-            <marker date="1582267945486" expanded="true" signature="5773:5979" ph="..." />
-            <marker date="1582267945486" expanded="true" signature="6437:6442" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1154,6 +1065,27 @@
           <folding>
             <element signature="e#450#463#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/networkx/classes/graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="18" column="34" lean-forward="true" selection-start-line="15" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/basic_networkX_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="34" lean-forward="true" selection-start-line="29" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/basic_networkX_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="57" column="75" selection-start-line="57" selection-start-column="75" selection-end-line="57" selection-end-column="75" />
         </state>
       </provider>
     </entry>
