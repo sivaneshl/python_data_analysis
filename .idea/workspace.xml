@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2359d117-368d-4b39-8789-ebc347835e74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/basic_networkX_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/basic_networkX_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_text_mining/resources/Amazon_Unlocked_Mobile.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/G_edgelist.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/assignment1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/bipartite_graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/bipartite_graph_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/bipartite_graph_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/chess_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/loading_graphs_networkx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/quiz1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,17 +48,17 @@
           <entry key="ipynb" value="1" />
           <entry key="jpg" value="1" />
           <entry key="png" value="4" />
-          <entry key="py" value="444" />
+          <entry key="py" value="452" />
           <entry key="python_objects" value="1" />
-          <entry key="txt" value="2" />
+          <entry key="txt" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IPNB" value="1" />
           <entry key="Image" value="5" />
-          <entry key="PLAIN_TEXT" value="24" />
-          <entry key="Python" value="445" />
+          <entry key="PLAIN_TEXT" value="27" />
+          <entry key="Python" value="453" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -63,15 +68,15 @@
           <entry key="csv" value="115" />
           <entry key="dummy" value="12" />
           <entry key="gitignore" value="30" />
-          <entry key="py" value="150302" />
+          <entry key="py" value="154692" />
           <entry key="python_objects" value="358" />
-          <entry key="txt" value="882" />
+          <entry key="txt" value="989" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="1182" />
-          <entry key="Python" value="155045" />
+          <entry key="PLAIN_TEXT" value="1289" />
+          <entry key="Python" value="159435" />
           <entry key="RegExp" value="1" />
         </counts>
       </usages-collector>
@@ -80,66 +85,104 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/intro_data_science_python/advanced_python_pandas/group_by/groupby1.py">
+        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/basic_networkX_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="164">
+              <caret line="53" column="31" lean-forward="true" selection-start-line="53" selection-start-column="31" selection-end-line="53" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/bipartite_graph_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="157">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
               <folding>
-                <element signature="e#0#19#0" expanded="true" />
+                <element signature="e#0#21#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/basic_networkX_1.py">
+        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/loading_graphs_networkx.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="191">
+              <caret line="56" lean-forward="true" selection-start-line="54" selection-end-line="56" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/chess_example.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="34" lean-forward="true" selection-start-line="29" selection-end-line="34" />
+              <caret line="41" column="33" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/chess_graph.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/quiz1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/basic_networkX_2.py">
+        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/assignment1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="57" column="75" selection-start-line="57" selection-start-column="75" selection-end-line="57" selection-end-column="75" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_text_mining/basic_natural_language_processing/advanced_nlp_tasks_with_nltk.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_text_mining/basic_natural_language_processing/basic_nlp_tasks_with_nltk.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="49" column="6" selection-start-line="49" selection-start-column="2" selection-end-line="49" selection-end-column="6" />
+            <state relative-caret-position="140">
+              <caret line="106" lean-forward="true" selection-start-line="80" selection-end-line="106" />
               <folding>
-                <element signature="e#0#11#0" expanded="true" />
+                <element signature="e#553#574#0" expanded="true" />
+                <marker date="1582483427431" expanded="true" signature="1504:4472" ph="..." />
+                <marker date="1582483427431" expanded="true" signature="3421:4455" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/intro_data_science_python/basic_data_processing_with_pandas/dataframes/dataframe_exercise2.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/G_edgelist.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_text_mining/working_with_text/working_with_text_in_pandas.py">
+        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/G_adjlist.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="36" column="29" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="46" />
+            <state relative-caret-position="153">
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/bipartite_graph_3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -223,15 +266,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/applied_machine_learning/evaluation/roc_curve2.py" />
-        <option value="$PROJECT_DIR$/applied_machine_learning/evaluation/multi_class_evaluation.py" />
-        <option value="$PROJECT_DIR$/applied_machine_learning/evaluation/regression_evaluation.py" />
-        <option value="$PROJECT_DIR$/applied_machine_learning/evaluation/cross_validation_example.py" />
-        <option value="$PROJECT_DIR$/applied_machine_learning/evaluation/grid_search_example.py" />
-        <option value="$PROJECT_DIR$/applied_machine_learning/evaluation/optimizing_classifier.py" />
-        <option value="$PROJECT_DIR$/applied_machine_learning/evaluation/precision_recall_curve_svc.py" />
-        <option value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/gaussian_naive_bayers_classifier.py" />
-        <option value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/ensembles_of_decision_trees/random_forests.py" />
         <option value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/ensembles_of_decision_trees/random_forests_fruit_dataset.py" />
         <option value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/ensembles_of_decision_trees/random_forests_real_data.py" />
         <option value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/ensembles_of_decision_trees/gradient_boosted_decision_tress.py" />
@@ -274,6 +308,15 @@
         <option value="$PROJECT_DIR$/applied_text_mining/topic_modelling/assignment2.py" />
         <option value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/basic_networkX_1.py" />
         <option value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/basic_networkX_2.py" />
+        <option value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/bipartite_graph.py" />
+        <option value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/bipartite_graph_3.py" />
+        <option value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/bipartite_graph_2.py" />
+        <option value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/G_adjlist.txt.txt" />
+        <option value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/G_edgelist.txt" />
+        <option value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/loading_graphs_networkx.py" />
+        <option value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/chess_example.py" />
+        <option value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/quiz1.py" />
+        <option value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/assignment1.py" />
       </list>
     </option>
   </component>
@@ -309,6 +352,17 @@
               <item name="applied_social_network_analysis" type="462c0819:PsiDirectoryNode" />
               <item name="basic_networkX" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
+              <item name="applied_text_mining" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
+              <item name="applied_text_mining" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -340,71 +394,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.basic_networkX_2">
-    <configuration name="assignment (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_data_analysis" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_text_mining/classification_of_text" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_text_mining/classification_of_text/assignment.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="assignment" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_data_analysis" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_text_mining/topic_modelling" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_text_mining/topic_modelling/assignment.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="assignment2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_data_analysis" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_text_mining/topic_modelling" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_text_mining/topic_modelling/assignment2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="basic_networkX_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.assignment1">
+    <configuration name="assignment1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -416,7 +407,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/basic_networkX_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/assignment1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -425,7 +416,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="semantic_text_similarity" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="bipartite_graph_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -433,11 +424,74 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_text_mining/topic_modelling" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_text_mining/topic_modelling/semantic_text_similarity.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/bipartite_graph_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chess_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_data_analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/chess_example.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="loading_graphs_networkx" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_data_analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/loading_graphs_networkx.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="quiz1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_data_analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/quiz1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -447,19 +501,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.assignment (2)" />
-      <item itemvalue="Python.semantic_text_similarity" />
-      <item itemvalue="Python.assignment" />
-      <item itemvalue="Python.assignment2" />
-      <item itemvalue="Python.basic_networkX_2" />
+      <item itemvalue="Python.bipartite_graph_3" />
+      <item itemvalue="Python.loading_graphs_networkx" />
+      <item itemvalue="Python.chess_example" />
+      <item itemvalue="Python.quiz1" />
+      <item itemvalue="Python.assignment1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.basic_networkX_2" />
-        <item itemvalue="Python.assignment2" />
-        <item itemvalue="Python.assignment" />
-        <item itemvalue="Python.semantic_text_similarity" />
-        <item itemvalue="Python.assignment (2)" />
+        <item itemvalue="Python.assignment1" />
+        <item itemvalue="Python.quiz1" />
+        <item itemvalue="Python.chess_example" />
+        <item itemvalue="Python.loading_graphs_networkx" />
+        <item itemvalue="Python.bipartite_graph_3" />
       </list>
     </recent_temporary>
   </component>
@@ -677,7 +731,21 @@
       <option name="project" value="LOCAL" />
       <updated>1582308244449</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="applied_social_network_analysis week 1 networkx basics">
+      <created>1582312995694</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1582312995694</updated>
+    </task>
+    <task id="LOCAL-00031" summary="applied_social_network_analysis week 1 networkx basics">
+      <created>1582313166220</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1582313166220</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -722,7 +790,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="week 4" />
     <MESSAGE value="added .gitignore" />
     <MESSAGE value="added .gitignore fix" />
     <MESSAGE value="week4 assignment q1-q5" />
@@ -747,73 +814,10 @@
     <MESSAGE value="applied_text_mining week 2 basic nlp" />
     <MESSAGE value="applied_text_mining week 3 completed" />
     <MESSAGE value="applied_text_mining week 3 &amp; 4 completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="applied_text_mining week 3 &amp; 4 completed" />
+    <MESSAGE value="applied_social_network_analysis week 1 networkx basics" />
+    <option name="LAST_COMMIT_MESSAGE" value="applied_social_network_analysis week 1 networkx basics" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/ensembles_of_decision_trees/random_forests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="9" selection-start-line="6" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/neural_networks/mlp_classification_single_hidden_layer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="79" selection-end-line="8" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/neural_networks/mlp_classification_two_hidden_layer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="6" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/neural_networks/mlp_regression.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="52" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/neural_networks/mlp_classification_alpha_regularization.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/ensembles_of_decision_trees/random_forests_real_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="2" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/neural_networks/mlp_regression_realdata.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/neural_networks/mlp_classification_activation_functions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="134" selection-end-column="134" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/pca_magnitude_feature.py" />
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/evaluation/assignment.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="19" column="51" selection-start-line="19" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/assignment.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="172">
@@ -1075,17 +1079,103 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/basic_networkX_1.py">
+    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/bipartite_graph.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="34" lean-forward="true" selection-start-line="29" selection-end-line="34" />
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/basic_networkX_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/bipartite_graph_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/G_adjlist.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/G_edgelist.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/quiz1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/chess_graph.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/chess_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="41" column="33" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/loading_graphs_networkx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="56" lean-forward="true" selection-start-line="54" selection-end-line="56" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/basic_networkX_2.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="53" column="31" lean-forward="true" selection-start-line="53" selection-start-column="31" selection-end-line="53" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/bipartite_graph_3.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="57" column="75" selection-start-line="57" selection-start-column="75" selection-end-line="57" selection-end-column="75" />
+          <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/assignment1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="106" lean-forward="true" selection-start-line="80" selection-end-line="106" />
+          <folding>
+            <element signature="e#553#574#0" expanded="true" />
+            <marker date="1582483427431" expanded="true" signature="1504:4472" ph="..." />
+            <marker date="1582483427431" expanded="true" signature="3421:4455" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
