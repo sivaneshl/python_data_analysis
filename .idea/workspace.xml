@@ -5,14 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2359d117-368d-4b39-8789-ebc347835e74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/G_edgelist.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/assignment1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/bipartite_graph.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/bipartite_graph_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/bipartite_graph_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/chess_example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/loading_graphs_networkx.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/quiz1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/clustering_coeff.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/connectivity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/distance_karate_club.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/distance_measure.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/robustness.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/robustness1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/visualizing_networks.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,7 +48,7 @@
           <entry key="ipynb" value="1" />
           <entry key="jpg" value="1" />
           <entry key="png" value="4" />
-          <entry key="py" value="452" />
+          <entry key="py" value="460" />
           <entry key="python_objects" value="1" />
           <entry key="txt" value="5" />
         </counts>
@@ -58,7 +58,7 @@
           <entry key="IPNB" value="1" />
           <entry key="Image" value="5" />
           <entry key="PLAIN_TEXT" value="27" />
-          <entry key="Python" value="453" />
+          <entry key="Python" value="461" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -68,15 +68,15 @@
           <entry key="csv" value="115" />
           <entry key="dummy" value="12" />
           <entry key="gitignore" value="30" />
-          <entry key="py" value="154692" />
+          <entry key="py" value="161185" />
           <entry key="python_objects" value="358" />
-          <entry key="txt" value="989" />
+          <entry key="txt" value="1014" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="1289" />
-          <entry key="Python" value="159435" />
+          <entry key="PLAIN_TEXT" value="1314" />
+          <entry key="Python" value="165928" />
           <entry key="RegExp" value="1" />
         </counts>
       </usages-collector>
@@ -85,69 +85,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/basic_networkX_2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="53" column="31" lean-forward="true" selection-start-line="53" selection-start-column="31" selection-end-line="53" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/bipartite_graph_2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/loading_graphs_networkx.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="56" lean-forward="true" selection-start-line="54" selection-end-line="56" />
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/chess_example.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="41" column="33" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/chess_graph.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/quiz1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/assignment1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="140">
-              <caret line="106" lean-forward="true" selection-start-line="80" selection-end-line="106" />
+              <caret line="106" selection-start-line="80" selection-end-line="106" />
               <folding>
                 <element signature="e#553#574#0" expanded="true" />
                 <marker date="1582483427431" expanded="true" signature="1504:4472" ph="..." />
@@ -158,19 +99,80 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/G_edgelist.txt">
+        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/clustering_coeff.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            <state relative-caret-position="38">
+              <caret line="3" selection-start-line="3" selection-end-line="4" selection-end-column="90" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/G_adjlist.txt">
+        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/distance_measure.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            <state relative-caret-position="204">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/distance_karate_club.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/connectivity.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
+              <caret line="31" column="33" lean-forward="true" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/robustness.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="18" selection-start-line="18" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/robustness1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/visualizing_networks.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="48" selection-start-line="48" selection-end-line="48" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/assignment.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="134" column="63" lean-forward="true" selection-start-line="133" selection-start-column="4" selection-end-line="134" selection-end-column="63" />
+              <folding>
+                <marker date="1582566814726" expanded="true" signature="643:648" ph="..." />
+                <marker date="1582566814726" expanded="true" signature="5177:5271" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -266,14 +268,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/ensembles_of_decision_trees/random_forests_fruit_dataset.py" />
-        <option value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/ensembles_of_decision_trees/random_forests_real_data.py" />
-        <option value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/ensembles_of_decision_trees/gradient_boosted_decision_tress.py" />
-        <option value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/ensembles_of_decision_trees/gbdt_real_data.py" />
-        <option value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/ensembles_of_decision_trees/gbdt_fruit_dataset.py" />
-        <option value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/neural_networks/activation_functions.py" />
-        <option value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/neural_networks/classification_single_hidden_layer.py" />
-        <option value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/neural_networks/mlp_classification_single_hidden_layer.py" />
         <option value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/neural_networks/mlp_classification_two_hidden_layer.py" />
         <option value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/neural_networks/mlp_classification_alpha_regularization.py" />
         <option value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/neural_networks/mlp_classification_activation_functions.py" />
@@ -317,6 +311,14 @@
         <option value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/chess_example.py" />
         <option value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/quiz1.py" />
         <option value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/assignment1.py" />
+        <option value="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/clustering_coeff.py" />
+        <option value="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/distance_measure.py" />
+        <option value="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/distance_karate_club.py" />
+        <option value="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/connectivity.py" />
+        <option value="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/robustness.py" />
+        <option value="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/robustness1.py" />
+        <option value="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/visualizing_networks.py" />
+        <option value="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/assignment.py" />
       </list>
     </option>
   </component>
@@ -350,7 +352,14 @@
               <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
               <item name="applied_social_network_analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="basic_networkX" type="462c0819:PsiDirectoryNode" />
+              <item name="network_connectivity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
+              <item name="applied_social_network_analysis" type="462c0819:PsiDirectoryNode" />
+              <item name="network_connectivity" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
@@ -394,8 +403,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.assignment1">
-    <configuration name="assignment1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.assignment">
+    <configuration name="assignment" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -403,11 +412,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/assignment1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/assignment.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -416,7 +425,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="bipartite_graph_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="distance_karate_club" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -424,11 +433,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/bipartite_graph_3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/distance_karate_club.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -437,7 +446,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="chess_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="distance_measure" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -445,11 +454,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/chess_example.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/distance_measure.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -458,7 +467,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="loading_graphs_networkx" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="robustness1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -466,11 +475,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/loading_graphs_networkx.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/robustness1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -479,7 +488,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="quiz1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="visualizing_networks" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -487,11 +496,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/quiz1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/visualizing_networks.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -501,19 +510,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.bipartite_graph_3" />
-      <item itemvalue="Python.loading_graphs_networkx" />
-      <item itemvalue="Python.chess_example" />
-      <item itemvalue="Python.quiz1" />
-      <item itemvalue="Python.assignment1" />
+      <item itemvalue="Python.distance_measure" />
+      <item itemvalue="Python.distance_karate_club" />
+      <item itemvalue="Python.robustness1" />
+      <item itemvalue="Python.visualizing_networks" />
+      <item itemvalue="Python.assignment" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.assignment1" />
-        <item itemvalue="Python.quiz1" />
-        <item itemvalue="Python.chess_example" />
-        <item itemvalue="Python.loading_graphs_networkx" />
-        <item itemvalue="Python.bipartite_graph_3" />
+        <item itemvalue="Python.assignment" />
+        <item itemvalue="Python.visualizing_networks" />
+        <item itemvalue="Python.robustness1" />
+        <item itemvalue="Python.distance_karate_club" />
+        <item itemvalue="Python.distance_measure" />
       </list>
     </recent_temporary>
   </component>
@@ -745,7 +754,21 @@
       <option name="project" value="LOCAL" />
       <updated>1582313166220</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="applied_social_network_analysis week 1 completed">
+      <created>1582483635598</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1582483635598</updated>
+    </task>
+    <task id="LOCAL-00033" summary="applied_social_network_analysis week 1 resource files">
+      <created>1582483676530</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1582483676530</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -790,8 +813,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added .gitignore" />
-    <MESSAGE value="added .gitignore fix" />
     <MESSAGE value="week4 assignment q1-q5" />
     <MESSAGE value="course 2 week 3" />
     <MESSAGE value="stack questions" />
@@ -815,65 +836,11 @@
     <MESSAGE value="applied_text_mining week 3 completed" />
     <MESSAGE value="applied_text_mining week 3 &amp; 4 completed" />
     <MESSAGE value="applied_social_network_analysis week 1 networkx basics" />
-    <option name="LAST_COMMIT_MESSAGE" value="applied_social_network_analysis week 1 networkx basics" />
+    <MESSAGE value="applied_social_network_analysis week 1 completed" />
+    <MESSAGE value="applied_social_network_analysis week 1 resource files" />
+    <option name="LAST_COMMIT_MESSAGE" value="applied_social_network_analysis week 1 resource files" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/assignment.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="22" column="62" lean-forward="true" selection-start-line="22" selection-start-column="62" selection-end-line="22" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/principal_component_analysis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="5" column="86" lean-forward="true" selection-start-line="5" selection-end-line="5" selection-end-column="86" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/ensembles_of_decision_trees/gbdt_fruit_dataset.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="15" lean-forward="true" selection-start-line="8" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/pca_fruit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/multidimensional_scaling_fruit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/mutidimensional_scaling_realdata.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="14" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/tsne_fruit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/tsne_realdata.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="114" selection-start-line="4" selection-start-column="114" selection-end-line="4" selection-end-column="114" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/k-means_clustering.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -1153,7 +1120,7 @@
     <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/basic_networkX_2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="164">
-          <caret line="53" column="31" lean-forward="true" selection-start-line="53" selection-start-column="31" selection-end-line="53" selection-end-column="31" />
+          <caret line="53" column="31" selection-start-line="53" selection-start-column="31" selection-end-line="53" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -1170,11 +1137,74 @@
     <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/assignment1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
-          <caret line="106" lean-forward="true" selection-start-line="80" selection-end-line="106" />
+          <caret line="106" selection-start-line="80" selection-end-line="106" />
           <folding>
             <element signature="e#553#574#0" expanded="true" />
             <marker date="1582483427431" expanded="true" signature="1504:4472" ph="..." />
             <marker date="1582483427431" expanded="true" signature="3421:4455" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/clustering_coeff.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="3" selection-start-line="3" selection-end-line="4" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/robustness1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/visualizing_networks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/connectivity.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="31" column="33" lean-forward="true" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/distance_measure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/distance_karate_club.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/robustness.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="18" selection-start-line="18" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/assignment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="134" column="63" lean-forward="true" selection-start-line="133" selection-start-column="4" selection-end-line="134" selection-end-column="63" />
+          <folding>
+            <marker date="1582566814726" expanded="true" signature="643:648" ph="..." />
+            <marker date="1582566814726" expanded="true" signature="5177:5271" ph="..." />
           </folding>
         </state>
       </provider>
