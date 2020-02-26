@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2359d117-368d-4b39-8789-ebc347835e74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/assignment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/clustering_coeff.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/connectivity.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/distance_karate_club.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/distance_measure.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/robustness.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/robustness1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/visualizing_networks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/basic_page_rank.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/betweenness_centrality.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/closeness_centrality.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/degree_cenetrality.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/hubs_and_authorities.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/quiz.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,7 +46,7 @@
           <entry key="ipynb" value="1" />
           <entry key="jpg" value="1" />
           <entry key="png" value="4" />
-          <entry key="py" value="460" />
+          <entry key="py" value="466" />
           <entry key="python_objects" value="1" />
           <entry key="txt" value="5" />
         </counts>
@@ -58,17 +56,17 @@
           <entry key="IPNB" value="1" />
           <entry key="Image" value="5" />
           <entry key="PLAIN_TEXT" value="27" />
-          <entry key="Python" value="461" />
+          <entry key="Python" value="467" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="4386" />
+          <entry key="Python Console" value="4408" />
           <entry key="cfg" value="143" />
           <entry key="csv" value="115" />
           <entry key="dummy" value="12" />
           <entry key="gitignore" value="30" />
-          <entry key="py" value="161185" />
+          <entry key="py" value="164802" />
           <entry key="python_objects" value="358" />
           <entry key="txt" value="1014" />
         </counts>
@@ -76,7 +74,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="1314" />
-          <entry key="Python" value="165928" />
+          <entry key="Python" value="169567" />
           <entry key="RegExp" value="1" />
         </counts>
       </usages-collector>
@@ -85,33 +83,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/assignment1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="106" selection-start-line="80" selection-end-line="106" />
-              <folding>
-                <element signature="e#553#574#0" expanded="true" />
-                <marker date="1582483427431" expanded="true" signature="1504:4472" ph="..." />
-                <marker date="1582483427431" expanded="true" signature="3421:4455" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/clustering_coeff.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="3" selection-start-line="3" selection-end-line="4" selection-end-column="90" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/distance_measure.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -126,15 +101,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/connectivity.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="31" column="33" lean-forward="true" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/robustness.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
@@ -144,47 +110,68 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/robustness1.py">
+        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/assignment.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+            <state relative-caret-position="165">
+              <caret line="136" selection-start-line="136" selection-end-line="136" />
+              <folding>
+                <marker date="1582569266000" expanded="true" signature="643:648" ph="..." />
+                <marker date="1582569266000" expanded="true" signature="5270:5271" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/visualizing_networks.py">
+        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/degree_cenetrality.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="48" selection-start-line="48" selection-end-line="48" />
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="221">
+              <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/closeness_centrality.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="244">
+              <caret line="18" column="84" selection-start-line="18" selection-start-column="84" selection-end-line="18" selection-end-column="84" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/assignment.py">
+        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/quiz.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="134" column="63" lean-forward="true" selection-start-line="133" selection-start-column="4" selection-end-line="134" selection-end-column="63" />
-              <folding>
-                <marker date="1582566814726" expanded="true" signature="643:648" ph="..." />
-                <marker date="1582566814726" expanded="true" signature="5177:5271" ph="..." />
-              </folding>
+            <state relative-caret-position="225">
+              <caret line="28" column="15" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/bipartite_graph_3.py">
+        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/betweenness_centrality.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="23" />
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-159">
+              <caret line="32" column="43" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/basic_page_rank.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/hubs_and_authorities.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -268,12 +255,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/neural_networks/mlp_classification_two_hidden_layer.py" />
-        <option value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/neural_networks/mlp_classification_alpha_regularization.py" />
-        <option value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/neural_networks/mlp_classification_activation_functions.py" />
-        <option value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/neural_networks/mlp_regression.py" />
-        <option value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/neural_networks/mlp_regression_realdata.py" />
-        <option value="$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/pca_magnitude_feature.py" />
         <option value="$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/assignment.py" />
         <option value="$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/principal_component_analysis.py" />
         <option value="$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/pca_fruit.py" />
@@ -319,13 +300,20 @@
         <option value="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/robustness1.py" />
         <option value="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/visualizing_networks.py" />
         <option value="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/assignment.py" />
+        <option value="$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/degree_cenetrality.py" />
+        <option value="$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/closeness_centrality.py" />
+        <option value="$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/betweenness_centrality.py" />
+        <option value="$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/basic_page_rank.py" />
+        <option value="$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/hubs_and_authorities.py" />
+        <option value="$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/quiz.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="676" />
-    <option name="width" value="697" />
-    <option name="height" value="694" />
+    <option name="x" value="413" />
+    <option name="y" value="70" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -352,14 +340,7 @@
               <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
               <item name="applied_social_network_analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="network_connectivity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="applied_social_network_analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="network_connectivity" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="influence_measures_network_centralization" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
@@ -403,8 +384,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.assignment">
-    <configuration name="assignment" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.quiz">
+    <configuration name="basic_page_rank" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -412,11 +393,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/assignment.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/basic_page_rank.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -425,7 +406,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="distance_karate_club" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="betweenness_centrality" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -433,11 +414,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/distance_karate_club.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/betweenness_centrality.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -446,7 +427,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="distance_measure" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="closeness_centrality" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -454,11 +435,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/distance_measure.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/closeness_centrality.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -467,7 +448,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="robustness1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="hubs_and_authorities" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -475,11 +456,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/robustness1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/hubs_and_authorities.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -488,7 +469,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="visualizing_networks" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="quiz" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -496,11 +477,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/visualizing_networks.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/quiz.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -510,19 +491,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.distance_measure" />
-      <item itemvalue="Python.distance_karate_club" />
-      <item itemvalue="Python.robustness1" />
-      <item itemvalue="Python.visualizing_networks" />
-      <item itemvalue="Python.assignment" />
+      <item itemvalue="Python.closeness_centrality" />
+      <item itemvalue="Python.betweenness_centrality" />
+      <item itemvalue="Python.basic_page_rank" />
+      <item itemvalue="Python.hubs_and_authorities" />
+      <item itemvalue="Python.quiz" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.assignment" />
-        <item itemvalue="Python.visualizing_networks" />
-        <item itemvalue="Python.robustness1" />
-        <item itemvalue="Python.distance_karate_club" />
-        <item itemvalue="Python.distance_measure" />
+        <item itemvalue="Python.quiz" />
+        <item itemvalue="Python.hubs_and_authorities" />
+        <item itemvalue="Python.basic_page_rank" />
+        <item itemvalue="Python.betweenness_centrality" />
+        <item itemvalue="Python.closeness_centrality" />
       </list>
     </recent_temporary>
   </component>
@@ -784,7 +765,7 @@
     <frame x="-8" y="-8" width="1382" height="703" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33661118" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33585477" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -841,48 +822,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="applied_social_network_analysis week 1 resource files" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/k-means_clustering.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="65" selection-start-line="9" selection-start-column="65" selection-end-line="9" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/k-means_clustering_fruit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="114" selection-end-line="4" selection-end-column="114" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/agglomerative_clustering.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/dendogram.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/dbscan_clustering.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_text_mining/working_with_text/working_with_text.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="23" selection-start-line="23" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/applied_text_mining/working_with_text/processing_free_text.py" />
     <entry file="file://$PROJECT_DIR$/intro_data_science_python/basic_data_processing_with_pandas/dataframes/indexing_dataframes.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -928,9 +867,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2839">
           <caret line="172" column="44" selection-start-line="172" selection-start-column="44" selection-end-line="172" selection-end-column="44" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -973,11 +909,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/applied_text_mining/resources/Amazon_Unlocked_Mobile.csv">
-      <provider selected="true" editor-type-id="LargeFileEditor">
-        <state relative-caret-position="-43734" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_text_mining/resources/Amazon_Unlocked_Mobile.csv" />
     <entry file="file://$PROJECT_DIR$/applied_text_mining/classification_of_text/casestudy_sentiment_analysis.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -1013,9 +945,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1023,9 +952,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="335">
           <caret line="164" selection-start-line="164" selection-end-line="164" />
-          <folding>
-            <element signature="e#56#75#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1033,9 +959,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="82" column="20" lean-forward="true" selection-start-line="82" selection-start-column="20" selection-end-line="82" selection-end-column="20" />
-          <folding>
-            <element signature="e#450#463#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1173,14 +1096,14 @@
     <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/connectivity.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="206">
-          <caret line="31" column="33" lean-forward="true" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
+          <caret line="31" column="33" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/distance_measure.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
@@ -1200,12 +1123,54 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/assignment.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="134" column="63" lean-forward="true" selection-start-line="133" selection-start-column="4" selection-end-line="134" selection-end-column="63" />
+        <state relative-caret-position="165">
+          <caret line="136" selection-start-line="136" selection-end-line="136" />
           <folding>
-            <marker date="1582566814726" expanded="true" signature="643:648" ph="..." />
-            <marker date="1582566814726" expanded="true" signature="5177:5271" ph="..." />
+            <marker date="1582569266000" expanded="true" signature="643:648" ph="..." />
+            <marker date="1582569266000" expanded="true" signature="5270:5271" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/hubs_and_authorities.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/degree_cenetrality.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/closeness_centrality.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="18" column="84" selection-start-line="18" selection-start-column="84" selection-end-line="18" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/basic_page_rank.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/betweenness_centrality.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-159">
+          <caret line="32" column="43" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/quiz.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="28" column="15" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
         </state>
       </provider>
     </entry>
