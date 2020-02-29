@@ -60,8 +60,13 @@ def answer_five():
 # nodes in a largest strongly connected component. Call this graph G_sc.
 # This function should return a networkx MultiDiGraph named G_sc.
 def answer_six():
+
+    def strongly_connected_component_subgraphs(G):
+        for c in nx.strongly_connected_components(G):
+            yield G.subgraph(c)
+
     G = answer_one()
-    subgraphs = nx.strongly_connected_component_subgraphs(G)
+    subgraphs = strongly_connected_component_subgraphs(G)
     G_sc = max(subgraphs, key=len)
     return G_sc
 
@@ -93,6 +98,10 @@ def answer_nine():
 def answer_ten():
     return set(nx.center(G))
 
+print(answer_seven())
+print(answer_eight())
+print(answer_nine())
+print(answer_ten())
 
 # Question 11
 # Which node in G_sc is connected to the most other nodes by a shortest path of length equal

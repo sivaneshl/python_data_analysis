@@ -5,178 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2359d117-368d-4b39-8789-ebc347835e74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/assignment.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/assignment.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1545479565">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="6" />
-          <entry key="project.open.time.1" value="2" />
-          <entry key="project.open.time.10" value="4" />
-          <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.15" value="3" />
-          <entry key="project.open.time.16" value="2" />
-          <entry key="project.open.time.17" value="1" />
-          <entry key="project.open.time.18" value="1" />
-          <entry key="project.open.time.21" value="1" />
-          <entry key="project.open.time.23" value="1" />
-          <entry key="project.open.time.32" value="1" />
-          <entry key="project.opened" value="17" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="cfg" value="1" />
-          <entry key="csv" value="17" />
-          <entry key="dot" value="3" />
-          <entry key="gitignore" value="1" />
-          <entry key="ipynb" value="1" />
-          <entry key="jpg" value="1" />
-          <entry key="png" value="4" />
-          <entry key="py" value="468" />
-          <entry key="python_objects" value="1" />
-          <entry key="txt" value="5" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="IPNB" value="1" />
-          <entry key="Image" value="5" />
-          <entry key="PLAIN_TEXT" value="27" />
-          <entry key="Python" value="469" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="Python Console" value="4408" />
-          <entry key="cfg" value="143" />
-          <entry key="csv" value="115" />
-          <entry key="dummy" value="12" />
-          <entry key="gitignore" value="30" />
-          <entry key="py" value="165770" />
-          <entry key="python_objects" value="358" />
-          <entry key="txt" value="1015" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="PLAIN_TEXT" value="1315" />
-          <entry key="Python" value="170535" />
-          <entry key="RegExp" value="1" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/robustness.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="18" selection-start-line="18" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/assignment.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="136" selection-start-line="136" selection-end-line="136" />
-              <folding>
-                <marker date="1582569266000" expanded="true" signature="643:648" ph="..." />
-                <marker date="1582569266000" expanded="true" signature="5270:5271" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/degree_cenetrality.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/closeness_centrality.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="18" column="84" selection-start-line="18" selection-start-column="84" selection-end-line="18" selection-end-column="84" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/quiz.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="28" column="15" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stack/archive1/test29.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
-              <caret line="12" column="90" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="90" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/assignment.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="106" selection-start-line="106" selection-end-line="107" selection-end-column="94" />
-              <folding>
-                <element signature="e#238#259#0" expanded="true" />
-                <marker date="1582798465766" expanded="true" signature="3125:3265" ph="..." />
-                <marker date="1582798465766" expanded="true" signature="3747:5114" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/betweenness_centrality.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="46" column="89" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="89" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/basic_page_rank.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/hubs_and_authorities.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -253,104 +88,17 @@
     <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/principal_component_analysis.py" />
-        <option value="$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/pca_fruit.py" />
-        <option value="$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/multidimensional_scaling_fruit.py" />
-        <option value="$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/mutidimensional_scaling_realdata.py" />
-        <option value="$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/tsne_fruit.py" />
-        <option value="$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/tsne_realdata.py" />
-        <option value="$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/k-means_clustering.py" />
-        <option value="$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/k-means_clustering_fruit.py" />
-        <option value="$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/agglomerative_clustering.py" />
-        <option value="$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/dendogram.py" />
-        <option value="$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/dbscan_clustering.py" />
-        <option value="$PROJECT_DIR$/applied_text_mining/working_with_text/working_with_text.py" />
-        <option value="$PROJECT_DIR$/applied_text_mining/working_with_text/processing_free_text.py" />
-        <option value="$PROJECT_DIR$/applied_text_mining/working_with_text/regular_expression.py" />
-        <option value="$PROJECT_DIR$/applied_text_mining/working_with_text/working_with_text_in_pandas.py" />
-        <option value="$PROJECT_DIR$/applied_text_mining/working_with_text/assignment.py" />
-        <option value="$PROJECT_DIR$/applied_text_mining/basic_natural_language_processing/basic_nlp_tasks_with_nltk.py" />
-        <option value="$PROJECT_DIR$/applied_text_mining/basic_natural_language_processing/mygrammar1.cfg" />
-        <option value="$PROJECT_DIR$/applied_text_mining/basic_natural_language_processing/advanced_nlp_tasks_with_nltk.py" />
-        <option value="$PROJECT_DIR$/applied_text_mining/basic_natural_language_processing/assignment.py" />
-        <option value="$PROJECT_DIR$/applied_text_mining/classification_of_text/casestudy_sentiment_analysis.py" />
-        <option value="$PROJECT_DIR$/applied_text_mining/classification_of_text/assignment.py" />
-        <option value="$PROJECT_DIR$/applied_text_mining/topic_modelling/semantic_text_similarity.py" />
-        <option value="$PROJECT_DIR$/applied_text_mining/topic_modelling/assignment.py" />
-        <option value="$PROJECT_DIR$/applied_text_mining/topic_modelling/assignment2.py" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/basic_networkX_1.py" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/basic_networkX_2.py" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/bipartite_graph.py" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/bipartite_graph_3.py" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/bipartite_graph_2.py" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/G_adjlist.txt.txt" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/G_edgelist.txt" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/loading_graphs_networkx.py" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/chess_example.py" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/quiz1.py" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/assignment1.py" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/clustering_coeff.py" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/distance_measure.py" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/distance_karate_club.py" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/connectivity.py" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/robustness.py" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/robustness1.py" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/visualizing_networks.py" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/assignment.py" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/degree_cenetrality.py" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/closeness_centrality.py" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/betweenness_centrality.py" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/basic_page_rank.py" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/hubs_and_authorities.py" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/quiz.py" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/assignment.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="413" />
-    <option name="y" value="70" />
-    <option name="width" value="1346" />
-    <option name="height" value="688" />
-  </component>
+  <component name="ProjectId" id="1YU3ImSyY7Z6afvi2VZvkKojN5z" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="applied_social_network_analysis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="applied_social_network_analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="influence_measures_network_centralization" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="C:/IRM/work/SKPE-T2/python_data_analysis" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
@@ -362,19 +110,7 @@
       <recent name="C:\python_data_analysis\applied_machine_learning\resources" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.assignment">
+  <component name="RunManager" selected="Python.test29">
     <configuration name="assignment" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -409,27 +145,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/basic_page_rank.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="betweenness_centrality" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_data_analysis" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/betweenness_centrality.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -480,20 +195,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test29" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_data_analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stack/archive1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stack/archive1/test29.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.betweenness_centrality" />
+      <item itemvalue="Python.assignment" />
       <item itemvalue="Python.basic_page_rank" />
       <item itemvalue="Python.hubs_and_authorities" />
       <item itemvalue="Python.quiz" />
-      <item itemvalue="Python.assignment" />
+      <item itemvalue="Python.test29" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test29" />
         <item itemvalue="Python.assignment" />
         <item itemvalue="Python.quiz" />
         <item itemvalue="Python.hubs_and_authorities" />
         <item itemvalue="Python.basic_page_rank" />
-        <item itemvalue="Python.betweenness_centrality" />
       </list>
     </recent_temporary>
   </component>
@@ -758,32 +494,6 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="703" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33585477" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32864675" />
-      <window_info active="true" anchor="bottom" x="19" y="279" width="1322" height="187" id="Run" order="2" sideWeight="0.5975794" visible="true" weight="0.46045694" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.40166414" side_tool="true" weight="0.51318103" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49924356" weight="0.32864675" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49924356" weight="0.4463972" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.40242058" side_tool="true" weight="0.66608083" />
-      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49924356" weight="0.37258348" />
-      <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.32864675" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
-      <window_info anchor="right" id="R Graphics" order="3" />
-      <window_info anchor="right" id="R Packages" order="4" weight="0.32980332" />
-    </layout>
-  </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
   </component>
@@ -793,20 +503,12 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
+              <option name="COLUMN_ORDER" />
             </State>
           </value>
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="course 2 week 3" />
@@ -836,369 +538,26 @@
     <MESSAGE value="applied_social_network_analysis week 3" />
     <option name="LAST_COMMIT_MESSAGE" value="applied_social_network_analysis week 3" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/intro_data_science_python/basic_data_processing_with_pandas/dataframes/querying_dataframe.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-785" />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/nltk/probability.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="91" column="8" selection-start-line="91" selection-start-column="8" selection-end-line="91" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_text_mining/working_with_text/regular_expression.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="60" selection-start-line="26" selection-start-column="60" selection-end-line="26" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_text_mining/working_with_text/assignment.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1071">
-          <caret line="63" selection-start-line="63" selection-end-line="63" selection-end-column="145" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intro_data_science_python/basic_data_processing_with_pandas/dataframes/dataframe_indexing_loading.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_text_mining/basic_natural_language_processing/assignment.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2839">
-          <caret line="172" column="44" selection-start-line="172" selection-start-column="44" selection-end-line="172" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intro_data_science_python/advanced_python_pandas/pivot_tables/pivot_table1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_text_mining/basic_natural_language_processing/mygrammar1.cfg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intro_data_science_python/basic_data_processing_with_pandas/dataframes/dataframes1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intro_data_science_python/basic_data_processing_with_pandas/assignment2/assignment2.0.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intro_data_science_python/basic_data_processing_with_pandas/dataframes/dataframe_exercise1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intro_data_science_python/basic_data_processing_with_pandas/dataframes/dataframe_exercise2.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_text_mining/working_with_text/working_with_text_in_pandas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="29" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intro_data_science_python/advanced_python_pandas/group_by/groupby1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_text_mining/resources/Amazon_Unlocked_Mobile.csv" />
-    <entry file="file://$PROJECT_DIR$/applied_text_mining/classification_of_text/casestudy_sentiment_analysis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="74" column="39" selection-start-line="74" selection-start-column="39" selection-end-line="74" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_text_mining/classification_of_text/assignment.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59">
-          <caret line="276" column="52" selection-start-line="276" selection-start-column="52" selection-end-line="276" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_text_mining/basic_natural_language_processing/basic_nlp_tasks_with_nltk.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="49" column="6" selection-start-line="49" selection-start-column="2" selection-end-line="49" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_text_mining/basic_natural_language_processing/advanced_nlp_tasks_with_nltk.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_text_mining/topic_modelling/semantic_text_similarity.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_text_mining/topic_modelling/assignment.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="164" selection-start-line="164" selection-end-line="164" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_text_mining/topic_modelling/assignment2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="82" column="20" lean-forward="true" selection-start-line="82" selection-start-column="20" selection-end-line="82" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/networkx/classes/graph.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="18" column="34" lean-forward="true" selection-start-line="15" selection-end-line="18" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/bipartite_graph.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/basic_networkX_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="53">
-          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/bipartite_graph_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/G_adjlist.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/G_edgelist.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/quiz1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/chess_graph.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/chess_example.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="41" column="33" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/loading_graphs_networkx.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="56" lean-forward="true" selection-start-line="54" selection-end-line="56" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/basic_networkX_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="53" column="31" selection-start-line="53" selection-start-column="31" selection-end-line="53" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/bipartite_graph_3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/assignment1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="106" selection-start-line="80" selection-end-line="106" />
-          <folding>
-            <element signature="e#553#574#0" expanded="true" />
-            <marker date="1582483427431" expanded="true" signature="1504:4472" ph="..." />
-            <marker date="1582483427431" expanded="true" signature="3421:4455" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/clustering_coeff.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="3" selection-start-line="3" selection-end-line="4" selection-end-column="90" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/robustness1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/visualizing_networks.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="48" selection-start-line="48" selection-end-line="48" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/connectivity.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="31" column="33" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/distance_measure.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/distance_karate_club.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/robustness.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="18" selection-start-line="18" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/assignment.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="136" selection-start-line="136" selection-end-line="136" />
-          <folding>
-            <marker date="1582569266000" expanded="true" signature="643:648" ph="..." />
-            <marker date="1582569266000" expanded="true" signature="5270:5271" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/degree_cenetrality.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/closeness_centrality.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="18" column="84" selection-start-line="18" selection-start-column="84" selection-end-line="18" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/quiz.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="28" column="15" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack/archive1/test29.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="12" column="90" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="90" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/betweenness_centrality.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="46" column="89" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/basic_page_rank.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/hubs_and_authorities.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/assignment.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="106" selection-start-line="106" selection-end-line="107" selection-end-column="94" />
-          <folding>
-            <element signature="e#238#259#0" expanded="true" />
-            <marker date="1582798465766" expanded="true" signature="3125:3265" ph="..." />
-            <marker date="1582798465766" expanded="true" signature="3747:5114" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state width="1512" height="342" key="GridCell.Tab.0.bottom" timestamp="1582983738597">
+      <screen x="65" y="24" width="1535" height="876" />
+    </state>
+    <state width="1512" height="342" key="GridCell.Tab.0.bottom/65.24.1535.876@65.24.1535.876" timestamp="1582983738597" />
+    <state width="1512" height="342" key="GridCell.Tab.0.center" timestamp="1582983738595">
+      <screen x="65" y="24" width="1535" height="876" />
+    </state>
+    <state width="1512" height="342" key="GridCell.Tab.0.center/65.24.1535.876@65.24.1535.876" timestamp="1582983738595" />
+    <state width="1512" height="342" key="GridCell.Tab.0.left" timestamp="1582983738593">
+      <screen x="65" y="24" width="1535" height="876" />
+    </state>
+    <state width="1512" height="342" key="GridCell.Tab.0.left/65.24.1535.876@65.24.1535.876" timestamp="1582983738593" />
+    <state width="1512" height="342" key="GridCell.Tab.0.right" timestamp="1582983738596">
+      <screen x="65" y="24" width="1535" height="876" />
+    </state>
+    <state width="1512" height="342" key="GridCell.Tab.0.right/65.24.1535.876@65.24.1535.876" timestamp="1582983738596" />
+    <state x="494" y="291" key="com.intellij.ide.util.TipDialog" timestamp="1582983660051">
+      <screen x="65" y="24" width="1535" height="876" />
+    </state>
+    <state x="494" y="291" key="com.intellij.ide.util.TipDialog/65.24.1535.876@65.24.1535.876" timestamp="1582983660051" />
   </component>
 </project>
