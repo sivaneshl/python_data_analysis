@@ -5,14 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2359d117-368d-4b39-8789-ebc347835e74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/applied_social_network_analysis/applications/assignment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_social_network_analysis/applications/degree_distribution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_social_network_analysis/applications/feature_matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_social_network_analysis/applications/link_prediction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_social_network_analysis/applications/preferential_attachment_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_social_network_analysis/applications/quiz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applied_social_network_analysis/applications/small_world_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/26593908/how-to-set-holidays-with-pandas-in-a-timezone-aware-way.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/59624798/drop-similar-text-rows-of-one-column-in-python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/60484865/group-by-dataframe-with-condition-on-similarity-metric-between-two-strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/60493991/best-way-of-joining-many-time-series-in-pandas-to-a-single-datetime-index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/60494388/passing-values-with-df-insert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/60498999/line2d-object-has-no-property-kind.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/60499586/using-pandas-holidays-holiday-ranges-to-filter-datetimes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/60500589/defining-a-custom-pandas-holiday-range-without-a-year.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/60502959/how-to-calculate-variance-for-2d-columns-in-dataframe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/60504013/python-what-is-the-fastest-way-to-join-values-two-dataframe-columns.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/60506828/pandas-left-join-on-multiple-keys-with-different-index-lengths.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/60507860/extracting-count-of-differences-from-3-columns-in-pandas-dataframe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/60508141/merging-pandas-dataframes-on-multiindex-column-values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/60530619/import-error-using-pandas-resample-after-upgrading-to-pandas-0-25-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/60531162/colormap-for-errorbars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/60531162/error_data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/60531227/applying-a-correlation-function-to-multiple-subsets-of-a-dataframe-and-concatena.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/60546919/splitting-separate-itemsets-that-are-concatenated-into-one-string-with-a-delimit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/60550572/convert-datetime-pandas-columns-name-to-yyyy-mm-dd-string-at-read.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/60550572/text.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/60551202/calculation-of-conditional-statement-within-pandas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/60551236/comparing-two-dataframes-and-loop-through-them-to-test-a-condition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/60580248/search-a-pandas-dataframe-having-hierarchical-indexing-by-a-single-column.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/60580533/dataframe-mean-gives-insane-large-numbers-with-pyserial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/60581001/how-to-replace-nan-values-in-one-dataframe-with-values-from-another.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stack/59424702/group-by-calendar-week-crossing-years.py" beforeDir="false" afterPath="$PROJECT_DIR$/stack/59424702/group-by-calendar-week-crossing-years.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,18 +43,19 @@
     <session id="1545479565">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.10" value="4" />
+          <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.15" value="3" />
-          <entry key="project.open.time.16" value="2" />
+          <entry key="project.open.time.16" value="3" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.18" value="2" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.32" value="1" />
-          <entry key="project.opened" value="18" />
+          <entry key="project.opened" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -43,11 +63,12 @@
           <entry key="cfg" value="1" />
           <entry key="csv" value="17" />
           <entry key="dot" value="3" />
+          <entry key="error_data" value="1" />
           <entry key="gitignore" value="1" />
           <entry key="ipynb" value="1" />
           <entry key="jpg" value="1" />
           <entry key="png" value="4" />
-          <entry key="py" value="491" />
+          <entry key="py" value="531" />
           <entry key="python_objects" value="1" />
           <entry key="txt" value="5" />
         </counts>
@@ -56,26 +77,27 @@
         <counts>
           <entry key="IPNB" value="1" />
           <entry key="Image" value="5" />
-          <entry key="PLAIN_TEXT" value="27" />
-          <entry key="Python" value="492" />
+          <entry key="PLAIN_TEXT" value="28" />
+          <entry key="Python" value="532" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="4408" />
+          <entry key="Python Console" value="4539" />
           <entry key="cfg" value="143" />
           <entry key="csv" value="115" />
           <entry key="dummy" value="12" />
+          <entry key="error_data" value="206" />
           <entry key="gitignore" value="30" />
-          <entry key="py" value="171063" />
+          <entry key="py" value="180432" />
           <entry key="python_objects" value="358" />
-          <entry key="txt" value="1039" />
+          <entry key="txt" value="1042" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="1339" />
-          <entry key="Python" value="175828" />
+          <entry key="PLAIN_TEXT" value="1548" />
+          <entry key="Python" value="185328" />
           <entry key="RegExp" value="1" />
         </counts>
       </usages-collector>
@@ -83,82 +105,36 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/applications/assignment.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stack/60550572/convert-datetime-pandas-columns-name-to-yyyy-mm-dd-string-at-read.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="212" column="28" lean-forward="true" selection-start-line="212" selection-start-column="28" selection-end-line="214" selection-end-column="28" />
+            <state relative-caret-position="136">
+              <caret line="9" column="59" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
               <folding>
-                <element signature="e#0#21#0" expanded="true" />
-                <marker date="1582912286930" expanded="true" signature="1034:1233" ph="..." />
-                <marker date="1582912286930" expanded="true" signature="1286:1291" ph="..." />
-                <marker date="1582912286930" expanded="true" signature="7872:10214" ph="..." />
+                <element signature="e#0#19#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/applications/link_prediction.py">
+        <entry file="file://$PROJECT_DIR$/stack/60551236/comparing-two-dataframes-and-loop-through-them-to-test-a-condition.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="101" lean-forward="true" selection-start-line="10" selection-end-line="10" selection-end-column="101" />
+            <state relative-caret-position="221">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
               <folding>
-                <element signature="e#0#15#0" expanded="true" />
+                <element signature="e#0#19#0" expanded="true" />
+                <marker date="1583522832042" expanded="true" signature="1064:1167" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/applications/preferential_attachment_model.py">
+        <entry file="file://$PROJECT_DIR$/stack/60580248/search-a-pandas-dataframe-having-hierarchical-indexing-by-a-single-column.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/applications/degree_distribution.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" lean-forward="true" selection-start-line="4" selection-end-line="10" />
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/neural_networks/mlp_classification_alpha_regularization.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="e#0#134#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/neural_networks/mlp_classification_activation_functions.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/neural_networks/activation_functions.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="204">
+              <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="89" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -167,33 +143,80 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/neural_networks/mlp_classification_two_hidden_layer.py">
+        <entry file="file://$PROJECT_DIR$/stack/60580533/dataframe-mean-gives-insane-large-numbers-with-pyserial.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="104" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="104" />
+            <state relative-caret-position="153">
+              <caret line="9" column="64" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/stack/60581001/how-to-replace-nan-values-in-one-dataframe-with-values-from-another.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="46" lean-forward="true" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
               <folding>
-                <element signature="e#0#126#0" expanded="true" />
+                <element signature="e#0#19#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/assignment.py">
+        <entry file="file://$PROJECT_DIR$/stack/60551202/calculation-of-conditional-statement-within-pandas.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="55" />
+              <caret line="3" selection-start-line="3" selection-end-line="5" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/validation_curve_example.py">
+        <entry file="file://$PROJECT_DIR$/stack/60531162/error_data">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stack/60531227/applying-a-correlation-function-to-multiple-subsets-of-a-dataframe-and-concatena.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="35" selection-start-line="27" selection-end-line="35" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+                <marker date="1583346365998" expanded="true" signature="667:672" ph="..." />
+                <marker date="1583346365998" expanded="true" signature="667:693" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stack/60530619/import-error-using-pandas-resample-after-upgrading-to-pandas-0-25-1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stack/59424702/group-by-calendar-week-crossing-years.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+              <caret line="7" selection-start-line="4" selection-end-line="7" />
               <folding>
-                <element signature="e#0#31#0" expanded="true" />
+                <element signature="e#0#19#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -210,15 +233,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>ListedColormap</find>
-      <find>graphviz</find>
-      <find>sklearn</find>
-      <find>predict</find>
-      <find>reshape</find>
-      <find>X_predict_input</find>
-      <find>kernel</find>
-      <find>adspy_shared_utilities</find>
-      <find>precision_score</find>
       <find>fruit</find>
       <find>dates_df</find>
       <find>remaining_df</find>
@@ -240,6 +254,15 @@
       <find>predict_pro</find>
       <find>plot_mushroom_boundary</find>
       <find>MLP</find>
+      <find>holidays_df</find>
+      <find>range(</find>
+      <find>pd.Data</find>
+      <find>Nan</find>
+      <find>shift</find>
+      <find>p-value</find>
+      <find>t-sta</find>
+      <find>statistic</find>
+      <find>datetimeinde</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;</replace>
@@ -260,16 +283,17 @@
       <replace>dates</replace>
       <replace>remaining_rows</replace>
       <replace>LogisticRegression</replace>
+      <replace>NaN</replace>
     </replaceStrings>
     <dirStrings>
       <dir>C:\python_data_analysis\applied_plotting_charting_and_data_representation\charting_fundamentals</dir>
       <dir>C:\python_data_analysis\applied_plotting_charting_and_data_representation</dir>
       <dir>C:\python_data_analysis\applied_machine_learning\evaluation</dir>
-      <dir>C:\python_data_analysis</dir>
       <dir>C:\python_data_analysis\intro_data_science_python</dir>
-      <dir>C:\python_data_analysis\stack</dir>
       <dir>C:\python_data_analysis\applied_machine_learning\supervised_machine_learning</dir>
       <dir>C:\python_data_analysis\applied_machine_learning</dir>
+      <dir>C:\python_data_analysis</dir>
+      <dir>C:\python_data_analysis\stack</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -279,32 +303,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/k-means_clustering_fruit.py" />
-        <option value="$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/agglomerative_clustering.py" />
-        <option value="$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/dendogram.py" />
-        <option value="$PROJECT_DIR$/applied_machine_learning/unsupervised_machine_learning/dbscan_clustering.py" />
-        <option value="$PROJECT_DIR$/applied_text_mining/working_with_text/working_with_text.py" />
-        <option value="$PROJECT_DIR$/applied_text_mining/working_with_text/processing_free_text.py" />
-        <option value="$PROJECT_DIR$/applied_text_mining/working_with_text/regular_expression.py" />
-        <option value="$PROJECT_DIR$/applied_text_mining/working_with_text/working_with_text_in_pandas.py" />
-        <option value="$PROJECT_DIR$/applied_text_mining/working_with_text/assignment.py" />
-        <option value="$PROJECT_DIR$/applied_text_mining/basic_natural_language_processing/basic_nlp_tasks_with_nltk.py" />
-        <option value="$PROJECT_DIR$/applied_text_mining/basic_natural_language_processing/mygrammar1.cfg" />
-        <option value="$PROJECT_DIR$/applied_text_mining/basic_natural_language_processing/advanced_nlp_tasks_with_nltk.py" />
-        <option value="$PROJECT_DIR$/applied_text_mining/basic_natural_language_processing/assignment.py" />
-        <option value="$PROJECT_DIR$/applied_text_mining/classification_of_text/casestudy_sentiment_analysis.py" />
-        <option value="$PROJECT_DIR$/applied_text_mining/classification_of_text/assignment.py" />
-        <option value="$PROJECT_DIR$/applied_text_mining/topic_modelling/semantic_text_similarity.py" />
-        <option value="$PROJECT_DIR$/applied_text_mining/topic_modelling/assignment.py" />
-        <option value="$PROJECT_DIR$/applied_text_mining/topic_modelling/assignment2.py" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/basic_networkX_1.py" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/basic_networkX_2.py" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/bipartite_graph.py" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/bipartite_graph_3.py" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/bipartite_graph_2.py" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/G_adjlist.txt.txt" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/G_edgelist.txt" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/loading_graphs_networkx.py" />
         <option value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/chess_example.py" />
         <option value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/quiz1.py" />
         <option value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/assignment1.py" />
@@ -330,6 +328,32 @@
         <option value="$PROJECT_DIR$/applied_social_network_analysis/applications/feature_matrix.py" />
         <option value="$PROJECT_DIR$/applied_social_network_analysis/applications/quiz.py" />
         <option value="$PROJECT_DIR$/applied_social_network_analysis/applications/assignment.py" />
+        <option value="$PROJECT_DIR$/stack/59624798/drop-similar-text-rows-of-one-column-in-python.py" />
+        <option value="$PROJECT_DIR$/stack/60484865/group-by-dataframe-with-condition-on-similarity-metric-between-two-strings.py" />
+        <option value="$PROJECT_DIR$/stack/60493991/best-way-of-joining-many-time-series-in-pandas-to-a-single-datetime-index.py" />
+        <option value="$PROJECT_DIR$/stack/60494388/passing-values-with-df-insert.py" />
+        <option value="$PROJECT_DIR$/stack/60500589/defining-a-custom-pandas-holiday-range-without-a-year.py" />
+        <option value="$PROJECT_DIR$/stack/26593908/how-to-set-holidays-with-pandas-in-a-timezone-aware-way.py" />
+        <option value="$PROJECT_DIR$/stack/60499586/using-pandas-holidays-holiday-ranges-to-filter-datetimes.py" />
+        <option value="$PROJECT_DIR$/stack/60504013/python-what-is-the-fastest-way-to-join-values-two-dataframe-columns.py" />
+        <option value="$PROJECT_DIR$/stack/60502959/how-to-calculate-variance-for-2d-columns-in-dataframe.py" />
+        <option value="$PROJECT_DIR$/stack/60498999/line2d-object-has-no-property-kind.py" />
+        <option value="$PROJECT_DIR$/stack/60506828/pandas-left-join-on-multiple-keys-with-different-index-lengths.py" />
+        <option value="$PROJECT_DIR$/stack/60508141/merging-pandas-dataframes-on-multiindex-column-values.py" />
+        <option value="$PROJECT_DIR$/stack/60507860/extracting-count-of-differences-from-3-columns-in-pandas-dataframe.py" />
+        <option value="$PROJECT_DIR$/intro_data_science_python/statistical_analysis_in_python/assignment4/assignment4.0.py" />
+        <option value="$PROJECT_DIR$/stack/59424702/group-by-calendar-week-crossing-years.py" />
+        <option value="$PROJECT_DIR$/stack/60530619/import-error-using-pandas-resample-after-upgrading-to-pandas-0-25-1.py" />
+        <option value="$PROJECT_DIR$/stack/60531162/error_data" />
+        <option value="$PROJECT_DIR$/stack/60531162/colormap-for-errorbars.py" />
+        <option value="$PROJECT_DIR$/stack/60546919/splitting-separate-itemsets-that-are-concatenated-into-one-string-with-a-delimit.py" />
+        <option value="$PROJECT_DIR$/stack/60550572/convert-datetime-pandas-columns-name-to-yyyy-mm-dd-string-at-read.py" />
+        <option value="$PROJECT_DIR$/stack/60531227/applying-a-correlation-function-to-multiple-subsets-of-a-dataframe-and-concatena.py" />
+        <option value="$PROJECT_DIR$/stack/60551202/calculation-of-conditional-statement-within-pandas.py" />
+        <option value="$PROJECT_DIR$/stack/60551236/comparing-two-dataframes-and-loop-through-them-to-test-a-condition.py" />
+        <option value="$PROJECT_DIR$/stack/60580248/search-a-pandas-dataframe-having-hierarchical-indexing-by-a-single-column.py" />
+        <option value="$PROJECT_DIR$/stack/60580533/dataframe-mean-gives-insane-large-numbers-with-pyserial.py" />
+        <option value="$PROJECT_DIR$/stack/60581001/how-to-replace-nan-values-in-one-dataframe-with-values-from-another.py" />
       </list>
     </option>
   </component>
@@ -347,7 +371,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -358,42 +381,25 @@
             <path>
               <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="applied_machine_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="stack" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="applied_machine_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="supervised_machine_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="stack" type="462c0819:PsiDirectoryNode" />
+              <item name="60531227" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="applied_machine_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="supervised_machine_learning_2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="applied_machine_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="supervised_machine_learning_2" type="462c0819:PsiDirectoryNode" />
-              <item name="neural_networks" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="applied_social_network_analysis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="applied_social_network_analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="applications" type="462c0819:PsiDirectoryNode" />
+              <item name="stack" type="462c0819:PsiDirectoryNode" />
+              <item name="60551236" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -421,8 +427,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.assignment">
-    <configuration name="assignment" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.how-to-replace-nan-values-in-one-dataframe-with-values-from-another">
+    <configuration name="calculation-of-conditional-statement-within-pandas" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -430,11 +436,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_social_network_analysis/applications" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stack/60551202" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_social_network_analysis/applications/assignment.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stack/60551202/calculation-of-conditional-statement-within-pandas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -443,7 +449,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="feature_matrix" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="comparing-two-dataframes-and-loop-through-them-to-test-a-condition" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -451,11 +457,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_social_network_analysis/applications" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stack/60551236" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_social_network_analysis/applications/feature_matrix.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stack/60551236/comparing-two-dataframes-and-loop-through-them-to-test-a-condition.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -464,7 +470,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="link_prediction" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="dataframe-mean-gives-insane-large-numbers-with-pyserial" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -472,11 +478,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_social_network_analysis/applications" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stack/60580533" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_social_network_analysis/applications/link_prediction.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stack/60580533/dataframe-mean-gives-insane-large-numbers-with-pyserial.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -485,7 +491,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="quiz" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="how-to-replace-nan-values-in-one-dataframe-with-values-from-another" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -493,11 +499,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_social_network_analysis/applications" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stack/60581001" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_social_network_analysis/applications/quiz.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stack/60581001/how-to-replace-nan-values-in-one-dataframe-with-values-from-another.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -506,7 +512,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="visualizing_networks" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="search-a-pandas-dataframe-having-hierarchical-indexing-by-a-single-column" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -514,11 +520,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stack/60580248" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/visualizing_networks.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stack/60580248/search-a-pandas-dataframe-having-hierarchical-indexing-by-a-single-column.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -528,19 +534,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.link_prediction" />
-      <item itemvalue="Python.feature_matrix" />
-      <item itemvalue="Python.visualizing_networks" />
-      <item itemvalue="Python.quiz" />
-      <item itemvalue="Python.assignment" />
+      <item itemvalue="Python.comparing-two-dataframes-and-loop-through-them-to-test-a-condition" />
+      <item itemvalue="Python.calculation-of-conditional-statement-within-pandas" />
+      <item itemvalue="Python.search-a-pandas-dataframe-having-hierarchical-indexing-by-a-single-column" />
+      <item itemvalue="Python.dataframe-mean-gives-insane-large-numbers-with-pyserial" />
+      <item itemvalue="Python.how-to-replace-nan-values-in-one-dataframe-with-values-from-another" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.assignment" />
-        <item itemvalue="Python.quiz" />
-        <item itemvalue="Python.feature_matrix" />
-        <item itemvalue="Python.visualizing_networks" />
-        <item itemvalue="Python.link_prediction" />
+        <item itemvalue="Python.how-to-replace-nan-values-in-one-dataframe-with-values-from-another" />
+        <item itemvalue="Python.dataframe-mean-gives-insane-large-numbers-with-pyserial" />
+        <item itemvalue="Python.search-a-pandas-dataframe-having-hierarchical-indexing-by-a-single-column" />
+        <item itemvalue="Python.comparing-two-dataframes-and-loop-through-them-to-test-a-condition" />
+        <item itemvalue="Python.calculation-of-conditional-statement-within-pandas" />
       </list>
     </recent_temporary>
   </component>
@@ -800,7 +806,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582799457639</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="applied_social_network_analysis week 4 &amp; assignment completed">
+      <created>1582984086950</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1582984086950</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -816,20 +829,20 @@
     <frame x="-8" y="-8" width="1382" height="703" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34114978" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34266263" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32864675" />
-      <window_info active="true" anchor="bottom" x="19" y="279" width="1322" height="187" id="Run" order="2" sideWeight="0.5975794" visible="true" weight="0.56766254" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" x="19" y="279" width="1322" height="187" id="Run" order="2" sideWeight="0.5975794" visible="true" weight="0.40246046" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3989455" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.40166414" side_tool="true" weight="0.51318103" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49924356" weight="0.32864675" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49924356" weight="0.4463972" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.40242058" side_tool="true" weight="0.66608083" />
-      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49924356" weight="0.37258348" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49924356" weight="0.36203867" />
       <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.32864675" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -863,7 +876,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="stack questions" />
     <MESSAGE value="course 2 complete" />
     <MESSAGE value="course 3 week 1 completed with assignment" />
     <MESSAGE value="course 3 week 2 classification and regression" />
@@ -888,319 +900,10 @@
     <MESSAGE value="applied_social_network_analysis week 1 resource files" />
     <MESSAGE value="applied_social_network_analysis week 3" />
     <MESSAGE value="applied_social_network_analysis week 3 assignment completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="applied_social_network_analysis week 3 assignment completed" />
+    <MESSAGE value="applied_social_network_analysis week 4 &amp; assignment completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="applied_social_network_analysis week 4 &amp; assignment completed" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/applied_text_mining/basic_natural_language_processing/basic_nlp_tasks_with_nltk.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="49" column="6" selection-start-line="49" selection-start-column="2" selection-end-line="49" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_text_mining/basic_natural_language_processing/advanced_nlp_tasks_with_nltk.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_text_mining/topic_modelling/semantic_text_similarity.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_text_mining/topic_modelling/assignment.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="164" selection-start-line="164" selection-end-line="164" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_text_mining/topic_modelling/assignment2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="82" column="20" lean-forward="true" selection-start-line="82" selection-start-column="20" selection-end-line="82" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/networkx/classes/graph.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="18" column="34" lean-forward="true" selection-start-line="15" selection-end-line="18" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/bipartite_graph.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/basic_networkX_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="53">
-          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/bipartite_graph_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/G_adjlist.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/G_edgelist.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/quiz1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/chess_graph.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/chess_example.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="41" column="33" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/loading_graphs_networkx.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="56" lean-forward="true" selection-start-line="54" selection-end-line="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/basic_networkX_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="53" column="31" selection-start-line="53" selection-start-column="31" selection-end-line="53" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/bipartite_graph_3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/assignment1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="106" selection-start-line="80" selection-end-line="106" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/clustering_coeff.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="3" selection-start-line="3" selection-end-line="4" selection-end-column="90" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/robustness1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/distance_measure.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/distance_karate_club.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/robustness.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" selection-start-line="18" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/degree_cenetrality.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/closeness_centrality.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="84" selection-start-line="18" selection-start-column="84" selection-end-line="18" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/quiz.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="15" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack/archive1/test29.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="12" column="90" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="90" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/betweenness_centrality.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="46" column="89" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/basic_page_rank.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/hubs_and_authorities.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/assignment.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="109" column="20" selection-start-line="109" selection-start-column="20" selection-end-line="109" selection-end-column="20" />
-          <folding>
-            <element signature="e#238#259#0" expanded="true" />
-            <marker date="1582798465766" expanded="true" signature="3125:3265" ph="..." />
-            <marker date="1582798465766" expanded="true" signature="3747:5114" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/connectivity.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="33" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/assignment.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="16" column="56" selection-start-line="13" selection-start-column="4" selection-end-line="16" selection-end-column="56" />
-          <folding>
-            <marker date="1582569266000" expanded="true" signature="643:648" ph="..." />
-            <marker date="1582569266000" expanded="true" signature="5270:5271" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/networkx/readwrite/gpickle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="104" column="13" selection-start-line="104" selection-start-column="4" selection-end-line="104" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/visualizing_networks.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/applications/small_world_model.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/applications/quiz.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/applications/feature_matrix.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/support_vector_machine_real_dataset.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="65" selection-start-line="9" selection-end-line="9" selection-end-column="65" />
-          <folding>
-            <element signature="e#0#47#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/mushroom.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="72" selection-start-line="72" selection-end-line="72" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/validation_curve_example.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/sklearn/ensemble/_forest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="94">
@@ -1208,20 +911,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/assignment.py">
+    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/applications/assignment.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="55" />
+        <state relative-caret-position="89">
+          <caret line="212" column="28" selection-start-line="212" selection-start-column="28" selection-end-line="214" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/applications/link_prediction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="101" selection-start-line="10" selection-end-line="10" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/applications/preferential_attachment_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/applications/degree_distribution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" selection-start-line="4" selection-end-line="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/neural_networks/mlp_classification_alpha_regularization.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
+        <state relative-caret-position="136">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#0#134#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1233,63 +954,310 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/neural_networks/activation_functions.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/neural_networks/mlp_classification_two_hidden_layer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" column="104" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/assignment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/validation_curve_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/59326903/adding-total-row-to-pandas-dataframe-groupby.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/59356372/pandas-compare-multiple-columns-to-a-specific-column-in-a-dataframe.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/59344408/pandas-counting-values.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/59326903/test1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/48888302/pandas-groupby-and-sum-total-of-group.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/43578703/how-to-concatenate-two-frames-with-different-number-of-columns-in-pandas.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/59362008/python-pairwise-count-items-need-urgent-help-please.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/59442098/string-values-are-repeating-when-use-sample-function.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/59442314/split-concatenated-year-into-two-rows-in-pandas.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/59624798/drop-similar-text-rows-of-one-column-in-python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/60484865/group-by-dataframe-with-condition-on-similarity-metric-between-two-strings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="16" column="52" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/60494388/passing-values-with-df-insert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/60493991/best-way-of-joining-many-time-series-in-pandas-to-a-single-datetime-index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="23" selection-start-line="23" selection-end-line="23" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/60500589/defining-a-custom-pandas-holiday-range-without-a-year.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/26593908/how-to-set-holidays-with-pandas-in-a-timezone-aware-way.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="13" column="11" selection-start-line="13" selection-end-line="13" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/60499586/using-pandas-holidays-holiday-ranges-to-filter-datetimes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="29" selection-start-line="29" selection-end-line="29" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/60504013/python-what-is-the-fastest-way-to-join-values-two-dataframe-columns.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/archive1/test31.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="4" column="43" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/60502959/how-to-calculate-variance-for-2d-columns-in-dataframe.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
+          <caret lean-forward="true" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/60498999/line2d-object-has-no-property-kind.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/60506828/pandas-left-join-on-multiple-keys-with-different-index-lengths.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="61" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/60508141/merging-pandas-dataframes-on-multiindex-column-values.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="12" column="81" selection-start-line="12" selection-start-column="81" selection-end-line="12" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/archive1/test32.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/archive1/test29.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/scipy/stats/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="340" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intro_data_science_python/statistical_analysis_in_python/assignment4/assignment4.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="275" column="21" selection-start-line="275" selection-start-column="21" selection-end-line="275" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/60507860/extracting-count-of-differences-from-3-columns-in-pandas-dataframe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="34" selection-start-line="6" selection-end-line="34" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/60531162/colormap-for-errorbars.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/60546919/splitting-separate-itemsets-that-are-concatenated-into-one-string-with-a-delimit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/60550572/convert-datetime-pandas-columns-name-to-yyyy-mm-dd-string-at-read.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="59" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/60531162/error_data">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/60531227/applying-a-correlation-function-to-multiple-subsets-of-a-dataframe-and-concatena.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="35" selection-start-line="27" selection-end-line="35" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <marker date="1583346365998" expanded="true" signature="667:672" ph="..." />
+            <marker date="1583346365998" expanded="true" signature="667:693" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/60530619/import-error-using-pandas-resample-after-upgrading-to-pandas-0-25-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/59424702/group-by-calendar-week-crossing-years.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" selection-start-line="4" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/60551202/calculation-of-conditional-statement-within-pandas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="5" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/pandas/core/frame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="2964" selection-start-line="2964" selection-end-line="2964" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/60551236/comparing-two-dataframes-and-loop-through-them-to-test-a-condition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <marker date="1583522832042" expanded="true" signature="1064:1167" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/60580248/search-a-pandas-dataframe-having-hierarchical-indexing-by-a-single-column.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="89" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/neural_networks/mlp_classification_two_hidden_layer.py">
+    <entry file="file://$PROJECT_DIR$/stack/60580533/dataframe-mean-gives-insane-large-numbers-with-pyserial.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="104" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="104" />
-          <folding>
-            <element signature="e#0#126#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="153">
+          <caret line="9" column="64" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/applications/preferential_attachment_model.py">
+    <entry file="file://$PROJECT_DIR$/stack/60581001/how-to-replace-nan-values-in-one-dataframe-with-values-from-another.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        <state relative-caret-position="119">
+          <caret line="7" column="46" lean-forward="true" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
           <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/applications/degree_distribution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="4" selection-end-line="10" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/applications/link_prediction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="101" lean-forward="true" selection-start-line="10" selection-end-line="10" selection-end-column="101" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/applications/assignment.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="212" column="28" lean-forward="true" selection-start-line="212" selection-start-column="28" selection-end-line="214" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-            <marker date="1582912286930" expanded="true" signature="1034:1233" ph="..." />
-            <marker date="1582912286930" expanded="true" signature="1286:1291" ph="..." />
-            <marker date="1582912286930" expanded="true" signature="7872:10214" ph="..." />
+            <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
