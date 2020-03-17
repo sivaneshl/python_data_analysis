@@ -5,33 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2359d117-368d-4b39-8789-ebc347835e74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/stack/26593908/how-to-set-holidays-with-pandas-in-a-timezone-aware-way.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/59624798/drop-similar-text-rows-of-one-column-in-python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/60484865/group-by-dataframe-with-condition-on-similarity-metric-between-two-strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/60493991/best-way-of-joining-many-time-series-in-pandas-to-a-single-datetime-index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/60494388/passing-values-with-df-insert.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/60498999/line2d-object-has-no-property-kind.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/60499586/using-pandas-holidays-holiday-ranges-to-filter-datetimes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/60500589/defining-a-custom-pandas-holiday-range-without-a-year.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/60502959/how-to-calculate-variance-for-2d-columns-in-dataframe.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/60504013/python-what-is-the-fastest-way-to-join-values-two-dataframe-columns.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/60506828/pandas-left-join-on-multiple-keys-with-different-index-lengths.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/60507860/extracting-count-of-differences-from-3-columns-in-pandas-dataframe.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/60508141/merging-pandas-dataframes-on-multiindex-column-values.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/60530619/import-error-using-pandas-resample-after-upgrading-to-pandas-0-25-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/60531162/colormap-for-errorbars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/60531162/error_data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/60531227/applying-a-correlation-function-to-multiple-subsets-of-a-dataframe-and-concatena.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/60546919/splitting-separate-itemsets-that-are-concatenated-into-one-string-with-a-delimit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/60550572/convert-datetime-pandas-columns-name-to-yyyy-mm-dd-string-at-read.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/60550572/text.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/60551202/calculation-of-conditional-statement-within-pandas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/60551236/comparing-two-dataframes-and-loop-through-them-to-test-a-condition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/60580248/search-a-pandas-dataframe-having-hierarchical-indexing-by-a-single-column.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/60580533/dataframe-mean-gives-insane-large-numbers-with-pyserial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/60581001/how-to-replace-nan-values-in-one-dataframe-with-values-from-another.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/60551236/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/60551236/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/60611422/attributeerror-dataframe-object-has-no-attribute-is-impossible-i-got-thi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/60611439/pandas-why-doesnt-rolling-work-in-this-case-where-i-am-doing-a-group-by-follow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/60611631/how-to-use-the-pandas-shift-function-along-with-specific-column-conditions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/60626176/pivoting-an-empty-dataframe-produces-a-columns-multiindex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/60632964/python-dataframe-with-start-date-and-end-date-decompress-to-1-date-field.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/60634307/filter-data-based-on-month-and-id-and-sum-in-pandas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/60637092/group-seperated-counting-values-in-a-pandas-dataframe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/60646354/if-and-statement-between-to-pandas-dataframes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/60646502/replacing-values-inplace-in-a-pandas-dataframe-work-not-working-with-replace.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/60649293/how-do-i-make-a-plot-like-the-one-given-below-with-df-plot-function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/60655872/change-date-column-with-different-format-pandas-python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/60658428/delete-duplicated-rows-based-on-conditions-pandas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/60660812/how-can-i-find-a-combination-of-rows-from-a-table-where-each-column-sums-a-speci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/60660890/plotting-a-histogram-gives-height-error-msg-part-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/60667162/python-dataframe-currency-conversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/60672224/build-hierarchy-in-pandas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/60673107/typeerror-unsupported-operand-types-for-timedelta-and-datetime-time-p.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/60675048/trying-to-use-first-23-rows-of-a-pandas-data-frame-as-headers-and-then-pivot-on.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/60685412/wrong-max-values-returned-by-panda-on-reading-a-csv-data-file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/60688710/pandas-dataframe-merge-unique-id-and-represent-it-in-a-single-row.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/60699779/round-the-time-up-to-the-nearest-hour-pandas-series.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/60700465/create-categorical-column-based-on-row-records.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/60700465/ray_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/60701656/python-how-to-compare-consecutive-rows-and-take-difference-of-another-correspo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/60710091/how-do-i-calculate-a-function-between-each-pair-of-rows-of-a-group-in-a-pandas-d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/60719524/how-can-i-determine-the-scale-range-in-y-axis-in-seaborn-line-graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/60720847/save-excel-formula-in-the-dataframe-and-then-write-it-to-excel.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stack/59424702/group-by-calendar-week-crossing-years.py" beforeDir="false" afterPath="$PROJECT_DIR$/stack/59424702/group-by-calendar-week-crossing-years.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stack/60551236/comparing-two-dataframes-and-loop-through-them-to-test-a-condition.py" beforeDir="false" afterPath="$PROJECT_DIR$/stack/60551236/comparing-two-dataframes-and-loop-through-them-to-test-a-condition.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,36 +72,36 @@
           <entry key="ipynb" value="1" />
           <entry key="jpg" value="1" />
           <entry key="png" value="4" />
-          <entry key="py" value="531" />
+          <entry key="py" value="579" />
           <entry key="python_objects" value="1" />
-          <entry key="txt" value="5" />
+          <entry key="txt" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IPNB" value="1" />
           <entry key="Image" value="5" />
-          <entry key="PLAIN_TEXT" value="28" />
-          <entry key="Python" value="532" />
+          <entry key="PLAIN_TEXT" value="29" />
+          <entry key="Python" value="580" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="4539" />
+          <entry key="Python Console" value="5798" />
           <entry key="cfg" value="143" />
           <entry key="csv" value="115" />
           <entry key="dummy" value="12" />
           <entry key="error_data" value="206" />
           <entry key="gitignore" value="30" />
-          <entry key="py" value="180432" />
+          <entry key="py" value="195429" />
           <entry key="python_objects" value="358" />
-          <entry key="txt" value="1042" />
+          <entry key="txt" value="1074" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="1548" />
-          <entry key="Python" value="185328" />
+          <entry key="PLAIN_TEXT" value="1580" />
+          <entry key="Python" value="201584" />
           <entry key="RegExp" value="1" />
         </counts>
       </usages-collector>
@@ -106,10 +110,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stack/60550572/convert-datetime-pandas-columns-name-to-yyyy-mm-dd-string-at-read.py">
+        <entry file="file://$PROJECT_DIR$/stack/60701656/python-how-to-compare-consecutive-rows-and-take-difference-of-another-correspo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="9" column="59" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
+            <state relative-caret-position="251">
+              <caret line="20" selection-start-line="20" selection-end-line="21" selection-end-column="9" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -118,44 +122,77 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stack/60551236/comparing-two-dataframes-and-loop-through-them-to-test-a-condition.py">
+        <entry file="file://$PROJECT_DIR$/stack/60700465/create-categorical-column-based-on-row-records.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="98">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stack/60710091/how-do-i-calculate-a-function-between-each-pair-of-rows-of-a-group-in-a-pandas-d.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="26" column="10" selection-start-line="22" selection-end-line="26" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+                <marker date="1584382252045" expanded="true" signature="409:681" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/histograms/histogram_gridspec.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stack/60719524/how-can-i-determine-the-scale-range-in-y-axis-in-seaborn-line-graph.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
-              <caret line="30" selection-start-line="30" selection-end-line="30" />
+              <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
-                <marker date="1583522832042" expanded="true" signature="1064:1167" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stack/60580248/search-a-pandas-dataframe-having-hierarchical-indexing-by-a-single-column.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="89" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stack/60580533/dataframe-mean-gives-insane-large-numbers-with-pyserial.py">
+        <entry file="file://$PROJECT_DIR$/stack/60720847/save-excel-formula-in-the-dataframe-and-then-write-it-to-excel.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="64" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
+              <caret line="9" column="63" selection-start-line="9" selection-start-column="63" selection-end-line="9" selection-end-column="63" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/stack/60581001/how-to-replace-nan-values-in-one-dataframe-with-values-from-another.py">
+        <entry file="file://$PROJECT_DIR$/stack/60722128/resample-pandas-time-series-at-custom-interval-and-get-interval-number-within-a.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="46" lean-forward="true" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+            <state relative-caret-position="34">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/applied_visualization/seaborn/seaborn1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="21" selection-start-line="21" selection-end-line="21" selection-end-column="16" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -164,60 +201,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stack/60551202/calculation-of-conditional-statement-within-pandas.py">
+        <entry file="file://$PROJECT_DIR$/stack/archive1/test40.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="5" selection-end-column="12" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="141">
+              <caret line="12" column="76" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="76" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stack/60531162/error_data">
+        <entry file="file://$PROJECT_DIR$/stack/archive1/test25.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stack/60531227/applying-a-correlation-function-to-multiple-subsets-of-a-dataframe-and-concatena.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="35" selection-start-line="27" selection-end-line="35" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-                <marker date="1583346365998" expanded="true" signature="667:672" ph="..." />
-                <marker date="1583346365998" expanded="true" signature="667:693" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stack/60530619/import-error-using-pandas-resample-after-upgrading-to-pandas-0-25-1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stack/59424702/group-by-calendar-week-crossing-years.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="7" selection-start-line="4" selection-end-line="7" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="172">
+              <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -233,36 +229,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>fruit</find>
-      <find>dates_df</find>
-      <find>remaining_df</find>
-      <find>nlargest</find>
-      <find>naive_</find>
-      <find>LinearRegression</find>
-      <find>toke</find>
-      <find>tag</find>
-      <find>egde</find>
-      <find>G.edge</find>
-      <find>np.where</find>
-      <find>'inner</find>
-      <find>groupby</find>
-      <find>_node</find>
-      <find>nodes</find>
-      <find>G</find>
-      <find>predict_proba</find>
-      <find>fitted_model</find>
-      <find>predict_pro</find>
-      <find>plot_mushroom_boundary</find>
-      <find>MLP</find>
       <find>holidays_df</find>
       <find>range(</find>
       <find>pd.Data</find>
       <find>Nan</find>
-      <find>shift</find>
       <find>p-value</find>
       <find>t-sta</find>
       <find>statistic</find>
       <find>datetimeinde</find>
+      <find>shift</find>
+      <find>np.where</find>
+      <find>Seq</find>
+      <find>for idx2, row2 in df2.iterrows()</find>
+      <find>GDP</find>
+      <find>df.plot</find>
+      <find>pos</find>
+      <find>pos,</find>
+      <find>plt.le</find>
+      <find>df.loc[</find>
+      <find>range</find>
+      <find>apply(</find>
+      <find>.at</find>
+      <find>lambda</find>
+      <find>agg(lam</find>
+      <find>grp</find>
+      <find>grp.</find>
+      <find>transform</find>
+      <find>seq</find>
+      <find>sns</find>
+      <find>ax.set</find>
+      <find>ylim</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;</replace>
@@ -292,8 +288,8 @@
       <dir>C:\python_data_analysis\intro_data_science_python</dir>
       <dir>C:\python_data_analysis\applied_machine_learning\supervised_machine_learning</dir>
       <dir>C:\python_data_analysis\applied_machine_learning</dir>
-      <dir>C:\python_data_analysis</dir>
       <dir>C:\python_data_analysis\stack</dir>
+      <dir>C:\python_data_analysis</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -303,36 +299,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/chess_example.py" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/quiz1.py" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/basic_networkX/assignment1.py" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/clustering_coeff.py" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/distance_measure.py" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/distance_karate_club.py" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/connectivity.py" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/robustness.py" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/robustness1.py" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/assignment.py" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/degree_cenetrality.py" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/closeness_centrality.py" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/betweenness_centrality.py" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/basic_page_rank.py" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/hubs_and_authorities.py" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/quiz.py" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/influence_measures_network_centralization/assignment.py" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/applications/degree_distribution.py" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/applications/preferential_attachment_model.py" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/applications/small_world_model.py" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/applications/link_prediction.py" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/visualizing_networks.py" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/applications/feature_matrix.py" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/applications/quiz.py" />
-        <option value="$PROJECT_DIR$/applied_social_network_analysis/applications/assignment.py" />
-        <option value="$PROJECT_DIR$/stack/59624798/drop-similar-text-rows-of-one-column-in-python.py" />
-        <option value="$PROJECT_DIR$/stack/60484865/group-by-dataframe-with-condition-on-similarity-metric-between-two-strings.py" />
-        <option value="$PROJECT_DIR$/stack/60493991/best-way-of-joining-many-time-series-in-pandas-to-a-single-datetime-index.py" />
-        <option value="$PROJECT_DIR$/stack/60494388/passing-values-with-df-insert.py" />
-        <option value="$PROJECT_DIR$/stack/60500589/defining-a-custom-pandas-holiday-range-without-a-year.py" />
         <option value="$PROJECT_DIR$/stack/26593908/how-to-set-holidays-with-pandas-in-a-timezone-aware-way.py" />
         <option value="$PROJECT_DIR$/stack/60499586/using-pandas-holidays-holiday-ranges-to-filter-datetimes.py" />
         <option value="$PROJECT_DIR$/stack/60504013/python-what-is-the-fastest-way-to-join-values-two-dataframe-columns.py" />
@@ -350,10 +316,40 @@
         <option value="$PROJECT_DIR$/stack/60550572/convert-datetime-pandas-columns-name-to-yyyy-mm-dd-string-at-read.py" />
         <option value="$PROJECT_DIR$/stack/60531227/applying-a-correlation-function-to-multiple-subsets-of-a-dataframe-and-concatena.py" />
         <option value="$PROJECT_DIR$/stack/60551202/calculation-of-conditional-statement-within-pandas.py" />
-        <option value="$PROJECT_DIR$/stack/60551236/comparing-two-dataframes-and-loop-through-them-to-test-a-condition.py" />
         <option value="$PROJECT_DIR$/stack/60580248/search-a-pandas-dataframe-having-hierarchical-indexing-by-a-single-column.py" />
         <option value="$PROJECT_DIR$/stack/60580533/dataframe-mean-gives-insane-large-numbers-with-pyserial.py" />
         <option value="$PROJECT_DIR$/stack/60581001/how-to-replace-nan-values-in-one-dataframe-with-values-from-another.py" />
+        <option value="$PROJECT_DIR$/stack/60611631/how-to-use-the-pandas-shift-function-along-with-specific-column-conditions.py" />
+        <option value="$PROJECT_DIR$/stack/60611439/pandas-why-doesnt-rolling-work-in-this-case-where-i-am-doing-a-group-by-follow.py" />
+        <option value="$PROJECT_DIR$/stack/60611422/attributeerror-dataframe-object-has-no-attribute-is-impossible-i-got-thi.py" />
+        <option value="$PROJECT_DIR$/stack/60551236/test.py" />
+        <option value="$PROJECT_DIR$/stack/60551236/comparing-two-dataframes-and-loop-through-them-to-test-a-condition.py" />
+        <option value="$PROJECT_DIR$/stack/60551236/test1.py" />
+        <option value="$PROJECT_DIR$/stack/60632964/python-dataframe-with-start-date-and-end-date-decompress-to-1-date-field.py" />
+        <option value="$PROJECT_DIR$/stack/60637092/group-seperated-counting-values-in-a-pandas-dataframe.py" />
+        <option value="$PROJECT_DIR$/stack/60626176/pivoting-an-empty-dataframe-produces-a-columns-multiindex.py" />
+        <option value="$PROJECT_DIR$/stack/60649293/how-do-i-make-a-plot-like-the-one-given-below-with-df-plot-function.py" />
+        <option value="$PROJECT_DIR$/stack/60646502/replacing-values-inplace-in-a-pandas-dataframe-work-not-working-with-replace.py" />
+        <option value="$PROJECT_DIR$/stack/60658428/delete-duplicated-rows-based-on-conditions-pandas.py" />
+        <option value="$PROJECT_DIR$/stack/60634307/filter-data-based-on-month-and-id-and-sum-in-pandas.py" />
+        <option value="$PROJECT_DIR$/stack/60655872/change-date-column-with-different-format-pandas-python.py" />
+        <option value="$PROJECT_DIR$/stack/60660890/plotting-a-histogram-gives-height-error-msg-part-2.py" />
+        <option value="$PROJECT_DIR$/stack/60667162/python-dataframe-currency-conversion.py" />
+        <option value="$PROJECT_DIR$/stack/60660812/how-can-i-find-a-combination-of-rows-from-a-table-where-each-column-sums-a-speci.py" />
+        <option value="$PROJECT_DIR$/stack/60675048/trying-to-use-first-23-rows-of-a-pandas-data-frame-as-headers-and-then-pivot-on.py" />
+        <option value="$PROJECT_DIR$/stack/60685412/wrong-max-values-returned-by-panda-on-reading-a-csv-data-file.py" />
+        <option value="$PROJECT_DIR$/stack/60688710/pandas-dataframe-merge-unique-id-and-represent-it-in-a-single-row.py" />
+        <option value="$PROJECT_DIR$/stack/60673107/typeerror-unsupported-operand-types-for-timedelta-and-datetime-time-p.py" />
+        <option value="$PROJECT_DIR$/stack/60672224/build-hierarchy-in-pandas.py" />
+        <option value="$PROJECT_DIR$/stack/60646354/if-and-statement-between-to-pandas-dataframes.py" />
+        <option value="$PROJECT_DIR$/stack/60701656/python-how-to-compare-consecutive-rows-and-take-difference-of-another-correspo.py" />
+        <option value="$PROJECT_DIR$/stack/60699779/round-the-time-up-to-the-nearest-hour-pandas-series.py" />
+        <option value="$PROJECT_DIR$/stack/60700465/ray_test.txt" />
+        <option value="$PROJECT_DIR$/stack/60700465/create-categorical-column-based-on-row-records.py" />
+        <option value="$PROJECT_DIR$/stack/60710091/how-do-i-calculate-a-function-between-each-pair-of-rows-of-a-group-in-a-pandas-d.py" />
+        <option value="$PROJECT_DIR$/stack/60719524/how-can-i-determine-the-scale-range-in-y-axis-in-seaborn-line-graph.py" />
+        <option value="$PROJECT_DIR$/stack/60720847/save-excel-formula-in-the-dataframe-and-then-write-it-to-excel.py" />
+        <option value="$PROJECT_DIR$/stack/60722128/resample-pandas-time-series-at-custom-interval-and-get-interval-number-within-a.py" />
       </list>
     </option>
   </component>
@@ -378,23 +374,6 @@
               <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="stack" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="stack" type="462c0819:PsiDirectoryNode" />
-              <item name="60531227" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_data_analysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="stack" type="462c0819:PsiDirectoryNode" />
-              <item name="60551236" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -404,7 +383,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="C:/IRM/work/SKPE-T2/python_data_analysis" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -427,8 +406,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.how-to-replace-nan-values-in-one-dataframe-with-values-from-another">
-    <configuration name="calculation-of-conditional-statement-within-pandas" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.save-excel-formula-in-the-dataframe-and-then-write-it-to-excel">
+    <configuration name="create-categorical-column-based-on-row-records" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -436,11 +415,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stack/60551202" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stack/60700465" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stack/60551202/calculation-of-conditional-statement-within-pandas.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stack/60700465/create-categorical-column-based-on-row-records.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -449,7 +428,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="comparing-two-dataframes-and-loop-through-them-to-test-a-condition" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="how-can-i-determine-the-scale-range-in-y-axis-in-seaborn-line-graph" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -457,11 +436,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stack/60551236" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stack/60719524" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stack/60551236/comparing-two-dataframes-and-loop-through-them-to-test-a-condition.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stack/60719524/how-can-i-determine-the-scale-range-in-y-axis-in-seaborn-line-graph.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -470,7 +449,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dataframe-mean-gives-insane-large-numbers-with-pyserial" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="how-do-i-calculate-a-function-between-each-pair-of-rows-of-a-group-in-a-pandas-d" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -478,11 +457,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stack/60580533" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stack/60710091" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stack/60580533/dataframe-mean-gives-insane-large-numbers-with-pyserial.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stack/60710091/how-do-i-calculate-a-function-between-each-pair-of-rows-of-a-group-in-a-pandas-d.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -491,7 +470,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="how-to-replace-nan-values-in-one-dataframe-with-values-from-another" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="round-the-time-up-to-the-nearest-hour-pandas-series" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -499,11 +478,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stack/60581001" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stack/60699779" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stack/60581001/how-to-replace-nan-values-in-one-dataframe-with-values-from-another.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stack/60699779/round-the-time-up-to-the-nearest-hour-pandas-series.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -512,7 +491,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="search-a-pandas-dataframe-having-hierarchical-indexing-by-a-single-column" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="save-excel-formula-in-the-dataframe-and-then-write-it-to-excel" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -520,11 +499,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stack/60580248" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stack/60720847" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stack/60580248/search-a-pandas-dataframe-having-hierarchical-indexing-by-a-single-column.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stack/60720847/save-excel-formula-in-the-dataframe-and-then-write-it-to-excel.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -534,19 +513,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.comparing-two-dataframes-and-loop-through-them-to-test-a-condition" />
-      <item itemvalue="Python.calculation-of-conditional-statement-within-pandas" />
-      <item itemvalue="Python.search-a-pandas-dataframe-having-hierarchical-indexing-by-a-single-column" />
-      <item itemvalue="Python.dataframe-mean-gives-insane-large-numbers-with-pyserial" />
-      <item itemvalue="Python.how-to-replace-nan-values-in-one-dataframe-with-values-from-another" />
+      <item itemvalue="Python.round-the-time-up-to-the-nearest-hour-pandas-series" />
+      <item itemvalue="Python.create-categorical-column-based-on-row-records" />
+      <item itemvalue="Python.how-do-i-calculate-a-function-between-each-pair-of-rows-of-a-group-in-a-pandas-d" />
+      <item itemvalue="Python.how-can-i-determine-the-scale-range-in-y-axis-in-seaborn-line-graph" />
+      <item itemvalue="Python.save-excel-formula-in-the-dataframe-and-then-write-it-to-excel" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.how-to-replace-nan-values-in-one-dataframe-with-values-from-another" />
-        <item itemvalue="Python.dataframe-mean-gives-insane-large-numbers-with-pyserial" />
-        <item itemvalue="Python.search-a-pandas-dataframe-having-hierarchical-indexing-by-a-single-column" />
-        <item itemvalue="Python.comparing-two-dataframes-and-loop-through-them-to-test-a-condition" />
-        <item itemvalue="Python.calculation-of-conditional-statement-within-pandas" />
+        <item itemvalue="Python.save-excel-formula-in-the-dataframe-and-then-write-it-to-excel" />
+        <item itemvalue="Python.how-can-i-determine-the-scale-range-in-y-axis-in-seaborn-line-graph" />
+        <item itemvalue="Python.how-do-i-calculate-a-function-between-each-pair-of-rows-of-a-group-in-a-pandas-d" />
+        <item itemvalue="Python.create-categorical-column-based-on-row-records" />
+        <item itemvalue="Python.round-the-time-up-to-the-nearest-hour-pandas-series" />
       </list>
     </recent_temporary>
   </component>
@@ -813,7 +792,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582984086950</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="stack 03/08">
+      <created>1583607558021</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1583607558022</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -829,12 +815,12 @@
     <frame x="-8" y="-8" width="1382" height="703" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34266263" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4986226" visible="true" weight="0.34266263" />
+      <window_info id="Structure" order="1" sideWeight="0.5013774" side_tool="true" weight="0.34266263" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32864675" />
-      <window_info active="true" anchor="bottom" x="19" y="279" width="1322" height="187" id="Run" order="2" sideWeight="0.5975794" visible="true" weight="0.40246046" />
+      <window_info anchor="bottom" x="19" y="279" width="1322" height="187" id="Run" order="2" sideWeight="0.5975794" visible="true" weight="0.38488576" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3989455" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -842,7 +828,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49924356" weight="0.32864675" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49924356" weight="0.4463972" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.40242058" side_tool="true" weight="0.66608083" />
-      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49924356" weight="0.36203867" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49924356" weight="0.5746924" />
       <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.32864675" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -876,7 +862,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="course 2 complete" />
     <MESSAGE value="course 3 week 1 completed with assignment" />
     <MESSAGE value="course 3 week 2 classification and regression" />
     <MESSAGE value="course 3 week 2 linear, ridge, lasso and polynomial regression" />
@@ -901,302 +886,10 @@
     <MESSAGE value="applied_social_network_analysis week 3" />
     <MESSAGE value="applied_social_network_analysis week 3 assignment completed" />
     <MESSAGE value="applied_social_network_analysis week 4 &amp; assignment completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="applied_social_network_analysis week 4 &amp; assignment completed" />
+    <MESSAGE value="stack 03/08" />
+    <option name="LAST_COMMIT_MESSAGE" value="stack 03/08" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/sklearn/ensemble/_forest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="1100" column="8" selection-start-line="1100" selection-start-column="8" selection-end-line="1100" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/applications/assignment.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="212" column="28" selection-start-line="212" selection-start-column="28" selection-end-line="214" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/applications/link_prediction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="101" selection-start-line="10" selection-end-line="10" selection-end-column="101" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/applications/preferential_attachment_model.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/applications/degree_distribution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="10" selection-start-line="4" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/neural_networks/mlp_classification_alpha_regularization.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/neural_networks/mlp_classification_activation_functions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/neural_networks/activation_functions.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/neural_networks/mlp_classification_two_hidden_layer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="10" column="104" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="104" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning_2/assignment.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applied_machine_learning/supervised_machine_learning/validation_curve_example.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack/59326903/adding-total-row-to-pandas-dataframe-groupby.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack/59356372/pandas-compare-multiple-columns-to-a-specific-column-in-a-dataframe.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack/59344408/pandas-counting-values.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack/59326903/test1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack/48888302/pandas-groupby-and-sum-total-of-group.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack/43578703/how-to-concatenate-two-frames-with-different-number-of-columns-in-pandas.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack/59362008/python-pairwise-count-items-need-urgent-help-please.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack/59442098/string-values-are-repeating-when-use-sample-function.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack/59442314/split-concatenated-year-into-two-rows-in-pandas.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack/59624798/drop-similar-text-rows-of-one-column-in-python.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack/60484865/group-by-dataframe-with-condition-on-similarity-metric-between-two-strings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="16" column="52" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack/60494388/passing-values-with-df-insert.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack/60493991/best-way-of-joining-many-time-series-in-pandas-to-a-single-datetime-index.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="23" selection-start-line="23" selection-end-line="23" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack/60500589/defining-a-custom-pandas-holiday-range-without-a-year.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack/26593908/how-to-set-holidays-with-pandas-in-a-timezone-aware-way.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="13" column="11" selection-start-line="13" selection-end-line="13" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack/60499586/using-pandas-holidays-holiday-ranges-to-filter-datetimes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="29" selection-start-line="29" selection-end-line="29" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack/60504013/python-what-is-the-fastest-way-to-join-values-two-dataframe-columns.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack/archive1/test31.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="4" column="43" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack/60502959/how-to-calculate-variance-for-2d-columns-in-dataframe.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" selection-end-line="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack/60498999/line2d-object-has-no-property-kind.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="12" column="42" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack/60506828/pandas-left-join-on-multiple-keys-with-different-index-lengths.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="9" column="61" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack/60508141/merging-pandas-dataframes-on-multiindex-column-values.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="12" column="81" selection-start-line="12" selection-start-column="81" selection-end-line="12" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack/archive1/test32.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack/archive1/test29.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="12" column="37" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/scipy/stats/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="340" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intro_data_science_python/statistical_analysis_in_python/assignment4/assignment4.0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="275" column="21" selection-start-line="275" selection-start-column="21" selection-end-line="275" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack/60507860/extracting-count-of-differences-from-3-columns-in-pandas-dataframe.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="34" selection-start-line="6" selection-end-line="34" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack/60531162/colormap-for-errorbars.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack/60546919/splitting-separate-itemsets-that-are-concatenated-into-one-string-with-a-delimit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack/60550572/convert-datetime-pandas-columns-name-to-yyyy-mm-dd-string-at-read.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="9" column="59" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack/60531162/error_data">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack/60531227/applying-a-correlation-function-to-multiple-subsets-of-a-dataframe-and-concatena.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="35" selection-start-line="27" selection-end-line="35" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-            <marker date="1583346365998" expanded="true" signature="667:672" ph="..." />
-            <marker date="1583346365998" expanded="true" signature="667:693" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack/60530619/import-error-using-pandas-resample-after-upgrading-to-pandas-0-25-1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/stack/59424702/group-by-calendar-week-crossing-years.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -1207,31 +900,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stack/60551202/calculation-of-conditional-statement-within-pandas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="5" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/pandas/core/frame.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="2964" selection-start-line="2964" selection-end-line="2964" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack/60551236/comparing-two-dataframes-and-loop-through-them-to-test-a-condition.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-            <marker date="1583522832042" expanded="true" signature="1064:1167" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1255,10 +927,420 @@
     <entry file="file://$PROJECT_DIR$/stack/60581001/how-to-replace-nan-values-in-one-dataframe-with-values-from-another.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="46" lean-forward="true" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/60551202/calculation-of-conditional-statement-within-pandas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="5" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/archive1/test29.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/60611631/how-to-use-the-pandas-shift-function-along-with-specific-column-conditions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="13" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/60611439/pandas-why-doesnt-rolling-work-in-this-case-where-i-am-doing-a-group-by-follow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/60611422/attributeerror-dataframe-object-has-no-attribute-is-impossible-i-got-thi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/60551236/test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="29" column="24" lean-forward="true" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/60632964/python-dataframe-with-start-date-and-end-date-decompress-to-1-date-field.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/60551236/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="3" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/60637092/group-seperated-counting-values-in-a-pandas-dataframe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/60626176/pivoting-an-empty-dataframe-produces-a-columns-multiindex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/59624798/drop-similar-text-rows-of-one-column-in-python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/60551236/comparing-two-dataframes-and-loop-through-them-to-test-a-condition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="28" column="37" lean-forward="true" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <marker date="1583864519985" expanded="true" signature="1233:1235" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/applied_visualization/plotting_with_pandas/plotting_pandas1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_social_network_analysis/network_connectivity/visualizing_networks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/basic_charting/dejunkify_charts/test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/60649293/how-do-i-make-a-plot-like-the-one-given-below-with-df-plot-function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/60646502/replacing-values-inplace-in-a-pandas-dataframe-work-not-working-with-replace.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="11" selection-start-line="11" selection-end-line="19" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/60658428/delete-duplicated-rows-based-on-conditions-pandas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/60634307/filter-data-based-on-month-and-id-and-sum-in-pandas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13">
+          <caret line="16" column="71" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="71" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/60655872/change-date-column-with-different-format-pandas-python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/60660890/plotting-a-histogram-gives-height-error-msg-part-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="25" selection-end-line="34" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/60667162/python-dataframe-currency-conversion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="11" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/60660812/how-can-i-find-a-combination-of-rows-from-a-table-where-each-column-sums-a-speci.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/60675048/trying-to-use-first-23-rows-of-a-pandas-data-frame-as-headers-and-then-pivot-on.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="20" column="10" selection-start-line="3" selection-end-line="20" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/60685412/wrong-max-values-returned-by-panda-on-reading-a-csv-data-file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="23" selection-start-line="7" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/archive1/test31.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/60688710/pandas-dataframe-merge-unique-id-and-represent-it-in-a-single-row.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/60673107/typeerror-unsupported-operand-types-for-timedelta-and-datetime-time-p.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="16" selection-start-line="3" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/60672224/build-hierarchy-in-pandas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="15" lean-forward="true" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <marker date="1584263170125" expanded="true" signature="203:204" ph="..." />
+            <marker date="1584263170125" expanded="true" signature="243:475" ph="..." />
+            <marker date="1584263170125" expanded="true" signature="243:563" ph="..." />
+            <marker date="1584263170125" expanded="true" signature="459:460" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/60646354/if-and-statement-between-to-pandas-dataframes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="43" column="6" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/archive1/test7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/60699779/round-the-time-up-to-the-nearest-hour-pandas-series.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="24" column="8" lean-forward="true" selection-start-line="23" selection-end-line="24" selection-end-column="8" />
+          <folding>
+            <element signature="e#9#49#0" expanded="true" />
+            <marker date="1584362090105" expanded="true" signature="488:493" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/60700465/ray_test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/archive1/test37.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/59384090/how-to-create-a-new-column-in-multiindex-dataframe-which-is-in-the-format-of-dat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="20" selection-start-line="20" selection-end-line="20" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/archive1/test25.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/60700465/create-categorical-column-based-on-row-records.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/60701656/python-how-to-compare-consecutive-rows-and-take-difference-of-another-correspo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="20" selection-start-line="20" selection-end-line="21" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/archive1/test40.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="12" column="76" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/60710091/how-do-i-calculate-a-function-between-each-pair-of-rows-of-a-group-in-a-pandas-d.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="26" column="10" selection-start-line="22" selection-end-line="26" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <marker date="1584382252045" expanded="true" signature="409:681" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/charting_fundamentals/histograms/histogram_gridspec.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_machine_learning/evaluation/assignment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-912">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applied_plotting_charting_and_data_representation/applied_visualization/seaborn/seaborn1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="21" selection-start-line="21" selection-end-line="21" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/60719524/how-can-i-determine-the-scale-range-in-y-axis-in-seaborn-line-graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/60720847/save-excel-formula-in-the-dataframe-and-then-write-it-to-excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="63" selection-start-line="9" selection-start-column="63" selection-end-line="9" selection-end-column="63" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/60722128/resample-pandas-time-series-at-custom-interval-and-get-interval-number-within-a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
