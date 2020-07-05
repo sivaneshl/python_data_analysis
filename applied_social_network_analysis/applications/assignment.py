@@ -91,8 +91,11 @@ def is_management(node):
 
 def salary_predictions():
     df = pd.DataFrame(index=G.nodes())
+    # df = pd.DataFrame(index=list(G.node.keys()))
     df['ManagementSalary'] = pd.Series(nx.get_node_attributes(G, 'ManagementSalary'))
     df['Department'] = pd.Series(nx.get_node_attributes(G, 'Department'))
+    # df['ManagementSalary'] = pd.Series([G.node[node]['ManagementSalary'] for node in list(G.node.keys())])
+    # df['Department'] = pd.Series([G.node[node]['Department'] for node in list(G.node.keys())])
     df['clustering'] = pd.Series(nx.clustering(G))
     df['degree'] = pd.Series(G.degree())
     df['degCent'] = pd.Series(nx.degree_centrality(G))
